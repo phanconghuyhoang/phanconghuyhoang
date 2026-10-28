@@ -15,6 +15,7 @@ Benchmarks: CTR new channel 2–5% (goal ≥5%), long-form AVD ≥40%, first-30 
 ## Channel snapshots
 | Date | Subs | Views (28d) | Watch hours (365d, public long-form) | Shorts views (90d) |
 |---|---|---|---|---|
+| 2026-10-29 02:30 | 2 | ~0 (nothing public yet) | 0 | 0 |
 
 ## Competitor reference
 - Thoughty2, "Why Was this Huge Ship Found With Nobody On-Board?" (Mary Celeste): 4.2M views, 21:05, question title without the ship's name.
