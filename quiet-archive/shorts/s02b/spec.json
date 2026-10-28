@@ -1,0 +1,34 @@
+{
+"mood": "sea",
+"hook": "THE NOTE WAS FAKE",
+"beats": [
+{
+"img": "ep02/frames/s13_0.png",
+"text": "In April 1921, a fisherman on Hatteras Island said he had found a bottle on the beach, with a note inside.",
+"fit": true
+},
+{
+"img": "ep02/frames/s13_1.png",
+"text": "The note said a missing schooner's crew had been captured by an oil burning boat, and were being held prisoner.",
+"fit": true
+},
+{
+"img": "ep02/frames/s09_1.png",
+"text": "That schooner, the Carroll A. Deering, had been found aground with every sail set and nobody aboard."
+},
+{
+"img": "ep02/frames/s15_0.png",
+"text": "Five government departments were investigating. The note looked like the answer.",
+"fit": true
+},
+{
+"img": "ep02/frames/s14_0.png",
+"text": "Then handwriting experts concluded the fisherman wrote it himself. He admitted it. He had hoped to land a job at the lighthouse.",
+"fit": true
+},
+{
+"img": "ep02/frames/s19_1.png",
+"text": "The only clue pointing to a crime was invented. The eleven men were never found."
+}
+]
+}
