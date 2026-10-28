@@ -1,0 +1,11 @@
+{"crop_x": {"lighthouse_night": 0.58, "doorway": 0.58, "wave": 0.5, "landing_west": 0.5, "sea_calm": 0.5},
+ "beats": [
+  {"visual": "lighthouse_night", "text": "In 1900, three lighthouse keepers vanished from a rock off Scotland."},
+  {"visual": "doorway", "text": "The clock had stopped. Two of their three storm coats were gone."},
+  {"visual": "landing_west", "text": "Then the investigator walked down to the west landing."},
+  {"visual": "landing_west", "text": "A box of ropes, a hundred and ten feet above the sea, had been smashed open."},
+  {"visual": "wave", "text": "Iron railings were bent. A boulder weighing over a ton had moved."},
+  {"visual": "wave", "text": "Something came up that cliff and took all three men."},
+  {"visual": "sea_calm", "text": "The sea never gave them back."},
+  {"visual": "sea_calm", "text": "The full story, and the legend that grew around it, is linked below."}
+ ]}
