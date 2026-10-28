@@ -1,4 +1,4 @@
-# EP01 — Three Lighthouse Keepers Vanished. The Logbook Is All That's Left
+# Three Lighthouse Keepers Vanished. The Logbook Is All That's Left
 
 <!-- Format: each "## scene | visual | caption" block is one visual scene; the paragraphs under it are narrated over that visual. -->
 
@@ -7,7 +7,7 @@ On the twenty-sixth of December, nineteen hundred, a small steamer called the He
 
 There was no flag on the pole. There were no empty supply crates waiting at the landing. Nobody came down the steps to catch a rope. The ship's captain sounded his whistle. Then he fired a signal rocket. The island answered with silence.
 
-Three men had been living on that rock. They were never seen again.
+[[3 MEN. GONE.]] Three men had been living on that rock. They were never seen again.
 
 ## s02 | title | THE FLANNAN ISLES · DECEMBER 1900
 This is one of the most retold mysteries in British history. And that is exactly the problem. Over a hundred and twenty years, the story has picked up a ghost ship, a sea serpent, an overturned chair, a meal left half eaten, and a logbook full of weeping men and prayers.
@@ -47,7 +47,7 @@ The Hesperus was due to visit around the twentieth of December, bringing supplie
 
 It did not get out until the twenty-sixth. Boxing Day.
 
-So for eleven days, from the fifteenth to the twenty-sixth, nobody knew. A light that was supposed to warn ships off the rocks sat dark at the edge of the Atlantic, and the only people who might have explained why were already gone.
+[[11 DAYS OF DARKNESS]] So for eleven days, from the fifteenth to the twenty-sixth, nobody knew. A light that was supposed to warn ships off the rocks sat dark at the edge of the Atlantic, and the only people who might have explained why were already gone.
 
 ## s08 | landing_east | 26 December 1900 · The relief arrives
 When the Hesperus finally arrived, around midday, the captain, Jim Harvie, brought her in to the landing. You already know what he saw, or rather what he didn't. No flag. No crates. No keepers.
@@ -61,7 +61,7 @@ The entrance gate was closed. The main door was closed. Inside, the kitchen fire
 
 In the lamp room, the lamp itself had been cleaned and the oil filled. The station work had been done. That tells us something important. The keepers had finished their routine for the day before whatever happened, happened. They had prepared the light to be lit at dusk. Then nobody lit it.
 
-And there was one detail that would matter more than anything else. In the lobby hung the keepers' oilskins, the heavy waterproof coats they wore to go outside in bad weather. Two sets were missing. One set was still on its hook.
+[[2 COATS MISSING]] And there was one detail that would matter more than anything else. In the lobby hung the keepers' oilskins, the heavy waterproof coats they wore to go outside in bad weather. Two sets were missing. One set was still on its hook.
 
 Moore searched the station and the island and found no one. He went back down to the boat and told the captain.
 
@@ -82,9 +82,9 @@ Then Muirhead walked down to the west landing. And this is where the story stops
 
 The east landing was undamaged. The west landing had been wrecked.
 
-There was a box at the west landing, set into a crevice in the rock about thirty three metres above sea level, around a hundred and ten feet up. It held mooring ropes and landing gear. The box had been broken and its contents were gone. Iron railings had been bent out of shape. A section of the railway track had been torn out of its concrete. A boulder weighing more than a ton had been moved from where it sat. And up on the cliff top, more than sixty metres above the water, the turf had been ripped away as far as ten metres back from the edge.
+[[110 FEET UP]] There was a box at the west landing, set into a crevice in the rock about thirty three metres above sea level, around a hundred and ten feet up. It held mooring ropes and landing gear. The box had been broken and its contents were gone. Iron railings had been bent out of shape. A section of the railway track had been torn out of its concrete. A boulder weighing more than a ton had been moved from where it sat. And up on the cliff top, more than sixty metres above the water, the turf had been ripped away as far as ten metres back from the edge.
 
-Muirhead wrote that he would not have believed the extent of the damage if he had not seen it himself.
+[["I WOULD NOT HAVE BELIEVED IT"]] Muirhead wrote that he would not have believed the extent of the damage if he had not seen it himself.
 
 ## s13 | wave | A wave over a hundred feet up
 Put those facts next to each other. A storm had hit the west side of the island hard enough to tear out ironwork and move a one ton rock, at heights most people would consider completely safe. The rope box, a hundred and ten feet above the sea, had been smashed.
@@ -112,7 +112,7 @@ Because over the following decades, the story was rewritten. And the rewritten v
 ## s16 | logbook | The famous logbook entries — not genuine
 The best known piece of the legend is a set of logbook entries said to have been written by the keepers in their last days. In these entries, a terrible storm rages for days. One keeper is described as crying. Another is said to be irritable, or silent. The men are praying. And the final line reads something like: storm ended, sea calm, God is over all.
 
-It is haunting. It is also fiction. The researcher Mike Dash, writing for Fortean Times, traced these entries and showed that they do not come from the real records. They were added to the story later. The real station records contain routine entries, not confessions of fear. And there is another problem: there were no reports of a great storm in the area on the twelfth to the fourteenth of December, the days when those dramatic entries are supposed to have been written.
+[[FICTION]] It is haunting. It is also fiction. The researcher Mike Dash, writing for Fortean Times, traced these entries and showed that they do not come from the real records. They were added to the story later. The real station records contain routine entries, not confessions of fear. And there is another problem: there were no reports of a great storm in the area on the twelfth to the fourteenth of December, the days when those dramatic entries are supposed to have been written.
 
 ## s17 | poem | 1912 · A poem changes the story
 The second layer came from poetry. In nineteen twelve, Wilfrid Wilson Gibson published a ballad called Flannan Isle, told from the point of view of the relief crew. It is a good poem. But in it, the men find a table set for a meal that has not been eaten, and a chair knocked over, as if the keepers had leapt up in terror and fled mid bite.
@@ -139,4 +139,4 @@ What is left is not really a mystery about what happened. It is a mystery about 
 
 Nobody will ever know that part. The Flannan light was automated in nineteen seventy one, and there have been no keepers there since. The station records survived. The men did not.
 
-If you want the full list of sources for this episode, it is in the description, along with the line between what we know and what was added later. And if there is a story you think history left unfinished, tell me in the comments. This is The Quiet Archive.
+The full list of sources for this story is in the description, along with the line between what we know and what was added later. If there is a story you think history left unfinished, tell me in the comments, and subscribe if you want more true stories like this one. This is The Quiet Archive.

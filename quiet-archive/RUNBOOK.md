@@ -1,6 +1,6 @@
 # The Quiet Archive — production runbook
 
-Channel: The Quiet Archive (YouTube channel id `UCnsOidpUHcQgwUKl_bcxwng`, handle still @AscendTale111).
+Channel: The Quiet Archive (YouTube channel id `UCnsOidpUHcQgwUKl_bcxwng`, handle @thequietarchivetales).
 Niche: true historical mysteries and disappearances, English, US/UK/CA/AU audience, faceless, AI narration.
 Owner instructions: Claude runs the channel end to end, free tools only, and only notifies the owner when needed
 (login/verification needed, copyright or policy warning, a video far above/below average, Tier 1/Tier 2 reached,
@@ -28,9 +28,15 @@ or an irreversible decision such as deleting a video or renaming the channel).
    Leave the **last 20 s** as an outro (subscribe line over a quiet visual) so the end screen fits.
 4. Add any new visual keys to `pipeline/visuals.py` (procedural art only; no stock photos,
    no photos of real people, no copyrighted art). Render frames, look at a contact sheet, fix overlaps.
-5. Narration: Piper (`en-us-ryan-high` voice, GitHub release rhasspy/piper 2023.11.14-2 and voice v0.0.2)
-   → `pipeline/narrate.py epNN/script.md epNN/audio`.
-6. Video: `pipeline/render.py epNN`, then two-pass encode to ≤ 29 MB if it must pass a 30 MB limit.
+5. Narration (v2): Kokoro-82M ONNX (`kokoro-v1.0.onnx` + `voices-v1.0.bin` from GitHub release
+   thewh1teagle/kokoro-onnx model-files-v1.0; vocab from that repo's config.json; phonemes from the espeak-ng
+   binary inside the Piper release) → `pipeline/narrate2.py epNN/script.md epNN/audio af_heart 0.95`.
+6. Video (v2): one module `scenes_epNNb.py` with VARIANTS (2–3 images per visual), FRAMES and FX;
+   stills to `epNN/frames/sNN_k.png`; then `pipeline/render2.py epNN scenes_epNNb --parallel 2 --mood sea`.
+   Smooth float camera, 7.5 s shots, crossfades, rain/fog/dust/flicker, lower-third captions, [[TEXT]] kinetic titles,
+   voice chain + synthesized ambient bed with ducking, -14 LUFS. Files > 95 MB: split for GitHub and re-join in the
+   browser (`new Blob([part0, part1, ...])`).
+   Each video is a standalone story: no episode numbers, no series framing, no "previous episode" references.
 7. Thumbnail 1280×720: max 4 words, one silhouette subject, amber label. Make 2–3 variants for Studio's A/B test.
 8. Push `epNN/video.mp4`, `thumbnail*.jpg`, `captions-en.srt` to this repo under `quiet-archive/epNN/`.
 9. Upload in YouTube Studio using the Claude desktop app's built-in browser:

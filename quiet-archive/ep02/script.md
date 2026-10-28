@@ -1,11 +1,11 @@
-# EP02 — The Ghost Ship That Ran Aground With Dinner Still Being Made
+# The Ghost Ship That Ran Aground With Dinner Still Being Made
 
 ## s01 | ghost_aground | 
 On the last morning of January, nineteen twenty one, a lookout at the Cape Hatteras Coast Guard station looked out to sea and saw a five masted schooner sitting on the most dangerous sandbank on the American coast. Every sail was still set. She was hard aground, and the surf was breaking over her.
 
 It took four days for anyone to reach her. When they finally climbed aboard, there was no one there. Not the captain, not the crew. In the galley, food looked as if it had been prepared for the next day's meal.
 
-Eleven men had vanished. Five departments of the United States government would spend almost two years trying to find out why.
+[[11 MEN. GONE.]] Eleven men had vanished. Five departments of the United States government would spend almost two years trying to find out why.
 
 ## s02 | title2 | THE CARROLL A. DEERING · JANUARY 1921
 Her name was the Carroll A. Deering. Today she is called the ghost ship of the Outer Banks, and like most ghost stories, hers has grown in the telling. So tonight we will tell it from the record. Who was on that ship, what they said, who saw them last, and what the boarding party actually found. At the end, we will separate what is documented from what has been added since.
@@ -13,7 +13,7 @@ Her name was the Carroll A. Deering. Today she is called the ghost ship of the O
 ## s03 | schooner_sail | Five-masted schooner · launched 1919, Bath, Maine
 Start with the ship. The Carroll A. Deering was built in nineteen nineteen at the Deering yard in Bath, Maine, one of the last great wooden sailing ships of the East Coast. She was two hundred and fifty five feet long, with five masts, and she was built to carry bulk cargo like coal. The owner named her after his son.
 
-By then, schooners like her were already becoming a thing of the past. Steam was taking over. But a big schooner was cheap to run, needed a small crew, and could still make money hauling coal to South America. That is exactly what she was doing in the summer of nineteen twenty.
+[[255 FEET · 5 MASTS]] By then, schooners like her were already becoming a thing of the past. Steam was taking over. But a big schooner was cheap to run, needed a small crew, and could still make money hauling coal to South America. That is exactly what she was doing in the summer of nineteen twenty.
 
 ## s04 | route_map | Norfolk → Rio de Janeiro → Barbados → Hampton Roads (schematic)
 In late August, the Deering left Virginia for Rio de Janeiro with a load of coal. Her captain was William Merritt, a respected officer who had survived the sinking of his previous ship by a German submarine in the war. His son Sewall sailed as first mate.
@@ -27,7 +27,7 @@ It was in Barbados that the story starts to turn.
 
 According to the testimony gathered later, McLellan went ashore and got drunk. He complained to another captain, Hugh Norton of the schooner Augustus W. Snow, that he could not discipline the crew because Captain Wormell kept interfering. He said he was doing the navigating himself because the captain's eyesight was poor.
 
-And then, according to the people who heard him, he said this.
+[["I'LL GET THE CAPTAIN"]] And then, according to the people who heard him, he said this.
 
 I'll get the captain before we get to Norfolk. I will.
 
@@ -40,7 +40,7 @@ The lightship's keeper, Captain Thomas Jacobson, watched her come close and hear
 
 Jacobson could not pass the message on. His radio was not working. But he noticed things. The man who spoke to him was tall and thin, with reddish hair and a foreign accent, and Jacobson did not think he behaved like an officer. The rest of the crew were milling around on the quarterdeck, at the back of the ship, a place ordinary sailors were normally kept away from.
 
-Captain Wormell was sixty six. Nobody described him as tall, red haired, or foreign.
+[[WHO WAS HE?]] Captain Wormell was sixty six. Nobody described him as tall, red haired, or foreign.
 
 ## s07 | ship_night2 | The last sighting
 The next day, another vessel reported a schooner on a course heading straight for Diamond Shoals. Her crew saw no one on deck. They did not hail her.
@@ -50,7 +50,7 @@ That is the last time anyone saw the Carroll A. Deering under sail with anyone a
 ## s08 | shoals_map | Diamond Shoals, Cape Hatteras: "the Graveyard of the Atlantic"
 To understand what happened next, you need to know where she was heading. Diamond Shoals is a field of shifting sandbanks that reaches miles out to sea from Cape Hatteras. The warm Gulf Stream and the cold Labrador Current meet here, and the storms that form on the boundary are some of the worst on the coast. Sailors call this stretch the Graveyard of the Atlantic. Hundreds of ships have been wrecked on it.
 
-A competent crew does not sail a ship onto Diamond Shoals with every sail set. Not on purpose.
+[[EVERY SAIL SET]] A competent crew does not sail a ship onto Diamond Shoals with every sail set. Not on purpose.
 
 ## s09 | ghost_aground | 31 January 1921 · Spotted at dawn
 On the thirty first of January, surfman C. P. Brady at the Cape Hatteras station saw her at first light, stuck on the outer edge of the shoals. The weather was bad, and for days no rescue boat could get close.
@@ -62,7 +62,7 @@ Here is what they reported.
 
 The ship's wheel was smashed. The binnacle, the stand that holds the compass, had been broken. The rudder had come loose from its fitting. The ship could not have been steered.
 
-The ship's log was gone. The navigation instruments were gone. The crew's personal belongings were gone. And both lifeboats were gone.
+[[LOG · INSTRUMENTS · LIFEBOATS: GONE]] The ship's log was gone. The navigation instruments were gone. The crew's personal belongings were gone. And both lifeboats were gone.
 
 In the galley, food appeared to have been prepared for the next day's meal. Later retellings would turn that into a pot of soup and coffee left warm on the stove.
 
@@ -84,14 +84,14 @@ In April, a fisherman named Christopher Gray said he had found a bottle washed u
 For a while, this looked like the answer. Captain Wormell's widow believed the handwriting matched one of the crew.
 
 ## s14 | stamp_hoax | NOT GENUINE
-It was a fake. Government handwriting experts concluded that Gray had written it himself. Under questioning, he admitted it. He had hoped the attention would help him get a job at the Cape Hatteras lighthouse.
+[[A HOAX]] It was a fake. Government handwriting experts concluded that Gray had written it himself. Under questioning, he admitted it. He had hoped the attention would help him get a job at the Cape Hatteras lighthouse.
 
 It was the one piece of evidence that pointed clearly at a crime, and it turned out to be invented.
 
 ## s15 | investigation | Five departments · Commerce, Treasury, Justice, Navy, State
 Still, the federal government took the case seriously, and that is part of what makes this story unusual. Five departments were involved: Commerce, Treasury, Justice, the Navy, and the State Department. The Secretary of Commerce at the time was Herbert Hoover, the future president, and he had a reason to care. The Deering was not the only ship to disappear off that coast in those months. A steamship called the Hewitt, carrying sulfur, vanished in the same area at about the same time, with all hands.
 
-Investigators read lightship logs, interviewed witnesses, and chased every theory. In late nineteen twenty two, the inquiry closed. No official finding.
+[[NO OFFICIAL FINDING]] Investigators read lightship logs, interviewed witnesses, and chased every theory. In late nineteen twenty two, the inquiry closed. No official finding.
 
 ## s16 | theories2 | Five explanations
 So what are the explanations?
@@ -124,4 +124,4 @@ Eleven men left Barbados on that ship. None of them was ever seen again, not in 
 So I will ask you what I asked myself. If you had been the investigator in nineteen twenty one, with that list in front of you, what would you have concluded? Tell me in the comments.
 
 ## s20 | outro | 
-Sources for this episode are in the description. If you want the story of three lighthouse keepers who vanished from an island off Scotland, it is right here. This is The Quiet Archive.
+The sources for this story are in the description. If you like true stories that history never finished, subscribe, and I will see you in the next one. This is The Quiet Archive.
