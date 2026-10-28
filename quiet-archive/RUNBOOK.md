@@ -70,3 +70,17 @@ or an irreversible decision such as deleting a video or renaming the channel).
 - No re-uploaded or third-party footage; every visual is generated here.
 - No real living victims; nothing presented as fact that is legend; no misleading titles.
 - Do not mass-produce: each script is researched and edited individually; vary structure between episodes.
+
+## v3 style (from 2026-11-01) — owner request 2026-10-29
+- Host mascot **Archie** (stick figure, round glasses, amber scarf, 3-hair tuft) hosts every video; lip-synced, posed, expressive (character.py).
+- Narration: witty, dry American humour, one punchline per beat; joke about myths/officials, never about victims. Voice am_michael 1.0.
+- Rich cartoon stages (backdrops.py), story cast as stick figures acting the narration, synthesized SFX (sfx.py), kinetic titles, comedic zooms.
+- Script format: narrate3.py docstring. Render: `render3.py <dir> --parallel 2` (16:9) or `--vertical` (Shorts).
+- Thumbnails: thumb3.py (Archie + 3-4 word hook).
+
+## Fixed daily schedule (owner: fixed times, min 1 long + 2 Shorts per day)
+| Item | ET | VN (from 2 Nov, EST) | VN before 2 Nov (EDT) |
+| Long | 15:00 | 03:00 | 02:00 |
+| Short 1 | 18:00 | 06:00 | 05:00 |
+| Short 2 | 21:00 | 09:00 | 08:00 |
+Every upload: AI = "Có", AI note in description, captions, tags, scheduled (never publish now).
