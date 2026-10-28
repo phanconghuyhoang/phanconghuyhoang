@@ -6,9 +6,17 @@ Owner instructions: Claude runs the channel end to end, free tools only, and onl
 (login/verification needed, copyright or policy warning, a video far above/below average, Tier 1/Tier 2 reached,
 or an irreversible decision such as deleting a video or renaming the channel).
 
-## Cadence
-- Long-form 15–20 min: publish **Tuesday and Saturday 22:00 Asia/Saigon** (10:00 New York in winter).
-- One Short per week (Thursday 12:00 New York) cut from the latest long-form, linked via Related Video. Shorts ≤ 40% of uploads.
+## Cadence (researched 2026-10-28; times are US Eastern, the audience's clock)
+- Long-form 15–20 min: **Wednesday 2:00 PM ET** and **Sunday 10:00 AM ET**.
+  - In Studio (time zone GMT+7): while US is on EDT (Mar–Oct) Wed 14:00 ET = **Thu 01:00**, Sun 10:00 ET = **Sun 21:00**;
+    while US is on EST (Nov–Mar) Wed 14:00 ET = **Thu 02:00**, Sun 10:00 ET = **Sun 22:00**.
+  - Why: Buffer (≈1.8M videos, Jul 2026) ranks Sunday 9–10 AM the top long-form slot; SocialPilot (301K videos, 2026)
+    ranks Wed–Fri 2–4 PM and Sunday 8–10 AM highest; education content does best Tue–Wed early afternoon.
+- One Short per week: **Friday 5:00 PM ET** (Sat 04:00 EDT / 05:00 EST in GMT+7), cut from the latest long-form,
+  linked via Related Video. Shorts ≤ 40% of uploads.
+- Under ~1,000 subscribers timing matters little; never hold a finished episode back for more than a few days.
+- From ~30 days of data, switch to the channel's own "When your viewers are on YouTube" report and move slots
+  1–2 hours before its peak.
 - Keep at least one finished episode scheduled ahead.
 
 ## One episode, step by step
@@ -34,7 +42,7 @@ or an irreversible decision such as deleting a video or renaming the channel).
     not made for kids, no paid promotion, AI-altered content = **No** (illustrations are not realistic),
     tags, language English (United States), category Education, add to the matching playlist.
 11. Elements: English captions; end screen = subscribe + best-for-viewer video over the last 20 s.
-12. Visibility: Schedule (not Premiere) at the next slot. Time zone in Studio is GMT+7.
+12. Visibility: Schedule (not Premiere) at the next slot; convert ET to GMT+7 as in Cadence.
 13. Append to `published.md`: date, slot, title, video id, topic.
 14. After 48 h and 7 days: record CTR, average view duration and views in `published.md`;
     every 5 episodes compare and shift topics toward what wins.
