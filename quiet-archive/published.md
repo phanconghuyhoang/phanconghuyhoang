@@ -15,3 +15,9 @@
 - F4BbuyUxk8M — "Three Lighthouse Keepers Vanished in 1900. Here's What the Records Say" (v2) — 2026-10-31 02:00
 - Old private drafts still on channel: aXVngB5a2AA (old EP01), mvPDF7Tdgo4 (old Short01), "The Quiet Archive EP02 Carroll A Deering" 11:33 — ask owner before deleting.
 - A/B thumbnail test button now visible in upload dialog.
+
+## 2026-10-29 reschedule (owner: schedule starts 29/10)
+- GNeSj_T9lGY Ghost Ship Ran Aground → 2026-10-29 03:00
+- F4BbuyUxk8M Flannan Isles → 2026-10-30 02:00
+- Planned: Mary Celeste (mc/) long → 2026-10-31 02:00; Shorts tea/sailed → 10-31 05:00/08:00; wreck/flood → 11-01 05:00/08:00
+- Needed next: long-form for 11-01 02:00, then daily from 11-02 at 03:00/06:00/09:00.
