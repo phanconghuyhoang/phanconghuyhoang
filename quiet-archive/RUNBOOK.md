@@ -6,18 +6,23 @@ Owner instructions: Claude runs the channel end to end, free tools only, and onl
 (login/verification needed, copyright or policy warning, a video far above/below average, Tier 1/Tier 2 reached,
 or an irreversible decision such as deleting a video or renaming the channel).
 
-## Cadence (researched 2026-10-28; times are US Eastern, the audience's clock)
-- Long-form 15–20 min: **Wednesday 2:00 PM ET** and **Sunday 10:00 AM ET**.
-  - In Studio (time zone GMT+7): while US is on EDT (Mar–Oct) Wed 14:00 ET = **Thu 01:00**, Sun 10:00 ET = **Sun 21:00**;
-    while US is on EST (Nov–Mar) Wed 14:00 ET = **Thu 02:00**, Sun 10:00 ET = **Sun 22:00**.
-  - Why: Buffer (≈1.8M videos, Jul 2026) ranks Sunday 9–10 AM the top long-form slot; SocialPilot (301K videos, 2026)
-    ranks Wed–Fri 2–4 PM and Sunday 8–10 AM highest; education content does best Tue–Wed early afternoon.
-- One Short per week: **Friday 5:00 PM ET** (Sat 04:00 EDT / 05:00 EST in GMT+7), cut from the latest long-form,
-  linked via Related Video. Shorts ≤ 40% of uploads.
-- Under ~1,000 subscribers timing matters little; never hold a finished episode back for more than a few days.
-- From ~30 days of data, switch to the channel's own "When your viewers are on YouTube" report and move slots
-  1–2 hours before its peak.
-- Keep at least one finished episode scheduled ahead.
+## Owner rules (2026-10-29)
+1. **Every upload discloses AI**: in Studio set "Altered or synthetic content" (Sử dụng AI) = **Yes / Có** on every video and
+   Short, and keep the AI-narration line in every description.
+2. **Every video is one complete, standalone story** with its own title and name. No episode numbers, no series framing,
+   no "part 1/part 2", no references to other videos inside the narration.
+3. **Daily output: at least 1 long-form and at least 2 Shorts per day.**
+
+## Cadence (times US Eastern, the audience's clock; Studio is set to GMT+7)
+- Long-form, one per day, best slot per weekday (Buffer 1.8M-video study, SocialPilot 301K study):
+  Mon 9:00 AM · Tue 9:00 AM · Wed 2:00 PM · Thu 5:00 PM · Fri 12:00 PM · Sat 12:00 PM · Sun 10:00 AM ET.
+- Shorts, two per day: 6:00 PM and 9:00 PM ET (Shorts engagement peaks 6–11 PM). Cut from that day's or a recent
+  long-form, or a standalone mini-story; each Short is complete in itself and has its own title.
+- ET→GMT+7: add 12 h in EST (Nov–Mar), 11 h in EDT (Mar–Nov).
+- Production: a daily run (~13:00 Asia/Saigon) makes tomorrow's long-form + 2 Shorts and schedules them. Keep a 1-day buffer.
+- Trade-off noted to owner: Shorts at 67% of uploads is above the ~55% level where long-form tends to weaken; watch
+  long-form watch time weekly and tell the owner if it drops.
+- From ~30 days of data, move slots to the channel's own "When your viewers are on YouTube" report.
 
 ## One episode, step by step
 1. Pick the next unused topic from `topics.md`; check it is not in `published.md`. Mark it in progress.
@@ -45,7 +50,7 @@ or an irreversible decision such as deleting a video or renaming the channel).
    Same trick for the thumbnail (`input#file-loader`) and the captions file
    (Subtitles → Upload file → "with timing", then set the hidden file input).
 10. Details: title, description (summary, CHAPTERS, DOCUMENTED vs LEGEND, SOURCES, AI-narration note, 3 hashtags),
-    not made for kids, no paid promotion, AI-altered content = **No** (illustrations are not realistic),
+    not made for kids, no paid promotion, AI use ("Sử dụng AI") = **Yes**,
     tags, language English (United States), category Education, add to the matching playlist.
 11. Elements: English captions; end screen = subscribe + best-for-viewer video over the last 20 s.
 12. Visibility: Schedule (not Premiere) at the next slot; convert ET to GMT+7 as in Cadence.
