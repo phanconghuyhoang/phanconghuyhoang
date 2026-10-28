@@ -1,0 +1,803 @@
+1
+00:00:00,400 --> 00:00:09,923
+On the twenty-sixth of December, nineteen hundred, a small steamer called the Hesperus came around the western edge of Scotland and found a lighthouse with nobody in it.
+
+2
+00:00:10,673 --> 00:00:12,452
+There was no flag on the pole.
+
+3
+00:00:12,802 --> 00:00:15,521
+There were no empty supply crates waiting at the landing.
+
+4
+00:00:15,871 --> 00:00:18,358
+Nobody came down the steps to catch a rope.
+
+5
+00:00:18,708 --> 00:00:20,824
+The ship's captain sounded his whistle.
+
+6
+00:00:21,174 --> 00:00:22,988
+Then he fired a signal rocket.
+
+7
+00:00:23,338 --> 00:00:25,442
+The island answered with silence.
+
+8
+00:00:26,192 --> 00:00:28,447
+Three men had been living on that rock.
+
+9
+00:00:28,797 --> 00:00:30,297
+They were never seen again.
+
+10
+00:00:32,347 --> 00:00:35,484
+This is one of the most retold mysteries in British history.
+
+11
+00:00:35,834 --> 00:00:37,741
+And that is exactly the problem.
+
+12
+00:00:38,091 --> 00:00:48,543
+Over a hundred and twenty years, the story has picked up a ghost ship, a sea serpent, an overturned chair, a meal left half eaten, and a logbook full of weeping men and prayers.
+
+13
+00:00:49,293 --> 00:00:50,921
+Most of that never happened.
+
+14
+00:00:51,671 --> 00:00:54,158
+So tonight we are going to do something a little different.
+
+15
+00:00:54,508 --> 00:00:59,654
+We are going to tell the story using only what the people who were actually there wrote down.
+
+16
+00:01:00,004 --> 00:01:03,803
+And at the end, we will separate what is documented from what is legend.
+
+17
+00:01:04,153 --> 00:01:08,567
+Because the real version is stranger, and sadder, than the one you have probably heard.
+
+18
+00:01:10,617 --> 00:01:11,990
+Start with the place.
+
+19
+00:01:12,340 --> 00:01:21,131
+The Flannan Isles are a scatter of small, steep islands in the Atlantic, roughly twenty miles west of the Isle of Lewis in the Outer Hebrides.
+
+20
+00:01:21,481 --> 00:01:23,678
+Sailors called them the Seven Hunters.
+
+21
+00:01:24,028 --> 00:01:28,001
+The largest is Eilean Mòr, which simply means the big island.
+
+22
+00:01:28,351 --> 00:01:29,805
+Big is relative.
+
+23
+00:01:30,155 --> 00:01:32,433
+You can walk across it in a few minutes.
+
+24
+00:01:33,183 --> 00:01:35,415
+It has no trees and no harbour.
+
+25
+00:01:35,765 --> 00:01:40,446
+The sides are cliffs, and the sea that hits them has come all the way across the open ocean.
+
+26
+00:01:40,796 --> 00:01:51,085
+For centuries the only people who went there were shepherds bringing sheep over for summer grazing, and the occasional visitor to the ruins of a tiny chapel said to be connected to a seventh century saint.
+
+27
+00:01:51,435 --> 00:01:55,444
+Local tradition treated the island with respect bordering on unease.
+
+28
+00:01:55,794 --> 00:01:59,918
+People who stayed there overnight were expected to observe certain customs.
+
+29
+00:02:00,268 --> 00:02:02,151
+It was not a place you went casually.
+
+30
+00:02:04,201 --> 00:02:07,350
+But ships were going past it, and ships were being lost.
+
+31
+00:02:07,700 --> 00:02:13,856
+So in the eighteen nineties the Northern Lighthouse Board decided to build a light on the summit of Eilean Mòr.
+
+32
+00:02:14,206 --> 00:02:20,188
+The design came from David Alan Stevenson, of the famous family of Scottish lighthouse engineers.
+
+33
+00:02:20,538 --> 00:02:31,152
+The construction took four years, because every stone, every tool and every bag of cement had to be landed on a rock with no beach, by men working on narrow steps cut into the cliff.
+
+34
+00:02:31,902 --> 00:02:40,972
+The builders made two landing places, one on the east side of the island and one on the west, so that a boat could come in whichever side was sheltered from the weather.
+
+35
+00:02:41,322 --> 00:02:45,632
+From each landing, steps and a small railway climbed to the lighthouse on top.
+
+36
+00:02:46,382 --> 00:02:50,436
+The light was first lit on the seventh of December, eighteen ninety nine.
+
+37
+00:02:50,786 --> 00:02:54,400
+It had been working for almost exactly one year when it went dark.
+
+38
+00:02:56,449 --> 00:03:00,074
+The station was run by a rotating crew of four keepers.
+
+39
+00:03:00,424 --> 00:03:04,084
+At any time, three were on the island and one was ashore on leave.
+
+40
+00:03:04,434 --> 00:03:16,418
+In December nineteen hundred, the three men on the rock were James Ducat, the principal keeper, Thomas Marshall, his assistant, and Donald McArthur, who was the occasional keeper, filling in for the man on leave.
+
+41
+00:03:17,168 --> 00:03:18,726
+These were not adventurers.
+
+42
+00:03:19,076 --> 00:03:24,907
+Lighthouse keeping was a job with a rulebook, and the Northern Lighthouse Board took the rulebook very seriously.
+
+43
+00:03:25,257 --> 00:03:29,671
+The lamp had to be lit at sunset and kept burning until sunrise.
+
+44
+00:03:30,021 --> 00:03:33,774
+The lens had to be cleaned, the wicks trimmed, the oil topped up.
+
+45
+00:03:34,124 --> 00:03:37,412
+Every day's weather and work went into the station records.
+
+46
+00:03:37,762 --> 00:03:42,630
+And one rule mattered more than all the others: the light must never be left unattended.
+
+47
+00:03:43,380 --> 00:03:45,646
+Ducat had a wife and four children.
+
+48
+00:03:45,996 --> 00:03:48,321
+McArthur had a wife and two children.
+
+49
+00:03:48,671 --> 00:03:53,886
+They had been chosen by a superintendent named Robert Muirhead, who knew all of them personally.
+
+50
+00:03:54,236 --> 00:03:55,446
+Hold on to that name.
+
+51
+00:03:55,796 --> 00:03:57,831
+He is the reason we know anything at all.
+
+52
+00:03:59,880 --> 00:04:05,072
+The first sign that something was wrong came from a ship that had nothing to do with the lighthouse.
+
+53
+00:04:05,822 --> 00:04:12,001
+On the night of the fifteenth of December, a steamer called the Archtor was heading from Philadelphia to Leith.
+
+54
+00:04:12,351 --> 00:04:17,114
+As it passed the Flannan Isles in poor weather, its crew noticed that there was no light.
+
+55
+00:04:17,464 --> 00:04:19,533
+The Archtor's log recorded it.
+
+56
+00:04:20,283 --> 00:04:26,474
+But the Archtor did not reach port until the eighteenth, and the report that the Flannan light was out did not move quickly.
+
+57
+00:04:26,824 --> 00:04:28,905
+Nobody launched an emergency mission.
+
+58
+00:04:29,255 --> 00:04:32,241
+The island had no telegraph and no radio.
+
+59
+00:04:32,591 --> 00:04:37,900
+Communication with the keepers depended on the relief ship, and the relief ship was already scheduled.
+
+60
+00:04:39,950 --> 00:04:46,059
+The Hesperus was due to visit around the twentieth of December, bringing supplies and the keeper returning from leave.
+
+61
+00:04:46,409 --> 00:04:47,979
+That man was Joseph Moore.
+
+62
+00:04:48,329 --> 00:04:51,734
+But the weather in the Minch was bad, and the Hesperus could not sail.
+
+63
+00:04:52,084 --> 00:04:55,778
+It waited at port on Lewis, day after day, for a gap in the weather.
+
+64
+00:04:56,528 --> 00:04:58,958
+It did not get out until the twenty-sixth.
+
+65
+00:04:59,308 --> 00:05:00,251
+Boxing Day.
+
+66
+00:05:01,001 --> 00:05:05,496
+So for eleven days, from the fifteenth to the twenty-sixth, nobody knew.
+
+67
+00:05:05,846 --> 00:05:14,127
+A light that was supposed to warn ships off the rocks sat dark at the edge of the Atlantic, and the only people who might have explained why were already gone.
+
+68
+00:05:16,177 --> 00:05:21,741
+When the Hesperus finally arrived, around midday, the captain, Jim Harvie, brought her in to the landing.
+
+69
+00:05:22,091 --> 00:05:25,042
+You already know what he saw, or rather what he didn't.
+
+70
+00:05:25,392 --> 00:05:26,243
+No flag.
+
+71
+00:05:26,593 --> 00:05:27,582
+No crates.
+
+72
+00:05:27,932 --> 00:05:28,898
+No keepers.
+
+73
+00:05:29,648 --> 00:05:33,471
+Joseph Moore went ashore alone and climbed the steps to the lighthouse.
+
+74
+00:05:35,520 --> 00:05:43,150
+Moore later wrote down exactly what he found, and his account is worth hearing carefully, because almost every later version changes it.
+
+75
+00:05:43,900 --> 00:05:45,691
+The entrance gate was closed.
+
+76
+00:05:46,041 --> 00:05:47,750
+The main door was closed.
+
+77
+00:05:48,100 --> 00:05:51,505
+Inside, the kitchen fire had not been lit for some time.
+
+78
+00:05:51,855 --> 00:05:54,156
+The beds had not been slept in recently.
+
+79
+00:05:54,506 --> 00:05:58,073
+The clock on the wall had stopped, because nobody had wound it.
+
+80
+00:05:58,823 --> 00:06:03,075
+In the lamp room, the lamp itself had been cleaned and the oil filled.
+
+81
+00:06:03,425 --> 00:06:05,204
+The station work had been done.
+
+82
+00:06:05,554 --> 00:06:07,135
+That tells us something important.
+
+83
+00:06:07,485 --> 00:06:11,412
+The keepers had finished their routine for the day before whatever happened, happened.
+
+84
+00:06:11,762 --> 00:06:14,168
+They had prepared the light to be lit at dusk.
+
+85
+00:06:14,518 --> 00:06:15,670
+Then nobody lit it.
+
+86
+00:06:16,420 --> 00:06:19,488
+And there was one detail that would matter more than anything else.
+
+87
+00:06:19,838 --> 00:06:25,761
+In the lobby hung the keepers' oilskins, the heavy waterproof coats they wore to go outside in bad weather.
+
+88
+00:06:26,111 --> 00:06:27,391
+Two sets were missing.
+
+89
+00:06:27,741 --> 00:06:29,567
+One set was still on its hook.
+
+90
+00:06:30,317 --> 00:06:33,570
+Moore searched the station and the island and found no one.
+
+91
+00:06:33,920 --> 00:06:36,837
+He went back down to the boat and told the captain.
+
+92
+00:06:38,886 --> 00:06:45,739
+Harvie left Moore and three volunteer sailors on the island to keep the light going, and took the Hesperus back to Lewis.
+
+93
+00:06:46,089 --> 00:06:50,189
+From there he sent a telegram to the Northern Lighthouse Board in Edinburgh.
+
+94
+00:06:50,939 --> 00:06:55,191
+Paraphrased, it said this: a dreadful accident has happened at the Flannans.
+
+95
+00:06:55,541 --> 00:06:58,214
+The three keepers have disappeared from the island.
+
+96
+00:06:58,564 --> 00:07:03,559
+The clocks were stopped and other signs indicate the accident must have happened about a week ago.
+
+97
+00:07:03,909 --> 00:07:08,834
+Poor fellows, they must have been blown over the cliffs or drowned trying to secure a crane.
+
+98
+00:07:09,584 --> 00:07:13,941
+Notice that, even on the first day, the captain's instinct was not a ghost.
+
+99
+00:07:14,291 --> 00:07:15,350
+It was the sea.
+
+100
+00:07:17,400 --> 00:07:23,161
+On the twenty-ninth of December, Robert Muirhead arrived on Eilean Mòr to lead the official investigation.
+
+101
+00:07:23,511 --> 00:07:25,894
+He was the man who had hired these keepers.
+
+102
+00:07:26,244 --> 00:07:27,454
+He knew their faces.
+
+103
+00:07:27,804 --> 00:07:33,844
+His report, submitted on the eighth of January nineteen oh one, is the closest thing we have to an answer.
+
+104
+00:07:34,594 --> 00:07:37,963
+Muirhead started where Moore had, with the station records.
+
+105
+00:07:38,313 --> 00:07:44,504
+They showed the keepers had carried out their normal duties into the fifteenth of December, and nothing unusual.
+
+106
+00:07:44,854 --> 00:07:52,322
+Whatever took the men had come on the fifteenth, after the day's work and after their midday meal, and before the light was due to be lit at dusk.
+
+107
+00:07:52,672 --> 00:07:56,633
+That fits perfectly with what the Archtor saw that night: darkness.
+
+108
+00:07:58,683 --> 00:08:01,251
+Then Muirhead walked down to the west landing.
+
+109
+00:08:01,601 --> 00:08:05,853
+And this is where the story stops being mysterious, and starts being frightening.
+
+110
+00:08:06,603 --> 00:08:08,673
+The east landing was undamaged.
+
+111
+00:08:09,023 --> 00:08:10,743
+The west landing had been wrecked.
+
+112
+00:08:11,493 --> 00:08:18,915
+There was a box at the west landing, set into a crevice in the rock about thirty three metres above sea level, around a hundred and ten feet up.
+
+113
+00:08:19,265 --> 00:08:21,589
+It held mooring ropes and landing gear.
+
+114
+00:08:21,939 --> 00:08:24,856
+The box had been broken and its contents were gone.
+
+115
+00:08:25,206 --> 00:08:27,566
+Iron railings had been bent out of shape.
+
+116
+00:08:27,916 --> 00:08:31,308
+A section of the railway track had been torn out of its concrete.
+
+117
+00:08:31,658 --> 00:08:34,889
+A boulder weighing more than a ton had been moved from where it sat.
+
+118
+00:08:35,239 --> 00:08:42,741
+And up on the cliff top, more than sixty metres above the water, the turf had been ripped away as far as ten metres back from the edge.
+
+119
+00:08:43,491 --> 00:08:48,765
+Muirhead wrote that he would not have believed the extent of the damage if he had not seen it himself.
+
+120
+00:08:50,815 --> 00:08:52,606
+Put those facts next to each other.
+
+121
+00:08:52,956 --> 00:09:01,445
+A storm had hit the west side of the island hard enough to tear out ironwork and move a one ton rock, at heights most people would consider completely safe.
+
+122
+00:09:01,795 --> 00:09:05,641
+The rope box, a hundred and ten feet above the sea, had been smashed.
+
+123
+00:09:06,391 --> 00:09:08,448
+Now go back to the oilskins.
+
+124
+00:09:08,798 --> 00:09:10,113
+Two sets missing.
+
+125
+00:09:10,463 --> 00:09:11,824
+One left behind.
+
+126
+00:09:12,574 --> 00:09:14,817
+Muirhead's reconstruction went like this.
+
+127
+00:09:15,167 --> 00:09:25,352
+On the afternoon of the fifteenth, Ducat and Marshall put on their oilskins and went down to the west landing, probably to secure the rope box and the equipment after the weather had been rough.
+
+128
+00:09:25,702 --> 00:09:31,742
+A keeper who lost equipment to the sea could be fined, and at least one of these men had been fined before.
+
+129
+00:09:32,092 --> 00:09:35,786
+McArthur stayed at the station, because someone always had to.
+
+130
+00:09:36,536 --> 00:09:39,360
+At some point, McArthur left the station too.
+
+131
+00:09:39,710 --> 00:09:44,090
+He left in a hurry, in his shirtsleeves, without his oilskins, in heavy rain.
+
+132
+00:09:44,440 --> 00:09:46,184
+Breaking the one rule that mattered.
+
+133
+00:09:46,534 --> 00:09:52,376
+Muirhead noted, with an investigator's dryness, that whoever was the last to leave had broken the regulations.
+
+134
+00:09:53,126 --> 00:09:55,370
+Why would a careful keeper run out like that?
+
+135
+00:09:55,720 --> 00:09:59,089
+The most likely answer is that he saw something from the station.
+
+136
+00:09:59,439 --> 00:10:01,764
+A huge sea coming in at the west side.
+
+137
+00:10:02,114 --> 00:10:04,020
+Or the other two men in trouble.
+
+138
+00:10:04,770 --> 00:10:11,739
+And then a wave, far larger than anything those men expected, came up the cliff, over the landing, and took all three.
+
+139
+00:10:13,789 --> 00:10:15,719
+No bodies were ever recovered.
+
+140
+00:10:16,069 --> 00:10:18,335
+That is not unusual for the Atlantic.
+
+141
+00:10:18,685 --> 00:10:22,833
+The sea around the Flannans is deep and violent, and the currents go a long way.
+
+142
+00:10:23,583 --> 00:10:28,079
+Muirhead's verdict was that the men had been swept away by an extraordinarily large sea.
+
+143
+00:10:28,429 --> 00:10:38,613
+It is the conclusion of the man who knew the station and the men better than anyone, who stood on the damaged landing a fortnight after the event, and who had every reason to want a different answer.
+
+144
+00:10:38,963 --> 00:10:40,022
+He found none.
+
+145
+00:10:42,072 --> 00:10:46,695
+So if the official explanation is that clear, why is this still called a mystery?
+
+146
+00:10:47,445 --> 00:10:50,803
+Because over the following decades, the story was rewritten.
+
+147
+00:10:51,153 --> 00:10:53,873
+And the rewritten version is the one most people know.
+
+148
+00:10:55,923 --> 00:11:02,450
+The best known piece of the legend is a set of logbook entries said to have been written by the keepers in their last days.
+
+149
+00:11:02,800 --> 00:11:06,251
+In these entries, a terrible storm rages for days.
+
+150
+00:11:06,601 --> 00:11:08,891
+One keeper is described as crying.
+
+151
+00:11:09,241 --> 00:11:12,030
+Another is said to be irritable, or silent.
+
+152
+00:11:12,380 --> 00:11:13,555
+The men are praying.
+
+153
+00:11:13,905 --> 00:11:18,981
+And the final line reads something like: storm ended, sea calm, God is over all.
+
+154
+00:11:19,731 --> 00:11:20,721
+It is haunting.
+
+155
+00:11:21,071 --> 00:11:22,490
+It is also fiction.
+
+156
+00:11:22,840 --> 00:11:30,296
+The researcher Mike Dash, writing for Fortean Times, traced these entries and showed that they do not come from the real records.
+
+157
+00:11:30,646 --> 00:11:32,599
+They were added to the story later.
+
+158
+00:11:32,949 --> 00:11:37,375
+The real station records contain routine entries, not confessions of fear.
+
+159
+00:11:37,725 --> 00:11:47,562
+And there is another problem: there were no reports of a great storm in the area on the twelfth to the fourteenth of December, the days when those dramatic entries are supposed to have been written.
+
+160
+00:11:49,611 --> 00:11:51,425
+The second layer came from poetry.
+
+161
+00:11:51,775 --> 00:11:59,359
+In nineteen twelve, Wilfrid Wilson Gibson published a ballad called Flannan Isle, told from the point of view of the relief crew.
+
+162
+00:11:59,709 --> 00:12:01,081
+It is a good poem.
+
+163
+00:12:01,431 --> 00:12:09,956
+But in it, the men find a table set for a meal that has not been eaten, and a chair knocked over, as if the keepers had leapt up in terror and fled mid bite.
+
+164
+00:12:10,706 --> 00:12:13,669
+That image was so vivid that it became part of the history.
+
+165
+00:12:14,019 --> 00:12:16,053
+But it is not what Joseph Moore reported.
+
+166
+00:12:16,403 --> 00:12:18,867
+By his account, the kitchen was clean.
+
+167
+00:12:19,217 --> 00:12:21,461
+The meal had been eaten and cleared away.
+
+168
+00:12:21,811 --> 00:12:27,885
+Which is exactly what you would expect if three men finished dinner, went out to deal with the weather, and never came back.
+
+169
+00:12:29,935 --> 00:12:32,062
+After that, the theories piled up.
+
+170
+00:12:32,412 --> 00:12:33,913
+A giant sea creature.
+
+171
+00:12:34,263 --> 00:12:36,808
+Foreign agents who kidnapped the keepers.
+
+172
+00:12:37,158 --> 00:12:42,141
+A phantom boat crewed by the dead, drawn from local stories about the Seven Hunters.
+
+173
+00:12:42,491 --> 00:12:46,662
+A plan by the three men to fake their deaths and start new lives somewhere else.
+
+174
+00:12:47,412 --> 00:12:50,061
+None of these has any evidence behind it at all.
+
+175
+00:12:50,411 --> 00:12:56,950
+They exist because the legend left a gap, a table set for a meal nobody ate, and imagination rushed in to fill it.
+
+176
+00:12:59,000 --> 00:13:01,023
+There are more grounded variations.
+
+177
+00:13:01,373 --> 00:13:08,701
+One researcher has suggested that Ducat and Marshall went to save their equipment, and McArthur was lost trying to warn or help them.
+
+178
+00:13:09,051 --> 00:13:16,856
+A man who kept the Flannan light in the nineteen fifties believed that one keeper was swept off and the other two were lost trying to rescue him.
+
+179
+00:13:17,206 --> 00:13:21,794
+Both of these are really refinements of Muirhead's account, not alternatives to it.
+
+180
+00:13:22,144 --> 00:13:31,656
+There is also a darker theory, that a quarrel turned violent near the cliff edge, but it leans on gossip about one man's temper rather than on anything found on the island.
+
+181
+00:13:33,705 --> 00:13:35,507
+So here is where we land.
+
+182
+00:13:36,257 --> 00:13:41,891
+Documented: the light went out on the night of the fifteenth of December, nineteen hundred.
+
+183
+00:13:42,241 --> 00:13:44,391
+The station work had been finished that day.
+
+184
+00:13:44,741 --> 00:13:47,751
+Two sets of oilskins were gone and one was left.
+
+185
+00:13:48,101 --> 00:13:52,260
+The west landing showed severe storm damage at heights over a hundred feet.
+
+186
+00:13:52,610 --> 00:13:56,362
+Three experienced men disappeared, and the sea never gave them back.
+
+187
+00:13:57,112 --> 00:13:59,147
+Legend: the dramatic logbook.
+
+188
+00:13:59,497 --> 00:14:01,996
+The uneaten meal and the overturned chair.
+
+189
+00:14:02,346 --> 00:14:05,181
+The sea serpent, the spies, the ghost ship.
+
+190
+00:14:07,231 --> 00:14:10,310
+What is left is not really a mystery about what happened.
+
+191
+00:14:10,660 --> 00:14:12,927
+It is a mystery about the last few minutes.
+
+192
+00:14:13,277 --> 00:14:14,766
+Who saw the wave first.
+
+193
+00:14:15,116 --> 00:14:18,508
+Whether McArthur ran out to warn the others, or to help them.
+
+194
+00:14:18,858 --> 00:14:26,222
+What the three of them said to each other on the steps of the west landing, a hundred feet above a sea that should never have been able to reach them.
+
+195
+00:14:26,972 --> 00:14:28,878
+Nobody will ever know that part.
+
+196
+00:14:29,228 --> 00:14:34,513
+The Flannan light was automated in nineteen seventy one, and there have been no keepers there since.
+
+197
+00:14:34,863 --> 00:14:36,735
+The station records survived.
+
+198
+00:14:37,085 --> 00:14:38,203
+The men did not.
+
+199
+00:14:38,953 --> 00:14:46,281
+If you want the full list of sources for this episode, it is in the description, along with the line between what we know and what was added later.
+
+200
+00:14:46,631 --> 00:14:50,581
+And if there is a story you think history left unfinished, tell me in the comments.
+
+201
+00:14:50,931 --> 00:14:52,710
+This is The Quiet Archive.
