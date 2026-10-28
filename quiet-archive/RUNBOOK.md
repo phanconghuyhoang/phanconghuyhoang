@@ -1,0 +1,45 @@
+# The Quiet Archive — production runbook
+
+Channel: The Quiet Archive (YouTube channel id `UCnsOidpUHcQgwUKl_bcxwng`, handle still @AscendTale111).
+Niche: true historical mysteries and disappearances, English, US/UK/CA/AU audience, faceless, AI narration.
+Owner instructions: Claude runs the channel end to end, free tools only, and only notifies the owner when needed
+(login/verification needed, copyright or policy warning, a video far above/below average, Tier 1/Tier 2 reached,
+or an irreversible decision such as deleting a video or renaming the channel).
+
+## Cadence
+- Long-form 15–20 min: publish **Tuesday and Saturday 22:00 Asia/Saigon** (10:00 New York in winter).
+- One Short per week (Thursday 12:00 New York) cut from the latest long-form, linked via Related Video. Shorts ≤ 40% of uploads.
+- Keep at least one finished episode scheduled ahead.
+
+## One episode, step by step
+1. Pick the next unused topic from `topics.md`; check it is not in `published.md`. Mark it in progress.
+2. Research with WebSearch/WebFetch; open the pages you cite. Minimum 3 independent sources.
+3. Write `epNN/script.md` (2,200–2,900 words) in the scene format of `ep01/script.md`
+   (`## sNN | visual_key | caption`). Hook in the first 30 s, chapters every 1–2 min,
+   end with a "Documented vs legend" section and a question for the comments.
+   Leave the **last 20 s** as an outro (subscribe line over a quiet visual) so the end screen fits.
+4. Add any new visual keys to `pipeline/visuals.py` (procedural art only; no stock photos,
+   no photos of real people, no copyrighted art). Render frames, look at a contact sheet, fix overlaps.
+5. Narration: Piper (`en-us-ryan-high` voice, GitHub release rhasspy/piper 2023.11.14-2 and voice v0.0.2)
+   → `pipeline/narrate.py epNN/script.md epNN/audio`.
+6. Video: `pipeline/render.py epNN`, then two-pass encode to ≤ 29 MB if it must pass a 30 MB limit.
+7. Thumbnail 1280×720: max 4 words, one silhouette subject, amber label. Make 2–3 variants for Studio's A/B test.
+8. Push `epNN/video.mp4`, `thumbnail*.jpg`, `captions-en.srt` to this repo under `quiet-archive/epNN/`.
+9. Upload in YouTube Studio using the Claude desktop app's built-in browser:
+   in the upload dialog, `fetch()` the raw.githubusercontent.com file, wrap it in a `File`,
+   assign it to the dialog's `input[type=file]` via `DataTransfer`, dispatch `change`.
+   Same trick for the thumbnail (`input#file-loader`) and the captions file
+   (Subtitles → Upload file → "with timing", then set the hidden file input).
+10. Details: title, description (summary, CHAPTERS, DOCUMENTED vs LEGEND, SOURCES, AI-narration note, 3 hashtags),
+    not made for kids, no paid promotion, AI-altered content = **No** (illustrations are not realistic),
+    tags, language English (United States), category Education, add to the matching playlist.
+11. Elements: English captions; end screen = subscribe + best-for-viewer video over the last 20 s.
+12. Visibility: Schedule (not Premiere) at the next slot. Time zone in Studio is GMT+7.
+13. Append to `published.md`: date, slot, title, video id, topic.
+14. After 48 h and 7 days: record CTR, average view duration and views in `published.md`;
+    every 5 episodes compare and shift topics toward what wins.
+
+## Policy guard rails
+- No re-uploaded or third-party footage; every visual is generated here.
+- No real living victims; nothing presented as fact that is legend; no misleading titles.
+- Do not mass-produce: each script is researched and edited individually; vary structure between episodes.

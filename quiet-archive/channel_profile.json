@@ -1,0 +1,71 @@
+{
+  "channel_key": "quiet-archive",
+  "display_name": "The Quiet Archive",
+  "handle": "@thequietarchive",
+  "handle_fallbacks": ["@ledgeroflostthings", "@unmarkedhistory", "@vanishingfiles"],
+  "youtube_channel_id": null,
+  "google_account_label": "TODO: Gmail label you use in the dashboard (no password here)",
+  "phase": "pilot",
+  "status": "setup",
+  "niche": "true historical mysteries and unsolved disappearances",
+  "language": "en",
+  "target_countries": ["US", "GB", "CA", "AU"],
+  "category": "Education",
+  "made_for_kids": false,
+  "format": {
+    "long_form": {"per_week": 2, "minutes": [15, 20], "script_words": [2200, 2900]},
+    "shorts": {"per_week": 1, "max_share_of_uploads": 0.4, "seconds": [40, 55], "source": "cut_from_long_form", "link_related_video": true}
+  },
+  "schedule": {
+    "timezone": "America/New_York",
+    "slots": [
+      {"day": "TUE", "time": "10:00", "type": "long_form"},
+      {"day": "SAT", "time": "10:00", "type": "long_form"},
+      {"day": "THU", "time": "12:00", "type": "short"}
+    ],
+    "min_approved_queue": 2
+  },
+  "voice": {"type": "ai_tts", "fixed_voice_id": "TODO", "wpm": 145, "tone": "calm, curious, measured skepticism"},
+  "publishing": {
+    "mode": "automatic",
+    "reviewer": "claude",
+    "owner_approval_required": false,
+    "notify_owner_on": ["login_or_verification_needed", "copyright_or_policy_warning", "video_far_above_or_below_average", "tier1_or_tier2_reached", "irreversible_decision"]
+  },
+  "quality_gates": [
+    "topic_checked_against_duplicate_registry",
+    "min_3_independent_sources_listed_in_description",
+    "human_rewrote_hook_and_ending",
+    "image_rights_verified",
+    "ai_altered_content_label_set_if_realistic",
+    "title_not_misleading"
+  ],
+  "content_rules": {
+    "avoid": [
+      "cases with living victims or families",
+      "political conspiracy theories",
+      "fiction presented as fact",
+      "single fixed template for every video"
+    ],
+    "image_sources": ["Library of Congress", "Wikimedia Commons (public domain)", "NARA", "labeled AI illustration"]
+  },
+  "branding": {
+    "colors": {"background": "#15171C", "paper": "#E8DCC4", "accent": "#D9A441", "muted": "#6B6F78"},
+    "avatar_file": "quiet-archive-avatar-800.png",
+    "banner_file": "quiet-archive-banner-2560x1440.png"
+  },
+  "description": "The Quiet Archive tells true stories history left unfinished: people who vanished, ships that never arrived, towns abandoned overnight, and mysteries that still have no answer. Every episode is researched from real records, and we always separate what is documented from what is legend. New long-form episode every week, short cuts in between. Narration is AI-generated; research, scripting and editing are done by a human.",
+  "keywords": ["history mysteries", "unsolved mysteries", "true stories", "disappearances", "lost history", "historical documentary", "documentary narration"],
+  "seed_topics": [
+    "Flannan Isles lighthouse keepers (1900)",
+    "Carroll A. Deering ghost ship (1921)",
+    "Dancing plague of Strasbourg (1518)",
+    "Kaspar Hauser (1828)",
+    "Roanoke colony (1587-1590)",
+    "Ourang Medan death ship (1940s)",
+    "Flight 19 (1945)",
+    "Voynich manuscript",
+    "Princes in the Tower (1483)",
+    "Centralia mine fire (1962-present)"
+  ]
+}
