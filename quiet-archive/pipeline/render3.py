@@ -233,6 +233,7 @@ def render(ep, part=None, mood="sea"):
 
     host = C.Actor(C.Look("archie"), seed=11)
     cast = {}
+    all_cast = []
     kin, sfx_cues, zooms, bgs, words = [], [], [], [], []
     seed = 100
     for sc in scenes:
@@ -262,6 +263,7 @@ def render(ep, part=None, mood="sea"):
                         if c[0] == "new":
                             seed += 1
                             cast[c[1]] = Cast(c[1], c[2], c[3], c[4], c[5], seed)
+                            all_cast.append(cast[c[1]])
                             cast[c[1]].enter_t = t
                             cast[c[1]].actor.key(0, "idle", "neutral")
                         else:
@@ -294,10 +296,10 @@ def render(ep, part=None, mood="sea"):
                         dc = (s["te"] - s["t"]) * len(c) / tot
                         words.append((tc, tc + dc, c)); tc += dc
         # cast present only within their scene
-        for a in cast.values():
+        for a in all_cast:
             if a.alpha_t is None and a.enter_t is not None and sc["t0"] <= a.enter_t < sc["t1"]:
                 a.alpha_t = sc["t1"]
-    cast_list = list(cast.values())
+    cast_list = all_cast
 
     nfr = int(total * FPS)
     fr0, fr1 = 0, nfr
@@ -365,7 +367,7 @@ def render(ep, part=None, mood="sea"):
                 pop = 0.9 + 0.1 * ease((t - c0) / 0.12)
                 fs = ImageFont.truetype(V.SANS_B, int(84 * pop))
                 lines = V.wrap(d, txt.upper(), fs, W - 160)
-                y = H * 0.6 - len(lines) * 50
+                y = H * 0.4 - len(lines) * 50
                 for ln in lines:
                     w = d.textlength(ln, font=fs)
                     d.text(((W - w) / 2, y), ln, font=fs, fill=(255, 255, 255), stroke_width=7, stroke_fill=(0, 0, 0))

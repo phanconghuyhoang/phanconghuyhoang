@@ -304,3 +304,107 @@ if __name__ == "__main__":
     out = sys.argv[1]; os.makedirs(out, exist_ok=True)
     for name in sys.argv[2:]:
         SCENES[name]().save(os.path.join(out, name + ".png"))
+
+
+def bg_forest(carving=None, post=False):
+    """Coastal forest clearing; carving='CRO' on a tree trunk, post=True adds a palisade post with CROATOAN."""
+    im = vgrad((150, 196, 220), (220, 232, 210)); soft_clouds(im, 5, 21)
+    d = ImageDraw.Draw(im)
+    rng = random.Random(12)
+    for k in range(40):  # back trees
+        x = rng.uniform(-100, BW); h = rng.uniform(500, 800)
+        d.polygon([(x, 1000 - h), (x - 140, 1000), (x + 140, 1000)], fill=(46, 90, 60))
+    d.rectangle((0, 1000, BW, BH), fill=(120, 140, 80))
+    for k in range(0, BW, 60):
+        d.line([(k, 1000), (k + 20, 980)], fill=(100, 124, 66), width=4)
+    if carving:
+        d.rectangle((300, 200, 520, 1080), fill=(110, 80, 56)); d.ellipse((150, 0, 670, 420), fill=(40, 84, 52))
+        d.rectangle((330, 560, 490, 720), fill=(196, 160, 110))
+        d.text((345, 590), carving, font=V.font(V.SERIF_B, 80), fill=(70, 46, 30))
+    if post:
+        for k in range(14):
+            x = 1100 + k * 100
+            d.polygon([(x, 1000), (x, 600), (x + 40, 560), (x + 80, 600), (x + 80, 1000)], fill=(140, 104, 66), outline=(90, 64, 40))
+        d.rectangle((1500, 640, 1580, 1000), fill=(176, 136, 90))
+        f = V.font(V.SERIF_B, 54)
+        for i, ch in enumerate("CROATOAN"):
+            d.text((1520, 650 + i * 42), ch, font=f, fill=(60, 40, 24))
+    FLOOR["forest"] = 0.84
+    return im
+
+
+def bg_map_roanoke(stage=0):
+    """Outer Banks schematic: Roanoke Island, Croatoan (Hatteras) to the south, Chesapeake Bay to the north."""
+    im = Image.new("RGB", (BW, BH), (70, 130, 170)); d = ImageDraw.Draw(im)
+    land = (214, 196, 150)
+    d.polygon([(0, 0), (1500, 0), (1450, 200), (1300, 260), (1250, 500), (1100, 700), (1000, 1000), (900, 1440), (0, 1440)], fill=land)
+    d.polygon([(1620, 300), (1660, 300), (1760, 900), (2050, 1250), (2030, 1270), (1720, 920)], fill=land)  # banks
+    d.ellipse((1380, 640, 1500, 860), fill=land)  # Roanoke Island
+    d.polygon([(1100, 0), (1350, 0), (1300, 160), (1150, 200)], fill=(70, 130, 170))  # Chesapeake
+    f = V.font(V.SANS_B, 52); fs = V.font(V.SANS, 40)
+    d.text((1150, 40), "Chesapeake Bay", font=f, fill=(255, 255, 255))
+    d.text((1200, 880), "Roanoke Island", font=f, fill=(30, 30, 30))
+    d.text((1840, 1180), "Croatoan", font=f, fill=(30, 30, 30)); d.text((1840, 1236), "(today Hatteras Island)", font=fs, fill=(40, 40, 40))
+    d.text((300, 600), "Mainland", font=f, fill=(90, 80, 60))
+    if stage >= 1:
+        d.line([(1440, 640), (1300, 150)], fill=(250, 220, 120), width=8)
+        d.text((1500, 380), "Planned: Chesapeake", font=fs, fill=(255, 240, 180))
+    if stage >= 2:
+        for k in range(10):
+            u = k / 10; x = 1480 + (1900 - 1480) * u; y = 800 + (1150 - 800) * u
+            d.ellipse((x - 7, y - 7, x + 7, y + 7), fill=(255, 255, 255))
+        d.text((1560, 1000), "~50 miles", font=fs, fill=(255, 255, 255))
+    d.text((60, BH - 90), "Schematic map, not to scale", font=fs, fill=(220, 230, 240))
+    return im
+
+
+def bg_dig():
+    """Archaeology dig: trench, grid strings, sieve, finds tray."""
+    im = vgrad((160, 200, 230), (230, 236, 220)); soft_clouds(im, 5, 31)
+    d = ImageDraw.Draw(im)
+    d.rectangle((0, 820, BW, BH), fill=(170, 140, 96))
+    d.polygon([(700, 960), (1860, 960), (1760, 1240), (800, 1240)], fill=(120, 90, 60))
+    for k in range(6):
+        x = 760 + k * 200
+        d.line([(x, 960), (x - 30, 1240)], fill=(240, 240, 240), width=3)
+    d.line([(740, 1100), (1820, 1100)], fill=(240, 240, 240), width=3)
+    d.rectangle((2000, 900, 2300, 940), fill=(90, 70, 50)); d.rectangle((2020, 940, 2040, 1060), fill=(80, 60, 44)); d.rectangle((2260, 940, 2280, 1060), fill=(80, 60, 44))
+    for k, c in enumerate([(180, 180, 190), (150, 90, 50), (60, 60, 64)]):
+        d.ellipse((2040 + k * 80, 860, 2100 + k * 80, 900), fill=c)
+    d.ellipse((300, 900, 520, 980), outline=(90, 70, 50), width=10)
+    FLOOR["dig"] = 0.8
+    return im
+
+
+def bg_armada():
+    im = bg_sea_storm(); d = ImageDraw.Draw(im)
+    for x, s in ((500, 0.5), (1100, 0.6), (1800, 0.55), (2300, 0.45)):
+        sailing_ship(d, x, 900, s, hull=(60, 40, 30), flag=(200, 160, 40) if x < 1500 else (190, 40, 40))
+    for x in (800, 1500, 2000):
+        d.ellipse((x - 60, 760, x + 60, 860), fill=(200, 200, 200))
+    return im
+
+
+def bg_queen():
+    """Tudor throne room."""
+    im = Image.new("RGB", (BW, BH), (120, 40, 44)); d = ImageDraw.Draw(im)
+    for x in range(0, BW, 200):
+        d.rectangle((x, 0, x + 100, 1060), fill=(130, 46, 50))
+    d.rectangle((0, 1060, BW, BH), fill=(80, 60, 50))
+    d.rectangle((1100, 380, 1460, 1060), fill=(200, 160, 60)); d.rectangle((1140, 420, 1420, 760), fill=(150, 30, 40))
+    d.polygon([(1180, 380), (1280, 250), (1380, 380)], fill=(220, 180, 70))
+    FLOOR["queen"] = 0.86
+    return im
+
+
+def bg_hoax_stone():
+    im = Image.new("RGB", (BW, BH), (40, 40, 44)); d = ImageDraw.Draw(im)
+    d.rounded_rectangle((900, 300, 1660, 1100), radius=80, fill=(150, 146, 136), outline=(100, 96, 90), width=10)
+    f = V.font(V.SERIF_B, 54)
+    for i, ln in enumerate(["ANANIAS DARE &", "VIRGINIA WENT", "HENCE VNTO", "HEAVEN 1591 . . ."]):
+        d.text((980, 400 + i * 90), ln, font=f, fill=(80, 76, 70))
+    V.stamp(im, "HOAX", (1280, 900), angle=-12, size=150)
+    return im
+
+
+SCENES.update(dict(forest=bg_forest, dig=bg_dig, armada=bg_armada, queen=bg_queen))
