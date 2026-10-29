@@ -22,4 +22,10 @@
 - Planned: Mary Celeste (mc/) long → 2026-10-31 02:00; Shorts tea/sailed → 10-31 05:00/08:00; wreck/flood → 11-01 05:00/08:00
 - Needed next: long-form for 11-01 02:00, then daily from 11-02 at 03:00/06:00/09:00.
 - zCguWAnmsbw — "Mary Celeste: Why Did 10 People Abandon a Perfectly Good Ship?" (Archie) — 2026-10-31 02:00; thumbnail A/B test (tea / where / sailed) set up
-- Waiting for upload: v3s/tea → 10-31 05:00, v3s/sailed → 10-31 08:00, v3s/wreck → 11-01 05:00, v3s/flood → 11-01 08:00, roanoke → 11-01 02:00 (rendering)
+- r8k6jh6xcto — Short "The Ghost Ship Tea Story Is Fake" — 2026-10-31 05:00
+- qmUMr_HeJVA — Short "This Ship Sailed 400 Miles With Nobody On Board" — 2026-10-31 08:00
+- mfd4aevUc7w — "Roanoke: 115 People Vanished and Left a One-Word Clue" (Archie, 8:39) — 2026-11-01 02:00; A/B thumbnails set
+- cIiFLJ7o-1Y — Short "The Captain Who Wrecked a Ghost Ship on Purpose" — 2026-11-01 05:00
+- iG6SHaSWeic — Short "They Called the Ghost Ship a Murder Scene" — 2026-11-01 08:00
+- Next: f19 (Flight 19, rendering) → 11-02 03:00; v3s/keys → 11-02 06:00; v3s/rescue → 11-02 09:00
+- Note: captions sometimes fail in the upload dialog; verify on the video's Ngôn ngữ page and use "Tải lên theo cách thủ công" if missing.
