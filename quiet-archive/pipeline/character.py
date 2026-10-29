@@ -161,6 +161,11 @@ def draw_figure(layer, x, y, s, p, expr="neutral", mouth=0.0, blink=0.0, look=No
     elif look.kind == "official":
         d.rectangle([*hp(-0.7, -1.6), *hp(0.7, -0.75)], fill=(28, 28, 32, alpha))
         d.line([hp(-1.1, -0.75), hp(1.1, -0.75)], fill=(28, 28, 32, alpha), width=int(fw * 1.6))
+    elif look.kind == "pilot":
+        d.chord([*hp(-1.08, -1.12), *hp(1.08, 0.4)], 180, 360, fill=(110, 76, 46, alpha), outline=ink, width=out)
+        for side in (-1, 1):
+            c0 = hp(side * 0.36, -0.62)
+            d.ellipse((c0[0] - 0.22 * r, c0[1] - 0.18 * r, c0[0] + 0.22 * r, c0[1] + 0.18 * r), fill=(150, 200, 220, alpha), outline=ink, width=out)
     elif look.kind == "woman":
         d.chord([*hp(-1.08, -1.15), *hp(1.08, 0.55)], 180, 360, fill=(110, 70, 45, alpha), outline=ink, width=out)
         d.ellipse([*hp(-0.35, -1.45), *hp(0.35, -0.85)], fill=(110, 70, 45, alpha), outline=ink, width=out)

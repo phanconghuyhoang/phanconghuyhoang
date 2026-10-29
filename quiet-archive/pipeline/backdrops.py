@@ -408,3 +408,101 @@ def bg_hoax_stone():
 
 
 SCENES.update(dict(forest=bg_forest, dig=bg_dig, armada=bg_armada, queen=bg_queen))
+
+
+def avenger(d, x, y, s=1.0, col=(70, 86, 110)):
+    """Side view of a WWII torpedo bomber (stylised)."""
+    L = 420 * s
+    d.polygon([(x - L / 2, y), (x + L / 2 - 40 * s, y - 20 * s), (x + L / 2, y + 10 * s), (x + L / 2 - 30 * s, y + 40 * s), (x - L / 2 + 20 * s, y + 40 * s)], fill=col)
+    d.ellipse((x - 40 * s, y - 50 * s, x + 110 * s, y + 5 * s), fill=(160, 200, 220))  # canopy
+    d.polygon([(x - L / 2, y), (x - L / 2 - 30 * s, y - 70 * s), (x - L / 2 + 40 * s, y)], fill=col)  # tail
+    d.polygon([(x - 60 * s, y + 25 * s), (x + 120 * s, y + 25 * s), (x + 60 * s, y + 60 * s), (x - 90 * s, y + 60 * s)], fill=(56, 70, 92))  # wing
+    d.ellipse((x + L / 2 - 10 * s, y - 30 * s, x + L / 2 + 20 * s, y + 60 * s), fill=(200, 200, 200))  # prop disc
+    d.ellipse((x - 120 * s, y + 8 * s, x - 90 * s, y + 30 * s), fill=(240, 240, 240)); d.ellipse((x - 112 * s, y + 13 * s, x - 98 * s, y + 25 * s), fill=(30, 50, 120))
+
+
+def bg_airbase():
+    im = vgrad((150, 200, 235), (230, 236, 230)); soft_clouds(im, 6, 41)
+    d = ImageDraw.Draw(im)
+    d.rectangle((0, 900, BW, BH), fill=(150, 156, 140)); d.rectangle((0, 980, BW, 1100), fill=(90, 92, 96))
+    for k in range(0, BW, 220):
+        d.rectangle((k, 1036, k + 120, 1044), fill=(240, 240, 230))
+    d.rectangle((80, 600, 700, 900), fill=(120, 120, 110)); d.arc((80, 420, 700, 780), 180, 360, fill=(100, 100, 92), width=180)
+    d.rectangle((2200, 520, 2280, 900), fill=(200, 196, 180)); d.rectangle((2160, 440, 2320, 520), fill=(90, 120, 140))
+    for i, x in enumerate((900, 1250, 1600, 1950)):
+        avenger(d, x, 900 - (i % 2) * 10, 0.75)
+    FLOOR["airbase"] = 0.82
+    return im
+
+
+def bg_sky_formation(dusk=False):
+    im = vgrad((240, 170, 120) if dusk else (110, 170, 220), (60, 70, 100) if dusk else (200, 225, 240)); soft_clouds(im, 10, 43, (255, 230, 210) if dusk else (255, 255, 255))
+    d = ImageDraw.Draw(im)
+    waves(im, 1100, (30, 70, 110) if dusk else (46, 104, 150), (60, 100, 140) if dusk else (90, 150, 190), rows=6)
+    d = ImageDraw.Draw(im)
+    for x, y in ((700, 520), (1050, 460), (1400, 520), (1750, 460), (2100, 520)):
+        avenger(d, x, y, 0.6)
+    return im
+
+
+def bg_islands():
+    im = Image.new("RGB", (BW, BH), (40, 130, 170)); d = ImageDraw.Draw(im)
+    rng = random.Random(51)
+    for k in range(9):
+        x, y = rng.uniform(200, 2300), rng.uniform(200, 1240); w = rng.uniform(120, 360)
+        d.ellipse((x - w * 1.3, y - w * 0.5, x + w * 1.3, y + w * 0.5), fill=(90, 190, 200))
+        d.ellipse((x - w, y - w * 0.32, x + w, y + w * 0.32), fill=(226, 210, 160))
+        d.ellipse((x - w * 0.7, y - w * 0.2, x + w * 0.7, y + w * 0.2), fill=(90, 150, 80))
+    return im
+
+
+def bg_radio_room():
+    im = Image.new("RGB", (BW, BH), (70, 80, 76)); d = ImageDraw.Draw(im)
+    d.rectangle((0, 1060, BW, BH), fill=(60, 56, 50))
+    d.rectangle((500, 500, 2060, 900), fill=(50, 56, 54)); d.rectangle((480, 900, 2080, 940), fill=(110, 86, 60))
+    for k in range(6):
+        x = 560 + k * 250
+        d.rectangle((x, 540, x + 200, 860), fill=(30, 34, 34), outline=(90, 96, 92), width=6)
+        for j in range(3):
+            d.ellipse((x + 30 + j * 55, 600, x + 70 + j * 55, 640), fill=(200, 190, 140))
+        d.rectangle((x + 30, 700, x + 170, 760), fill=(40, 120, 70))
+    d.rectangle((1200, 150, 1360, 300), fill=(230, 226, 210)); d.line([(1280, 225), (1280, 170)], fill=(30, 30, 30), width=6); d.line([(1280, 225), (1320, 240)], fill=(30, 30, 30), width=6)
+    FLOOR["radio"] = 0.86
+    return im
+
+
+def bg_night_fireball():
+    im = vgrad((14, 18, 34), (30, 40, 60)); d = ImageDraw.Draw(im)
+    rng = random.Random(61)
+    for _ in range(200):
+        x, y = rng.uniform(0, BW), rng.uniform(0, 700); d.point((x, y), fill=(220, 220, 240))
+    waves(im, 900, (14, 26, 44), (30, 46, 70), rows=8)
+    lay = Image.new("L", (BW, BH), 0); ImageDraw.Draw(lay).ellipse((1500, 600, 1900, 1000), fill=255)
+    lay = lay.filter(ImageFilter.GaussianBlur(60))
+    im = Image.composite(Image.new("RGB", (BW, BH), (255, 160, 60)), im, lay)
+    d = ImageDraw.Draw(im)
+    d.polygon([(300, 980), (900, 960), (880, 1020), (320, 1030)], fill=(30, 30, 34)); d.rectangle((560, 880, 640, 965), fill=(30, 30, 34))
+    return im
+
+
+def bg_map_f19(stage=0):
+    im = Image.new("RGB", (BW, BH), (70, 140, 180)); d = ImageDraw.Draw(im)
+    land = (214, 196, 150)
+    d.polygon([(200, 0), (700, 0), (760, 500), (720, 900), (640, 1200), (520, 1300), (420, 1100), (360, 700)], fill=land)  # Florida
+    for k in range(10):  # Keys
+        d.ellipse((420 - k * 40, 1300 + k * 8, 470 - k * 40, 1320 + k * 8), fill=land)
+    for x, y, w in ((1200, 520, 160), (1350, 640, 120), (1500, 900, 220), (1700, 1100, 180), (1300, 1000, 90)):
+        d.ellipse((x - w, y - w * 0.35, x + w, y + w * 0.35), fill=land)
+    f = V.font(V.SANS_B, 50); fs = V.font(V.SANS, 38)
+    d.text((300, 120), "Florida", font=f, fill=(60, 50, 40)); d.text((560, 380), "Fort Lauderdale", font=fs, fill=(30, 30, 30))
+    d.ellipse((740, 440, 770, 470), fill=(200, 40, 40))
+    d.text((1150, 400), "Grand Bahama", font=fs, fill=(30, 30, 30)); d.text((1500, 1000), "Bahamas", font=f, fill=(30, 30, 30))
+    d.text((80, 1360), "Florida Keys", font=fs, fill=(30, 30, 30))
+    if stage >= 1:
+        d.line([(760, 455), (1150, 470), (1450, 470), (1250, 380), (760, 420)], fill=(255, 230, 120), width=8)
+        d.text((900, 500), "Planned training route (approx.)", font=fs, fill=(255, 240, 180))
+    if stage >= 2:
+        d.ellipse((1350, 60, 1950, 380), outline=(255, 255, 255), width=8)
+        d.text((1400, 200), "Last estimated area", font=f, fill=(255, 255, 255))
+    d.text((60, BH - 70), "Schematic map, not to scale", font=fs, fill=(220, 230, 240))
+    return im
