@@ -21,3 +21,5 @@
 - F4BbuyUxk8M Flannan Isles → 2026-10-30 02:00
 - Planned: Mary Celeste (mc/) long → 2026-10-31 02:00; Shorts tea/sailed → 10-31 05:00/08:00; wreck/flood → 11-01 05:00/08:00
 - Needed next: long-form for 11-01 02:00, then daily from 11-02 at 03:00/06:00/09:00.
+- zCguWAnmsbw — "Mary Celeste: Why Did 10 People Abandon a Perfectly Good Ship?" (Archie) — 2026-10-31 02:00; thumbnail A/B test (tea / where / sailed) set up
+- Waiting for upload: v3s/tea → 10-31 05:00, v3s/sailed → 10-31 08:00, v3s/wreck → 11-01 05:00, v3s/flood → 11-01 08:00, roanoke → 11-01 02:00 (rendering)
