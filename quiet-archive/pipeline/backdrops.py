@@ -700,3 +700,63 @@ def bg_map_pacific(stage=0):
         d.line([(1700, 380), (2080, 980)], fill=(255, 255, 255), width=5); d.text((2050, 360), "157-337 line", font=fs, fill=(255, 255, 255))
     d.text((60, BH - 70), "Schematic map, not to scale", font=fs, fill=(220, 230, 240))
     return im
+
+
+def bg_island_aerial():
+    im = Image.new("RGB", (BW, BH), (40, 100, 140)); d = ImageDraw.Draw(im)
+    rng = random.Random(111)
+    d.polygon([(600, 500), (1100, 360), (1700, 420), (2050, 650), (1900, 950), (1300, 1050), (800, 950), (550, 750)], fill=(226, 214, 170))
+    d.polygon([(660, 540), (1100, 410), (1660, 460), (1980, 660), (1850, 910), (1300, 1000), (840, 920), (610, 750)], fill=(60, 120, 70))
+    for _ in range(300):
+        x, y = rng.uniform(700, 1900), rng.uniform(450, 980)
+        d.ellipse((x - 18, y - 18, x + 18, y + 18), fill=(40, 100, 56))
+    d.rectangle((0, 760, 620, 800), fill=(180, 170, 150))  # causeway
+    d.ellipse((1180, 640, 1240, 700), fill=(80, 60, 40), outline=(240, 220, 120), width=6)
+    return im
+
+
+def bg_pit(depth=0):
+    """Cross-section of the 'money pit': platforms every 10 ft, water flooding at the bottom (stage depth 0-3)."""
+    im = Image.new("RGB", (BW, BH), (120, 90, 60)); d = ImageDraw.Draw(im)
+    d.rectangle((0, 0, BW, 200), fill=(150, 196, 226)); d.rectangle((0, 180, BW, 220), fill=(70, 120, 60))
+    for k in range(0, BW, 60):
+        for j in range(240, BH, 60):
+            d.point((k + (j % 120) // 2, j), fill=(100, 74, 50))
+    d.rectangle((1080, 200, 1480, BH), fill=(70, 50, 34))
+    f = V.font(V.SANS_B, 40)
+    for i in range(1, 10):
+        y = 200 + i * 120
+        d.rectangle((1080, y - 10, 1480, y + 10), fill=(160, 120, 70))
+        d.text((1520, y - 24), f"{i * 10} ft", font=f, fill=(240, 230, 210))
+    if depth >= 1:
+        d.rectangle((1180, 1250, 1380, 1300), fill=(150, 146, 136)); d.text((1520, 1240), "\"inscribed stone\" (lost)", font=f, fill=(255, 220, 140))
+    if depth >= 2:
+        d.rectangle((1080, 1180, 1480, BH), fill=(50, 110, 160))
+        d.text((300, 1220), "WATER", font=V.font(V.SANS_B, 90), fill=(160, 210, 240))
+    return im
+
+
+def bg_cove():
+    im = vgrad((150, 190, 220), (220, 230, 236)); soft_clouds(im, 6, 121); d = ImageDraw.Draw(im)
+    waves(im, 760, (40, 100, 140), (80, 140, 180), rows=6); d = ImageDraw.Draw(im)
+    d.polygon([(0, 900), (2560, 860), (2560, BH), (0, BH)], fill=(200, 184, 150))
+    rng = random.Random(122)
+    for _ in range(60):
+        x, y = rng.uniform(0, BW), rng.uniform(920, BH); r = rng.uniform(14, 40)
+        d.ellipse((x - r, y - r * 0.6, x + r, y + r * 0.6), fill=(150, 140, 126))
+    d.rectangle((900, 960, 1500, 1000), fill=(90, 70, 50)); d.rectangle((900, 1040, 1500, 1080), fill=(90, 70, 50))
+    FLOOR["cove"] = 0.86
+    return im
+
+
+def bg_map_oak(stage=0):
+    im = Image.new("RGB", (BW, BH), (60, 120, 160)); d = ImageDraw.Draw(im)
+    land = (214, 206, 176)
+    d.polygon([(0, 0), (2560, 0), (2560, 300), (1800, 420), (1500, 380), (1100, 520), (700, 480), (300, 640), (0, 600)], fill=land)
+    for x, y, w in ((1300, 800, 140), (900, 900, 90), (1700, 950, 110), (1100, 1100, 70)):
+        d.ellipse((x - w, y - w * 0.6, x + w, y + w * 0.6), fill=land)
+    f = V.font(V.SANS_B, 48); fs = V.font(V.SANS, 36)
+    d.text((900, 120), "Nova Scotia", font=f, fill=(60, 50, 40)); d.text((1050, 640), "Oak Island", font=f, fill=(255, 255, 255))
+    d.text((1500, 1150), "Mahone Bay", font=fs, fill=(220, 230, 240)); d.ellipse((1290, 790, 1320, 820), fill=(220, 40, 40))
+    d.text((60, BH - 70), "Schematic map, not to scale", font=fs, fill=(220, 230, 240))
+    return im
