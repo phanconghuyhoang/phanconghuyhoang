@@ -1,0 +1,455 @@
+1
+00:00:00,300 --> 00:00:02,772
+July second, nineteen thirty seven.
+
+2
+00:00:02,992 --> 00:00:08,331
+Somewhere over the Pacific, the most famous pilot in the world is talking on the radio.
+
+3
+00:00:08,831 --> 00:00:12,497
+She says she must be right on top of the island she's looking for.
+
+4
+00:00:12,717 --> 00:00:13,815
+But she can't see it.
+
+5
+00:00:14,035 --> 00:00:15,735
+And her gas is running low.
+
+6
+00:00:16,235 --> 00:00:18,585
+An hour later, the radio goes quiet.
+
+7
+00:00:18,805 --> 00:00:19,486
+Forever.
+
+8
+00:00:19,986 --> 00:00:28,486
+Nearly ninety years, dozens of expeditions, and several million dollars later, people are still arguing about where she went.
+
+9
+00:00:29,886 --> 00:00:35,259
+Hi, I'm Archie, this is The Quiet Archive, and today's file is Amelia Earhart.
+
+10
+00:00:35,759 --> 00:00:37,146
+Everyone knows the name.
+
+11
+00:00:37,366 --> 00:00:40,164
+Fewer people know the actual radio logs.
+
+12
+00:00:40,384 --> 00:00:43,513
+And the radio logs are where this story really lives.
+
+13
+00:00:44,013 --> 00:00:50,819
+So let's follow the flight, the calls, and the clues, and see which theories survive contact with the evidence.
+
+14
+00:00:52,219 --> 00:00:56,117
+By nineteen thirty seven, Amelia Earhart was a superstar.
+
+15
+00:00:56,337 --> 00:01:02,910
+In nineteen thirty two she became the first woman to fly solo, nonstop, across the Atlantic.
+
+16
+00:01:03,410 --> 00:01:05,090
+Now she wanted something bigger.
+
+17
+00:01:05,310 --> 00:01:09,184
+A flight around the world, as close to the equator as possible.
+
+18
+00:01:09,404 --> 00:01:11,462
+The longest route anyone had tried.
+
+19
+00:01:11,962 --> 00:01:20,130
+Her navigator was Fred Noonan, an experienced ocean navigator who had helped plan Pan American's routes across the Pacific.
+
+20
+00:01:20,630 --> 00:01:28,060
+Their plane was a Lockheed Electra, a sleek, twin engine, silver aircraft, packed with extra fuel tanks.
+
+21
+00:01:28,560 --> 00:01:35,826
+They flew east, from California, across the United States, South America, Africa, Asia and down to New Guinea.
+
+22
+00:01:36,046 --> 00:01:38,007
+About twenty two thousand miles.
+
+23
+00:01:38,507 --> 00:01:40,347
+Seven thousand miles to go.
+
+24
+00:01:40,567 --> 00:01:42,687
+All of it over the Pacific Ocean.
+
+25
+00:01:42,907 --> 00:01:46,550
+The scariest part was saved for last, like a horror movie.
+
+26
+00:01:47,950 --> 00:01:50,158
+The next leg was the hardest of all.
+
+27
+00:01:50,378 --> 00:01:53,071
+From Lae, in New Guinea, to Howland Island.
+
+28
+00:01:53,291 --> 00:01:56,525
+About two thousand five hundred miles of open water.
+
+29
+00:01:57,025 --> 00:01:58,806
+And Howland Island is tiny.
+
+30
+00:01:59,026 --> 00:02:04,413
+Just over a mile long, half a kilometer wide, and only around three meters high.
+
+31
+00:02:04,913 --> 00:02:10,016
+Finding it was like flying across an entire ocean to land on a parking lot.
+
+32
+00:02:10,516 --> 00:02:19,372
+To help, the US Coast Guard stationed a ship next to the island, the cutter Itasca, to talk to the plane by radio and guide her in.
+
+33
+00:02:20,772 --> 00:02:29,134
+On July second, the Electra took off from Lae at around ten in the morning, heavy with about eleven hundred gallons of fuel.
+
+34
+00:02:29,634 --> 00:02:32,012
+The flight would take about eighteen hours.
+
+35
+00:02:32,232 --> 00:02:44,025
+Most of it at night, navigating by the stars and by dead reckoning, which basically means: we've been going this fast, in this direction, for this long, so we must be about here.
+
+36
+00:02:44,525 --> 00:02:50,621
+Over thousands of miles, even a tiny error in that calculation grows into a big miss.
+
+37
+00:02:52,021 --> 00:02:56,047
+On board the Itasca, radio operators waited through the night.
+
+38
+00:02:56,547 --> 00:02:57,864
+They could hear Earhart.
+
+39
+00:02:58,084 --> 00:03:01,503
+Her voice came in, sometimes faint, sometimes strong.
+
+40
+00:03:01,723 --> 00:03:03,044
+But there was a problem.
+
+41
+00:03:03,544 --> 00:03:04,971
+She didn't seem to hear them.
+
+42
+00:03:05,471 --> 00:03:10,309
+The plane and the ship were partly using different radio setups and frequencies.
+
+43
+00:03:10,529 --> 00:03:14,074
+The ship's direction finder couldn't get a fix on her signal.
+
+44
+00:03:14,294 --> 00:03:20,373
+And there may even have been confusion about which time zone everyone was using for their schedules.
+
+45
+00:03:20,873 --> 00:03:26,719
+In other words, a phone call where both people are shouting hello, and neither can hear the other.
+
+46
+00:03:28,119 --> 00:03:32,132
+At seven forty two in the morning, the clearest message came through.
+
+47
+00:03:32,632 --> 00:03:34,645
+We must be on you, but cannot see you.
+
+48
+00:03:34,865 --> 00:03:36,416
+But gas is running low.
+
+49
+00:03:36,636 --> 00:03:38,882
+Been unable to reach you by radio.
+
+50
+00:03:39,102 --> 00:03:41,289
+We are flying at one thousand feet.
+
+51
+00:03:41,789 --> 00:03:46,653
+The Itasca's crew was pumping black smoke into the sky so she could spot them.
+
+52
+00:03:46,873 --> 00:03:47,840
+It didn't help.
+
+53
+00:03:48,340 --> 00:03:51,032
+At eight forty three came her last transmission.
+
+54
+00:03:51,252 --> 00:03:54,551
+We are on the line one five seven, three three seven.
+
+55
+00:03:54,771 --> 00:03:56,700
+Running on line north and south.
+
+56
+00:03:58,100 --> 00:04:01,314
+That message is the most important clue in the case.
+
+57
+00:04:01,534 --> 00:04:02,783
+It's a compass line.
+
+58
+00:04:03,003 --> 00:04:09,507
+Noonan would have calculated that Howland was somewhere on a line running north northwest to south southeast.
+
+59
+00:04:10,007 --> 00:04:13,782
+So they were flying up and down that line, looking for the island.
+
+60
+00:04:14,002 --> 00:04:17,115
+The trouble is, they didn't say where on the line they were.
+
+61
+00:04:17,615 --> 00:04:24,837
+Follow that line south, about three hundred and fifty nautical miles from Howland, and you hit another island.
+
+62
+00:04:25,057 --> 00:04:26,230
+Gardner Island.
+
+63
+00:04:26,450 --> 00:04:28,178
+Today called Nikumaroro.
+
+64
+00:04:28,678 --> 00:04:29,835
+Keep that in mind.
+
+65
+00:04:31,235 --> 00:04:38,129
+The search that followed was the biggest and most expensive air and sea search in US history up to that point.
+
+66
+00:04:38,629 --> 00:04:46,283
+Navy ships, an aircraft carrier, planes, and the Coast Guard covered hundreds of thousands of square miles of ocean.
+
+67
+00:04:46,503 --> 00:04:50,826
+It cost around four million dollars, in nineteen thirty seven money.
+
+68
+00:04:51,326 --> 00:04:52,417
+They found nothing.
+
+69
+00:04:52,637 --> 00:04:55,155
+No plane, no oil slick, no wreckage.
+
+70
+00:04:55,655 --> 00:04:58,193
+The search was called off on July nineteenth.
+
+71
+00:04:58,413 --> 00:05:02,928
+In nineteen thirty nine, Amelia Earhart was declared legally dead.
+
+72
+00:05:04,328 --> 00:05:04,914
+So.
+
+73
+00:05:05,134 --> 00:05:06,190
+Where did they go?
+
+74
+00:05:06,410 --> 00:05:10,646
+There are three main theories, and they get progressively more dramatic.
+
+75
+00:05:12,046 --> 00:05:13,824
+Theory one, the boring one.
+
+76
+00:05:14,044 --> 00:05:21,793
+They never found Howland, ran out of fuel, ditched in the ocean, and the plane sank in water thousands of meters deep.
+
+77
+00:05:22,293 --> 00:05:27,065
+This is what the US government concluded, and what most historians think.
+
+78
+00:05:27,285 --> 00:05:31,394
+It fits the fuel, the radio calls, and the total lack of wreckage.
+
+79
+00:05:31,894 --> 00:05:38,043
+The problem with this theory is that it requires finding a small plane on the bottom of the Pacific.
+
+80
+00:05:38,263 --> 00:05:40,431
+Several deep sea searches have tried.
+
+81
+00:05:40,651 --> 00:05:42,460
+So far, the ocean is winning.
+
+82
+00:05:43,860 --> 00:05:44,811
+Theory two.
+
+83
+00:05:45,031 --> 00:05:52,368
+They followed that one five seven line south, and landed on the reef at Gardner Island, now Nikumaroro.
+
+84
+00:05:52,868 --> 00:06:03,945
+In nineteen forty, a British colonial officer on the island found part of a human skeleton, along with what looked like a woman's shoe and a box for a navigation tool.
+
+85
+00:06:04,445 --> 00:06:09,053
+The bones were examined by a doctor, who decided they belonged to a man.
+
+86
+00:06:09,273 --> 00:06:13,056
+And then, in the great tradition of history, the bones were lost.
+
+87
+00:06:13,556 --> 00:06:23,328
+Decades later, a researcher re-analysed the doctor's old measurements and argued they were actually a closer match to Earhart than to most people.
+
+88
+00:06:23,548 --> 00:06:25,082
+Other experts disagree.
+
+89
+00:06:25,302 --> 00:06:27,822
+Without the bones, nobody can test them.
+
+90
+00:06:28,322 --> 00:06:34,470
+Expeditions to Nikumaroro have found intriguing objects, but nothing that clearly says Earhart.
+
+91
+00:06:34,690 --> 00:06:37,281
+It's a strong theory with a lot of maybes.
+
+92
+00:06:38,681 --> 00:06:39,652
+Theory three.
+
+93
+00:06:39,872 --> 00:06:45,222
+They came down in the Marshall Islands, then controlled by Japan, and were captured.
+
+94
+00:06:45,722 --> 00:06:51,236
+This one has stories from local witnesses and some supporters, but no hard documents.
+
+95
+00:06:51,736 --> 00:06:58,938
+In twenty seventeen, a TV documentary showed an old photo said to show Earhart in the Marshall Islands.
+
+96
+00:06:59,158 --> 00:07:04,856
+Within days, a blogger found the same photo in a travel book published in nineteen thirty five.
+
+97
+00:07:05,076 --> 00:07:06,897
+Two years before she disappeared.
+
+98
+00:07:07,397 --> 00:07:12,440
+Hard to be captured in nineteen thirty seven in a photo from nineteen thirty five.
+
+99
+00:07:13,840 --> 00:07:15,600
+So here's the honest version.
+
+100
+00:07:16,100 --> 00:07:17,076
+Documented.
+
+101
+00:07:17,296 --> 00:07:23,204
+Earhart and Noonan left Lae on July second, nineteen thirty seven, for Howland Island.
+
+102
+00:07:23,424 --> 00:07:25,910
+The Itasca heard her but she didn't hear them.
+
+103
+00:07:26,130 --> 00:07:32,436
+Her last calls said fuel was low and placed her on the one five seven, three three seven line.
+
+104
+00:07:32,656 --> 00:07:34,983
+No wreckage has ever been confirmed.
+
+105
+00:07:35,483 --> 00:07:36,213
+Legend.
+
+106
+00:07:36,433 --> 00:07:43,850
+Secret spy missions, faked deaths, and a new life under another name, none of which has any solid evidence.
+
+107
+00:07:44,350 --> 00:07:54,918
+What probably happened is that two very skilled people, flying an incredibly hard route, missed a tiny island by a small margin, and ran out of time.
+
+108
+00:07:56,318 --> 00:07:57,535
+So what do you think?
+
+109
+00:07:57,755 --> 00:08:00,577
+Deep ocean, Nikumaroro, or something else?
+
+110
+00:08:01,077 --> 00:08:02,325
+Tell me in the comments.
+
+111
+00:08:02,545 --> 00:08:07,124
+Bonus points if you can find Howland Island on a map without zooming in.
+
+112
+00:08:07,344 --> 00:08:08,100
+I couldn't.
+
+113
+00:08:08,600 --> 00:08:12,744
+If you like true stories that history never quite finished, subscribe.
+
+114
+00:08:12,964 --> 00:08:17,384
+I'm Archie, this is The Quiet Archive, and I'll see you in the next file.
