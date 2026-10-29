@@ -29,3 +29,7 @@
 - iG6SHaSWeic — Short "They Called the Ghost Ship a Murder Scene" — 2026-11-01 08:00
 - Next: f19 (Flight 19, rendering) → 11-02 03:00; v3s/keys → 11-02 06:00; v3s/rescue → 11-02 09:00
 - Note: captions sometimes fail in the upload dialog; verify on the video's Ngôn ngữ page and use "Tải lên theo cách thủ công" if missing.
+- E4QHr2gohVw — "Flight 19: The Disappearance That Created the Bermuda Triangle" (Archie, 7:09) — 2026-11-02 03:00; A/B title+thumb (reaction / cinematic / question); captions uploaded manually
+- q-EJNmpVuv8 — Short "He Thought He Was Over the Florida Keys" — 2026-11-02 06:00
+- ND952hR9iYQ — Short "The Rescue Plane That Vanished Too" — 2026-11-02 09:00
+- Next: Saturday deep-dive (Franklin expedition, 18–25 min) → Sat 31 Oct 12:00 EDT = 2026-10-31 23:00 VN; daily set for 11-03 (03:00/06:00/09:00)
