@@ -76,7 +76,8 @@ Push the files first (split > 95 MB: `split -b 90m -d final.mp4 final.mp4.part`)
 
 ## 7. After publishing days
 - Public videos: end screen (subscribe + best related video), add to pillar playlists, pin a question comment.
-- Saturdays: a 1–3 h "to fall asleep to" compilation of past long-forms (own content, own title) for watch hours.
+- NO compilations or re-cuts of earlier videos (owner rule, 2026-10-29). For watch hours, make one longer standalone
+  deep-dive (18–25 min, one complete story) per week instead.
 
 ## 8. Log and report
 Append to `published.md` (id, title, slot), update `analytics.md`, commit and push. Send the owner a short Vietnamese

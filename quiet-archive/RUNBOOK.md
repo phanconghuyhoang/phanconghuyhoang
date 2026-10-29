@@ -84,3 +84,5 @@ or an irreversible decision such as deleting a video or renaming the channel).
 | Short 1 | 18:00 | 06:00 | 05:00 |
 | Short 2 | 21:00 | 09:00 | 08:00 |
 Every upload: AI = "Có", AI note in description, captions, tags, scheduled (never publish now).
+
+- Owner rule 2026-10-29: never make compilations / re-edits of earlier videos. Every upload is new, standalone content.
