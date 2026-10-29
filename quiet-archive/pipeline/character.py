@@ -48,7 +48,7 @@ EXPR = ("neutral", "smug", "shocked", "scared", "deadpan", "laugh", "sad", "susp
 
 
 def pose(name):
-    return dict(zip(KEYS, POSES[name]))
+    return dict(zip(KEYS, POSES.get(name, POSES["idle"])))
 
 
 def lerp_pose(a, b, u):
