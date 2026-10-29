@@ -1,0 +1,583 @@
+1
+00:00:00,300 --> 00:00:02,283
+August eighteenth, fifteen ninety.
+
+2
+00:00:02,503 --> 00:00:07,147
+A man named John White walks into a colony he left three years earlier.
+
+3
+00:00:07,647 --> 00:00:08,463
+It's empty.
+
+4
+00:00:08,683 --> 00:00:10,329
+Over a hundred people, gone.
+
+5
+00:00:10,549 --> 00:00:11,932
+Houses taken apart.
+
+6
+00:00:12,152 --> 00:00:13,079
+No bodies.
+
+7
+00:00:13,299 --> 00:00:14,227
+No graves.
+
+8
+00:00:14,727 --> 00:00:18,228
+And carved into a wooden post at the entrance, one word.
+
+9
+00:00:18,448 --> 00:00:19,272
+Croatoan.
+
+10
+00:00:20,072 --> 00:00:21,207
+Not a great note.
+
+11
+00:00:21,427 --> 00:00:23,736
+I've seen better messages on a fridge.
+
+12
+00:00:25,136 --> 00:00:25,665
+Hi.
+
+13
+00:00:25,885 --> 00:00:32,579
+I'm Archie, this is The Quiet Archive, and today we're opening the file on the Lost Colony of Roanoke.
+
+14
+00:00:33,079 --> 00:00:36,341
+The oldest unsolved mystery in American history.
+
+15
+00:00:36,561 --> 00:00:38,255
+Older than the United States.
+
+16
+00:00:38,475 --> 00:00:41,661
+Older than, honestly, most of the furniture in here.
+
+17
+00:00:42,161 --> 00:00:47,359
+So who were these people, why did their leader leave them, and what did that one word mean?
+
+18
+00:00:47,579 --> 00:00:48,931
+Let's go to the records.
+
+19
+00:00:50,331 --> 00:00:51,690
+First, some context.
+
+20
+00:00:51,910 --> 00:00:54,152
+Roanoke was not England's first try.
+
+21
+00:00:54,372 --> 00:00:55,406
+It was its second.
+
+22
+00:00:55,906 --> 00:01:05,727
+In fifteen eighty five, a group of soldiers led by Ralph Lane built an outpost on Roanoke Island, off the coast of what's now North Carolina.
+
+23
+00:01:06,227 --> 00:01:07,417
+It did not go well.
+
+24
+00:01:07,637 --> 00:01:11,862
+They ran low on food, and they made enemies of the local tribes.
+
+25
+00:01:12,362 --> 00:01:17,446
+So when Sir Francis Drake sailed by the next year, they basically hitched a ride home.
+
+26
+00:01:17,946 --> 00:01:24,276
+A relief fleet showed up two weeks later, found the place empty, and left fifteen men behind to hold it.
+
+27
+00:01:24,496 --> 00:01:26,559
+They were attacked, and never seen again.
+
+28
+00:01:27,359 --> 00:01:28,155
+So yes.
+
+29
+00:01:28,375 --> 00:01:32,469
+Roanoke had a disappearance problem before the famous disappearance.
+
+30
+00:01:33,869 --> 00:01:36,563
+In fifteen eighty seven, England tried again.
+
+31
+00:01:36,783 --> 00:01:38,227
+This time with families.
+
+32
+00:01:38,727 --> 00:01:40,957
+About a hundred and fifteen colonists.
+
+33
+00:01:41,177 --> 00:01:42,615
+Men, women, and children.
+
+34
+00:01:42,835 --> 00:01:45,516
+Their governor was an artist named John White.
+
+35
+00:01:46,016 --> 00:01:47,891
+The plan was not even Roanoke.
+
+36
+00:01:48,111 --> 00:01:51,696
+They were supposed to settle further north, in Chesapeake Bay.
+
+37
+00:01:53,096 --> 00:02:01,158
+But the ship's pilot, a man named Simon Fernandes, dropped them off at Roanoke instead, and refused to take them further.
+
+38
+00:02:01,658 --> 00:02:06,946
+Imagine booking a flight to New York and the pilot just goes, eh, Delaware's fine.
+
+39
+00:02:07,166 --> 00:02:07,875
+Get out.
+
+40
+00:02:08,375 --> 00:02:13,443
+So the colonists settled into the old buildings on Roanoke Island and got to work.
+
+41
+00:02:14,843 --> 00:02:20,772
+On August eighteenth, fifteen eighty seven, White's daughter Eleanor gave birth to a baby girl.
+
+42
+00:02:20,992 --> 00:02:22,077
+Virginia Dare.
+
+43
+00:02:22,577 --> 00:02:25,400
+The first English child born in the Americas.
+
+44
+00:02:25,620 --> 00:02:27,721
+John White was now a grandfather.
+
+45
+00:02:28,221 --> 00:02:30,192
+Then the colonists made a request.
+
+46
+00:02:30,412 --> 00:02:31,662
+Supplies were short.
+
+47
+00:02:31,882 --> 00:02:35,179
+They needed someone to sail back to England and bring help.
+
+48
+00:02:35,679 --> 00:02:37,057
+And they chose the governor.
+
+49
+00:02:37,277 --> 00:02:38,143
+John White.
+
+50
+00:02:38,643 --> 00:02:39,803
+He agreed to go.
+
+51
+00:02:40,023 --> 00:02:46,279
+Nine days after his granddaughter was born, he sailed for England, planning to be back within a year.
+
+52
+00:02:47,679 --> 00:02:49,603
+He made it to England in November.
+
+53
+00:02:49,823 --> 00:02:50,452
+Great.
+
+54
+00:02:50,672 --> 00:02:52,240
+Now he just needed a ship.
+
+55
+00:02:52,740 --> 00:02:53,432
+Problem.
+
+56
+00:02:53,652 --> 00:02:55,354
+Spain was about to invade.
+
+57
+00:02:55,854 --> 00:03:02,797
+The Spanish Armada was coming, and Queen Elizabeth ordered that every useful ship stay home to defend England.
+
+58
+00:03:03,297 --> 00:03:06,273
+Which is a very reasonable decision for a country.
+
+59
+00:03:06,493 --> 00:03:08,502
+And a terrible one for a grandfather.
+
+60
+00:03:09,902 --> 00:03:13,334
+White did manage to get two small ships in fifteen eighty eight.
+
+61
+00:03:13,554 --> 00:03:18,232
+They were attacked by French sailors on the way, robbed, and forced to turn back.
+
+62
+00:03:18,732 --> 00:03:20,651
+Even the backup plan got robbed.
+
+63
+00:03:21,151 --> 00:03:24,808
+England beat the Armada, but the ban on ships kept going.
+
+64
+00:03:25,028 --> 00:03:29,922
+It took White until fifteen ninety to finally get back across the Atlantic.
+
+65
+00:03:30,422 --> 00:03:31,958
+Three years after he left.
+
+66
+00:03:33,358 --> 00:03:36,966
+He landed on Roanoke on August eighteenth, fifteen ninety.
+
+67
+00:03:37,186 --> 00:03:38,900
+His granddaughter's third birthday.
+
+68
+00:03:39,400 --> 00:03:40,885
+The settlement was empty.
+
+69
+00:03:41,105 --> 00:03:43,048
+The houses had been taken down.
+
+70
+00:03:43,268 --> 00:03:47,334
+A palisade, a wall of wooden stakes, had been built around the site.
+
+71
+00:03:47,834 --> 00:03:50,460
+Several chests had been buried and dug up again.
+
+72
+00:03:50,680 --> 00:03:52,226
+Three of them were White's own.
+
+73
+00:03:52,446 --> 00:03:55,736
+His books, his maps, his paintings, ruined by the weather.
+
+74
+00:03:56,236 --> 00:03:57,609
+But there were no bodies.
+
+75
+00:03:57,829 --> 00:03:58,757
+No graves.
+
+76
+00:03:58,977 --> 00:04:00,356
+No signs of a fight.
+
+77
+00:04:01,756 --> 00:04:03,199
+And there were two carvings.
+
+78
+00:04:03,419 --> 00:04:05,493
+The letters C, R, O on a tree.
+
+79
+00:04:05,993 --> 00:04:09,376
+And the full word, Croatoan, on a post at the entrance.
+
+80
+00:04:09,876 --> 00:04:11,883
+Here's the part most retellings skip.
+
+81
+00:04:12,103 --> 00:04:15,764
+Before he left, White had agreed on a code with the colonists.
+
+82
+00:04:16,264 --> 00:04:18,858
+If they moved, they would carve where they went.
+
+83
+00:04:19,078 --> 00:04:23,460
+And if they left because they were in danger, they would carve a cross above it.
+
+84
+00:04:24,260 --> 00:04:25,362
+There was no cross.
+
+85
+00:04:25,862 --> 00:04:31,117
+So according to their own system, the message basically said: we moved to Croatoan.
+
+86
+00:04:31,337 --> 00:04:32,169
+We're fine.
+
+87
+00:04:33,569 --> 00:04:38,949
+Croatoan was an island about fifty miles south, today part of Hatteras Island.
+
+88
+00:04:39,169 --> 00:04:43,243
+It was home to the Croatoan people, who had been friendly to the English.
+
+89
+00:04:43,743 --> 00:04:45,508
+So White did the obvious thing.
+
+90
+00:04:45,728 --> 00:04:48,268
+He got back on his ship to go to Croatoan.
+
+91
+00:04:49,668 --> 00:04:50,815
+And then a storm hit.
+
+92
+00:04:51,035 --> 00:04:52,541
+An anchor cable snapped.
+
+93
+00:04:52,761 --> 00:04:59,262
+The ship was down to its last working anchor, the weather was getting worse, and the crew refused to risk it.
+
+94
+00:04:59,762 --> 00:05:01,880
+So the ship turned around and headed home.
+
+95
+00:05:02,780 --> 00:05:05,209
+John White never returned to America.
+
+96
+00:05:05,429 --> 00:05:08,191
+He never saw his daughter or his granddaughter again.
+
+97
+00:05:09,591 --> 00:05:14,935
+I want to stop on that for a second, because the mystery part can make us forget the human part.
+
+98
+00:05:15,435 --> 00:05:25,504
+This was a grandfather who spent three years fighting a war, a ban, and pirates to get back to his family, and then lost them to bad weather fifty miles away.
+
+99
+00:05:26,004 --> 00:05:26,678
+Okay.
+
+100
+00:05:26,898 --> 00:05:28,132
+So where did they go?
+
+101
+00:05:28,352 --> 00:05:29,680
+Let's look at the theories.
+
+102
+00:05:31,080 --> 00:05:31,962
+Theory one.
+
+103
+00:05:32,182 --> 00:05:37,425
+They went to Croatoan, exactly like the post said, and joined the Croatoan people.
+
+104
+00:05:37,925 --> 00:05:44,078
+Over generations, they would have married into the community, and simply stopped being "the English colony".
+
+105
+00:05:44,578 --> 00:05:45,499
+Theory two.
+
+106
+00:05:45,719 --> 00:05:46,648
+They split up.
+
+107
+00:05:46,868 --> 00:05:51,457
+Some went to Croatoan, others moved inland, maybe toward the mainland.
+
+108
+00:05:51,957 --> 00:05:52,911
+Theory three.
+
+109
+00:05:53,131 --> 00:05:59,055
+They tried to reach Chesapeake Bay, their original destination, and were killed there years later.
+
+110
+00:05:59,275 --> 00:06:07,641
+That idea comes from English writers in the sixteen hundreds, and historians are skeptical of how reliable those writers were.
+
+111
+00:06:08,141 --> 00:06:09,088
+Theory four.
+
+112
+00:06:09,308 --> 00:06:12,647
+They died at sea, trying to sail home in a small boat.
+
+113
+00:06:13,447 --> 00:06:15,815
+And theory five, of course, is aliens.
+
+114
+00:06:16,035 --> 00:06:18,142
+Theory five is always aliens.
+
+115
+00:06:18,362 --> 00:06:20,095
+We do not do theory five here.
+
+116
+00:06:21,495 --> 00:06:26,211
+In the nineteen thirties, a man brought a stone to a university in Georgia.
+
+117
+00:06:26,431 --> 00:06:32,685
+It was carved with a message, supposedly from Eleanor Dare herself, describing the colony's fate.
+
+118
+00:06:33,185 --> 00:06:34,576
+Then more stones showed up.
+
+119
+00:06:34,796 --> 00:06:35,873
+Dozens of them.
+
+120
+00:06:36,373 --> 00:06:41,382
+In nineteen forty one, a magazine investigation concluded they were fakes.
+
+121
+00:06:41,602 --> 00:06:49,085
+The writing used words and spellings that didn't fit the period, and some of the stones came from a man who was paid by the stone.
+
+122
+00:06:49,585 --> 00:06:53,580
+Turns out, if you pay people per mystery, you get a lot of mysteries.
+
+123
+00:06:54,980 --> 00:06:57,022
+So the archaeologists went looking.
+
+124
+00:06:57,242 --> 00:07:06,551
+On Hatteras Island, the old Croatoan, digs have turned up English objects from the right era, including part of a sword and pieces of a gun.
+
+125
+00:07:07,051 --> 00:07:17,530
+Another team, on the mainland at a spot called Site X, found English pottery, after spotting a hidden symbol under a patch on one of John White's own maps.
+
+126
+00:07:18,030 --> 00:07:24,097
+The problem is that both sites could also be explained by other English visitors, or by trade.
+
+127
+00:07:24,317 --> 00:07:26,399
+Nobody has found the smoking gun.
+
+128
+00:07:26,619 --> 00:07:30,084
+Literally, they found part of a gun, but not a smoking one.
+
+129
+00:07:30,584 --> 00:07:33,998
+And a lot of the original island has simply washed away.
+
+130
+00:07:34,218 --> 00:07:37,791
+Parts of Roanoke's north shore have eroded by hundreds of feet.
+
+131
+00:07:39,191 --> 00:07:40,609
+So, the honest version.
+
+132
+00:07:41,109 --> 00:07:42,047
+Documented.
+
+133
+00:07:42,267 --> 00:07:47,337
+About a hundred and fifteen colonists were left on Roanoke in fifteen eighty seven.
+
+134
+00:07:47,557 --> 00:07:49,412
+White couldn't return for three years.
+
+135
+00:07:49,632 --> 00:07:56,391
+He found the site dismantled, with CRO on a tree and Croatoan on a post, and no distress cross.
+
+136
+00:07:56,891 --> 00:07:57,621
+Legend.
+
+137
+00:07:57,841 --> 00:08:00,423
+That they vanished into thin air without a clue.
+
+138
+00:08:00,643 --> 00:08:01,742
+They left a clue.
+
+139
+00:08:01,962 --> 00:08:04,489
+They left the clearest clue in this entire genre.
+
+140
+00:08:04,989 --> 00:08:14,374
+What probably happened is that the colonists did what they said they'd do, went to Croatoan, and over time, their story became part of someone else's.
+
+141
+00:08:15,774 --> 00:08:16,954
+So what do you think?
+
+142
+00:08:17,174 --> 00:08:20,890
+Croatoan, the mainland, or somewhere nobody has dug yet?
+
+143
+00:08:21,390 --> 00:08:22,634
+Tell me in the comments.
+
+144
+00:08:22,854 --> 00:08:28,355
+I'll read them, slowly, with my reading glasses, which are also my regular glasses.
+
+145
+00:08:28,855 --> 00:08:32,933
+If you like true stories that history never quite finished, subscribe.
+
+146
+00:08:33,153 --> 00:08:37,535
+I'm Archie, this is The Quiet Archive, and I'll see you in the next file.
