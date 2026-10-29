@@ -15,6 +15,9 @@ Commit as `Claude <noreply@anthropic.com>`; end messages with the attribution li
 ## 1. What is already scheduled
 Read `published.md` (log of every upload and slot). Fixed slots (YouTube Studio is GMT+7):
 - Long-form 15:00 ET → **03:00 VN** (EST, from 2 Nov 2026; until 8 Mar 2027). Shorts 18:00/21:00 ET → **06:00 / 09:00 VN**.
+- Saturdays (owner-approved 2026-10-29): one EXTRA long-form deep-dive, 18–25 min, a NEW standalone story (never a
+  compilation), at 12:00 ET Saturday = 00:00 VN Sunday (EST; 23:00 VN Saturday during EDT). First one: Sat 31 Oct 12:00 EDT = Sun 1 Nov 00:00? No — 31 Oct is EDT → 23:00 VN Sat 31 Oct; from 7 Nov use 00:00 VN Sunday.
+- Review ~15 Nov 2026: if CTR and retention are stable, add a second daily long-form at 09:00 ET (21:00 VN), on winning topics.
 - From 8 Mar 2027 (EDT) shift all to 02:00 / 05:00 / 08:00 VN.
 Find the first VN date whose 3 slots are not all filled; produce for that date (and the next if time allows).
 
