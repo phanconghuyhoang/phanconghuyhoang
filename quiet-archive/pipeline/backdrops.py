@@ -506,3 +506,197 @@ def bg_map_f19(stage=0):
         d.text((1400, 200), "Last estimated area", font=f, fill=(255, 255, 255))
     d.text((60, BH - 70), "Schematic map, not to scale", font=fs, fill=(220, 230, 240))
     return im
+
+
+def bg_arctic(ships=True, beset=False, night=False):
+    im = vgrad((40, 50, 80) if night else (170, 200, 225), (120, 140, 170) if night else (230, 240, 248))
+    if not night:
+        soft_clouds(im, 6, 71, (250, 250, 255), 160)
+    d = ImageDraw.Draw(im)
+    rng = random.Random(72)
+    for k in range(9):  # distant ice ridges
+        x = k * 320 - 100
+        d.polygon([(x, 900), (x + 160, 760 + rng.randint(-40, 40)), (x + 360, 900)], fill=(205, 222, 235) if not night else (90, 104, 130))
+    if beset:
+        d.rectangle((0, 880, BW, BH), fill=(232, 240, 246) if not night else (120, 134, 160))
+        for k in range(40):
+            x, y = rng.uniform(0, BW), rng.uniform(900, BH)
+            d.line([(x, y), (x + rng.uniform(80, 260), y + rng.uniform(-30, 30))], fill=(180, 200, 216), width=4)
+    else:
+        waves(im, 900, (40, 70, 100), (70, 100, 130), rows=6)
+        d = ImageDraw.Draw(im)
+        for k in range(12):
+            x, y = rng.uniform(0, BW), rng.uniform(940, 1380); w = rng.uniform(80, 260)
+            d.polygon([(x, y), (x + w, y - 10), (x + w * 0.8, y + 30), (x + 10, y + 34)], fill=(236, 244, 250))
+    d = ImageDraw.Draw(im)
+    if ships:
+        for x, s in ((900, 0.75), (1700, 0.65)):
+            sailing_ship(d, x, 900, s, hull=(40, 34, 30), sail=(236, 236, 230) if not beset else (210, 210, 205), masts=3, damaged=False)
+            if beset:
+                d.polygon([(x - 320 * s, 905), (x + 380 * s, 905), (x + 300 * s, 960), (x - 260 * s, 960)], fill=(240, 246, 250))
+    if night:
+        for _ in range(150):
+            d.point((rng.uniform(0, BW), rng.uniform(0, 600)), fill=(230, 230, 250))
+        lay = Image.new("L", (BW, BH), 0); ImageDraw.Draw(lay).polygon([(0, 200), (BW, 80), (BW, 260), (0, 380)], fill=120)
+        lay = lay.filter(ImageFilter.GaussianBlur(80))
+        im = Image.composite(Image.new("RGB", (BW, BH), (80, 220, 160)), im, lay)
+    FLOOR["arctic"] = 0.88
+    return im
+
+
+def bg_graves():
+    im = vgrad((150, 170, 190), (220, 226, 230)); d = ImageDraw.Draw(im)
+    d.polygon([(0, 700), (700, 560), (1500, 640), (2560, 520), (2560, 900), (0, 900)], fill=(120, 116, 110))
+    d.rectangle((0, 880, BW, BH), fill=(150, 144, 136))
+    for i, x in enumerate((900, 1240, 1580)):
+        d.rounded_rectangle((x, 640, x + 180, 900), radius=60, fill=(214, 206, 190), outline=(120, 112, 100), width=6)
+        d.polygon([(x - 40, 900), (x + 220, 900), (x + 190, 960), (x - 10, 960)], fill=(130, 124, 114))
+    FLOOR["graves"] = 0.86
+    return im
+
+
+def bg_cairn(note=False):
+    im = vgrad((170, 190, 210), (226, 232, 236)); d = ImageDraw.Draw(im)
+    d.rectangle((0, 900, BW, BH), fill=(160, 150, 136))
+    rng = random.Random(81)
+    for k in range(60):
+        x = 1100 + rng.uniform(-200, 200) * (1 - k / 70); y = 900 - k * 9
+        r = rng.uniform(40, 80)
+        d.ellipse((x - r, y - r * 0.6, x + r, y + r * 0.6), fill=(110 + rng.randint(-10, 10), 104, 96), outline=(80, 76, 70), width=3)
+    if note:
+        d.rectangle((1600, 300, 2300, 1100), fill=(236, 228, 206), outline=(150, 136, 110), width=8)
+        f = V.font(V.SERIF_I, 40)
+        y = 340
+        for ln in ["28 May 1847: ships wintered in the ice.", "All well.", "", "25 April 1848: ships deserted", "22 April. 105 souls under", "Capt. Crozier. Sir John Franklin", "died 11 June 1847.", "Start tomorrow for Back's", "Fish River.", "", "(paraphrased)"]:
+            d.text((1640, y), ln, font=f, fill=(60, 50, 40)); y += 62
+    FLOOR["cairn"] = 0.86
+    return im
+
+
+def bg_underwater():
+    im = vgrad((30, 110, 130), (6, 30, 46)); d = ImageDraw.Draw(im)
+    for k in range(10):
+        x = k * 280
+        d.polygon([(x, 0), (x + 120, 0), (x + 400, BH), (x + 200, BH)], fill=(40, 130, 150))
+    d.rectangle((0, 1200, BW, BH), fill=(30, 40, 40))
+    d.polygon([(700, 1200), (900, 980), (1900, 960), (2000, 1200)], fill=(46, 40, 34))
+    d.line([(1200, 970), (1180, 520)], fill=(46, 40, 34), width=24); d.line([(1600, 965), (1640, 650)], fill=(46, 40, 34), width=20)
+    for k in range(40):
+        x, y = random.Random(k).uniform(0, BW), random.Random(k + 99).uniform(0, BH)
+        d.ellipse((x, y, x + 8, y + 8), fill=(160, 220, 230))
+    im = im.filter(ImageFilter.GaussianBlur(2))
+    FLOOR["underwater"] = 0.84
+    return im
+
+
+def bg_lab():
+    im = Image.new("RGB", (BW, BH), (224, 232, 236)); d = ImageDraw.Draw(im)
+    d.rectangle((0, 1000, BW, BH), fill=(180, 190, 196)); d.rectangle((300, 820, 2260, 880), fill=(120, 130, 140))
+    for k in range(5):
+        x = 500 + k * 340
+        d.rectangle((x, 700, x + 60, 820), fill=(160, 210, 230), outline=(80, 100, 110), width=4)
+    d.rectangle((1700, 300, 2200, 700), fill=(30, 40, 50))
+    for k in range(10):
+        d.line([(1730, 340 + k * 34), (1730 + (k * 37) % 400, 340 + k * 34)], fill=(80, 220, 160), width=10)
+    FLOOR["lab"] = 0.88
+    return im
+
+
+def bg_map_franklin(stage=0):
+    im = Image.new("RGB", (BW, BH), (60, 110, 150)); d = ImageDraw.Draw(im)
+    land = (214, 206, 186)
+    d.polygon([(0, 1440), (0, 1000), (600, 1050), (900, 1200), (1300, 1160), (1700, 1300), (2560, 1200), (2560, 1440)], fill=land)  # mainland
+    d.polygon([(1400, 760), (1600, 700), (1700, 860), (1560, 980), (1420, 900)], fill=land)  # King William Island
+    d.polygon([(200, 200), (700, 150), (800, 450), (400, 520)], fill=land); d.polygon([(900, 100), (1500, 80), (1450, 380), (1000, 420)], fill=land)
+    d.polygon([(1700, 200), (2400, 160), (2500, 600), (1900, 640)], fill=land)
+    d.polygon([(2300, 700), (2560, 650), (2560, 1000), (2350, 960)], fill=land)  # Baffin side
+    f = V.font(V.SANS_B, 48); fs = V.font(V.SANS, 36)
+    d.text((1380, 990), "King William Island", font=fs, fill=(30, 30, 30)); d.text((1100, 250), "Beechey Island", font=fs, fill=(30, 30, 30))
+    d.ellipse((1150, 400, 1180, 430), fill=(200, 40, 40))
+    d.text((2150, 1000), "Baffin Bay", font=f, fill=(255, 255, 255)); d.text((600, 1250), "Back River", font=fs, fill=(30, 30, 30))
+    if stage >= 1:
+        d.line([(2400, 900), (1700, 520), (1165, 415), (1300, 600), (1480, 700)], fill=(255, 230, 120), width=8)
+        d.text((1500, 560), "Route (approx.)", font=fs, fill=(255, 240, 180))
+    if stage >= 2:
+        d.ellipse((1450, 660, 1520, 720), outline=(255, 60, 60), width=8); d.text((1530, 640), "Beset, Sept 1846", font=fs, fill=(255, 255, 255))
+    if stage >= 3:
+        for k in range(10):
+            u = k / 10; x = 1460 + (900 - 1460) * u; y = 760 + (1180 - 760) * u
+            d.ellipse((x - 7, y - 7, x + 7, y + 7), fill=(255, 255, 255))
+        d.text((1000, 900), "1848 march south", font=fs, fill=(255, 255, 255))
+    d.text((60, BH - 70), "Schematic map, not to scale", font=fs, fill=(220, 230, 240))
+    return im
+
+
+def electra(d, x, y, s=1.0):
+    """Twin-engine silver airliner (stylised side view)."""
+    L = 520 * s
+    d.polygon([(x - L / 2, y), (x + L / 2 - 30 * s, y - 14 * s), (x + L / 2 + 10 * s, y + 12 * s), (x + L / 2 - 30 * s, y + 38 * s), (x - L / 2 + 30 * s, y + 34 * s)], fill=(200, 204, 210))
+    d.polygon([(x - L / 2, y), (x - L / 2 - 10 * s, y - 80 * s), (x - L / 2 + 40 * s, y - 80 * s), (x - L / 2 + 60 * s, y)], fill=(180, 40, 40))
+    for k in range(5):
+        d.ellipse((x - 120 * s + k * 50 * s, y - 4 * s, x - 96 * s + k * 50 * s, y + 14 * s), fill=(60, 80, 110))
+    d.ellipse((x + L / 2 - 90 * s, y - 16 * s, x + L / 2 - 30 * s, y + 10 * s), fill=(90, 120, 150))
+    d.polygon([(x - 40 * s, y + 24 * s), (x + 140 * s, y + 24 * s), (x + 90 * s, y + 60 * s), (x - 70 * s, y + 60 * s)], fill=(170, 174, 182))
+    d.rectangle((x + 60 * s, y + 10 * s, x + 130 * s, y + 40 * s), fill=(150, 154, 162))
+    d.ellipse((x + 126 * s, y - 20 * s, x + 146 * s, y + 70 * s), fill=(230, 230, 230))
+
+
+def bg_lae():
+    im = vgrad((120, 180, 225), (240, 236, 210)); soft_clouds(im, 5, 91); d = ImageDraw.Draw(im)
+    d.polygon([(0, 760), (500, 600), (1100, 700), (1700, 560), (2560, 720), (2560, 900), (0, 900)], fill=(60, 120, 70))
+    d.rectangle((0, 880, BW, BH), fill=(170, 150, 110)); d.rectangle((0, 980, BW, 1100), fill=(140, 120, 90))
+    electra(d, 1500, 940, 1.1)
+    FLOOR["lae"] = 0.82
+    return im
+
+
+def bg_pacific(plane=True, clouds_heavy=False):
+    im = vgrad((90, 150, 210), (190, 220, 240)); soft_clouds(im, 16 if clouds_heavy else 8, 93, (250, 250, 255), 200 if clouds_heavy else 170, ymax=0.6)
+    waves(im, 1000, (30, 90, 140), (70, 130, 180), rows=6)
+    d = ImageDraw.Draw(im)
+    if plane:
+        electra(d, 1300, 520, 1.0)
+    return im
+
+
+def bg_howland():
+    im = vgrad((110, 170, 220), (210, 230, 240)); soft_clouds(im, 6, 95); d = ImageDraw.Draw(im)
+    waves(im, 860, (30, 100, 150), (70, 140, 180), rows=10); d = ImageDraw.Draw(im)
+    d.polygon([(1000, 900), (1600, 890), (1640, 912), (980, 918)], fill=(230, 214, 170))
+    sailing_ship  # noqa
+    d.polygon([(300, 880), (800, 880), (760, 930), (330, 930)], fill=(230, 230, 230)); d.rectangle((480, 820, 600, 880), fill=(220, 220, 220)); d.rectangle((520, 760, 560, 820), fill=(60, 60, 60))
+    lay = Image.new("L", (BW, BH), 0); ImageDraw.Draw(lay).polygon([(520, 760), (560, 760), (700, 100), (450, 100)], fill=160)
+    lay = lay.filter(ImageFilter.GaussianBlur(40))
+    im = Image.composite(Image.new("RGB", (BW, BH), (70, 70, 74)), im, lay)
+    return im
+
+
+def bg_atoll():
+    im = Image.new("RGB", (BW, BH), (30, 110, 170)); d = ImageDraw.Draw(im)
+    d.ellipse((500, 250, 2060, 1190), fill=(110, 200, 210))
+    d.ellipse((560, 300, 2000, 1140), fill=(226, 212, 170))
+    d.ellipse((700, 420, 1860, 1020), fill=(70, 190, 200))
+    rng = random.Random(97)
+    for _ in range(120):
+        a = rng.uniform(0, 2 * math.pi); r = rng.uniform(0.9, 1.0)
+        x = 1280 + math.cos(a) * 690 * r; y = 720 + math.sin(a) * 400 * r
+        d.ellipse((x - 14, y - 14, x + 14, y + 14), fill=(60, 140, 70))
+    d.polygon([(1700, 1000), (1760, 980), (1770, 1000), (1720, 1010)], fill=(120, 110, 100))
+    return im
+
+
+def bg_map_pacific(stage=0):
+    im = Image.new("RGB", (BW, BH), (50, 110, 170)); d = ImageDraw.Draw(im)
+    land = (214, 196, 150)
+    d.polygon([(0, 900), (300, 820), (520, 900), (600, 1100), (300, 1200), (0, 1150)], fill=land)  # New Guinea
+    f = V.font(V.SANS_B, 46); fs = V.font(V.SANS, 36)
+    d.text((80, 1000), "New Guinea", font=fs, fill=(30, 30, 30)); d.ellipse((470, 950, 500, 980), fill=(200, 40, 40)); d.text((420, 900), "Lae", font=fs, fill=(30, 30, 30))
+    d.ellipse((1880, 600, 1896, 612), fill=land); d.text((1820, 540), "Howland Island", font=fs, fill=(255, 255, 255))
+    d.ellipse((2000, 900, 2030, 920), fill=land); d.text((1880, 940), "Gardner Island (Nikumaroro)", font=fs, fill=(255, 255, 255))
+    d.text((900, 300), "Pacific Ocean", font=f, fill=(200, 220, 240))
+    if stage >= 1:
+        d.line([(485, 965), (1200, 760), (1888, 606)], fill=(255, 230, 120), width=8); d.text((900, 820), "~2,556 miles", font=fs, fill=(255, 240, 180))
+    if stage >= 2:
+        d.line([(1700, 380), (2080, 980)], fill=(255, 255, 255), width=5); d.text((2050, 360), "157-337 line", font=fs, fill=(255, 255, 255))
+    d.text((60, BH - 70), "Schematic map, not to scale", font=fs, fill=(220, 230, 240))
+    return im
