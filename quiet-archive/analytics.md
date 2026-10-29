@@ -20,3 +20,12 @@ Benchmarks: CTR new channel 2–5% (goal ≥5%), long-form AVD ≥40%, first-30 
 
 ## Competitor reference
 - Thoughty2, "Why Was this Huge Ship Found With Nobody On-Board?" (Mary Celeste): 4.2M views, 21:05, question title without the ship's name.
+
+## Packaging experiments (title + thumbnail style)
+Styles (pipeline/thumb4.py): reaction (bright burst + big Archie), cinematic (dark close-up + red circle), evidence (case-file paper + polaroid), question (dark glow + giant red ?).
+Each long-form runs YouTube "Tiêu đề và hình thu nhỏ" A/B with 3 different styles + 3 different title angles. After the 2-week test (≥1,000 impressions) record the winner here; after ~6 videos pick the default style and title angle.
+
+| Video | Variant A | Variant B | Variant C | Winner | Watch-time share |
+|---|---|---|---|---|---|
+| zCguWAnmsbw Mary Celeste | reaction + "Mary Celeste: Why Did 10 People Abandon a Perfectly Good Ship?" | cinematic + "A Ship Was Found Sailing Itself. All 10 People Were Gone." | evidence + "The Ghost Ship Story Everyone Gets Wrong" | | |
+| mfd4aevUc7w Roanoke | reaction + "Roanoke: 115 People Vanished and Left a One-Word Clue" | cinematic + "115 Colonists Vanished. All They Left Was One Word." | evidence + "The Clue Everyone Ignores About the Lost Colony" | | |

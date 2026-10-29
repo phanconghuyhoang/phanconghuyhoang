@@ -74,7 +74,9 @@ Push the files first (split > 95 MB: `split -b 90m -d final.mp4 final.mp4.part`)
    "The Quiet Archive: … New stories every day. Subscribe: https://www.youtube.com/@thequietarchivetales?sub_confirmation=1"
    and "AI disclosure: the narration is AI-generated (text-to-speech) and the illustrations are computer-generated
    original artwork. The script was researched from the sources above and reviewed before upload." + 3 hashtags.
-7. Long-form: start "Thử nghiệm A/B" with thumbnail, thumb_b, thumb_c when the editor offers it.
+7. Long-form: on the video's edit page open "Thử nghiệm A/B" → "Tiêu đề và hình thu nhỏ": 3 pairs, each a DIFFERENT
+   thumb4.py style (reaction / cinematic / evidence / question) and a different title angle (searchable name /
+   shocking fact / myth-busting question). Log variants in analytics.md; pick defaults from the winners.
 8. Shorts: when the long-form of the same case is public, add it as "Video có liên quan".
 
 ## 7. After publishing days
