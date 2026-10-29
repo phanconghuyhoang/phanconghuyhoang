@@ -33,3 +33,5 @@
 - q-EJNmpVuv8 — Short "He Thought He Was Over the Florida Keys" — 2026-11-02 06:00
 - ND952hR9iYQ — Short "The Rescue Plane That Vanished Too" — 2026-11-02 09:00
 - Next: Saturday deep-dive (Franklin expedition, 18–25 min) → Sat 31 Oct 12:00 EDT = 2026-10-31 23:00 VN; daily set for 11-03 (03:00/06:00/09:00)
+- WAITING FOR UPLOAD (computer offline): franklin/ deep-dive (15:35) → Sat 31 Oct 12:00 EDT = 2026-10-31 23:00 VN; A/B: fr_a reaction / fr_b cinematic / fr_c evidence with titles in franklin/titles_ab.txt
+- Rendering: earhart/ → 11-03 03:00; v3s/smoke → 11-03 06:00; v3s/photo → 11-03 09:00
