@@ -55,3 +55,4 @@
 - Roanoke mfd4aevUc7w 11-01 02:00 → 03:00; Short cIiFLJ7o-1Y 05:00 → 06:00; Short iG6SHaSWeic 08:00 → 09:00.
 - Verified unchanged: Flight 19 11-02 03:00, Shorts q-EJNmpVuv8 06:00 / ND952hR9iYQ 09:00, fdr Short 11-04 06:00; the rest were scheduled today with confirmed times.
 - Franklin stays 10-31 23:00 (too late to move to 21:00).
+- 2026-10-31 21:15: set paid promotion = "Không" explicitly on all 23 videos (was unset); AI = Có confirmed on all.

@@ -81,7 +81,7 @@ Push the files first (split > 95 MB: `split -b 90m -d final.mp4 final.mp4.part`)
    `window.__f`, then set it on `input[type=file]` via DataTransfer + `change` event (fetch in a background promise and poll — 90 MB ≈ 60 s).
 2. Click once on the dialog heading (real click, gives the page focus). Set title/description with a Range selection
    on each `ytcp-uploads-dialog #textbox` + `document.execCommand('insertText')`.
-3. Thumbnail: `input#file-loader`. "Hiện thêm" (`#toggle-button`): radio **"Có, đã dùng AI" — always**. Tags: focus
+3. Thumbnail: `input#file-loader`. "Hiện thêm" (`#toggle-button`): radio **"Có, đã dùng AI" — always**, and radio **"Không, video của tôi không chứa nội dung được trả tiền để quảng cáo" — always** (owner 2026-10-31; it is NOT preselected). Tags: focus
    `#tags-container input`, type with commas, press Return.
 4. Next → `#subtitles-button` → "Tải tệp lên" → "Có thông tin thời gian" → set `#captions-file-loader` → "Xong".
 5. Next twice → "Lên lịch" → `#datepicker-trigger`, focus date input, ctrl+a, type `DD thg MM, YYYY`, Return; time:
