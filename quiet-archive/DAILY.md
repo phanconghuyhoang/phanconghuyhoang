@@ -62,7 +62,7 @@ being hurt, graphic violence, and political conspiracy. Search briefly for what 
 for current trends (anniversaries, news like wreck discoveries).
 
 ## 4. Write (v3 format — see pipeline/narrate3.py docstring)
-- Long-form 9–14 min (≈1,400–2,000 words): cold open on the strangest fact → Archie intro in `room` → story on
+- Long-form **at least 8:30** so mid-roll ads are possible (RPM lever, 2026-10-31), target 9–14 min (≈1,500–2,000 words) — longer through real story content, never padding: cold open on the strangest fact → Archie intro in `room` → story on
   stages with cast → myths vs record → theories (comic but fair) → "Documented vs Legend" → comment question + subscribe.
 - Voice: Archie, dry witty American humour, a punchline every few lines, jokes on myths/officials/bad luck — never on
   victims. Tags: {a:pose/expr} {c:...} {t:BIG TEXT} {s:sfx} {p:sec} {z} {cam:...} {bg:...}.
