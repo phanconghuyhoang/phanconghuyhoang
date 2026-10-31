@@ -1,0 +1,191 @@
+[
+ {
+  "id": "s01",
+  "bg": "plague/bg/square_crowd.png",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Strasbourg, fifteen eighteen.",
+    "start": 0.3,
+    "end": 1.941,
+    "tags": [
+     [
+      "a",
+      "lean_in/shocked"
+     ],
+     [
+      "t",
+      "THEY COULDN'T STOP DANCING"
+     ]
+    ]
+   },
+   {
+    "text": "Hundreds of people are dancing in the streets.",
+    "start": 2.161,
+    "end": 4.803,
+    "tags": []
+   },
+   {
+    "text": "For weeks.",
+    "start": 5.023,
+    "end": 5.841,
+    "tags": []
+   },
+   {
+    "text": "And they can't stop.",
+    "start": 6.061,
+    "end": 7.247,
+    "tags": []
+   },
+   {
+    "text": "So the city council calls the doctors.",
+    "start": 7.747,
+    "end": 9.977,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Great idea, right?",
+    "start": 10.197,
+    "end": 11.378,
+    "tags": []
+   }
+  ],
+  "duration": 12.478
+ },
+ {
+  "id": "s02",
+  "bg": "plague/bg/stage.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "The doctors say it's hot blood.",
+    "start": 0.3,
+    "end": 1.995,
+    "tags": [
+     [
+      "c",
+      "co=official@0.35,0.86,0.06"
+     ],
+     [
+      "c",
+      "co point_r/smug"
+     ]
+    ]
+   },
+   {
+    "text": "And the cure for hot blood is.",
+    "start": 2.215,
+    "end": 3.934,
+    "tags": []
+   },
+   {
+    "text": "More dancing.",
+    "start": 4.154,
+    "end": 5.101,
+    "tags": []
+   },
+   {
+    "text": "So the city builds dance stages, hires drummers and pipers, and pays strong people to keep the dancers on their feet.",
+    "start": 5.601,
+    "end": 12.982,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The music draws crowds.",
+    "start": 13.482,
+    "end": 15.007,
+    "tags": [
+     [
+      "c",
+      "co facepalm/sad"
+     ],
+     [
+      "a",
+      "facepalm/deadpan"
+     ],
+     [
+      "s",
+      "boing"
+     ]
+    ]
+   },
+   {
+    "text": "The crowds start dancing.",
+    "start": 15.227,
+    "end": 16.676,
+    "tags": []
+   },
+   {
+    "text": "It gets worse.",
+    "start": 16.896,
+    "end": 17.856,
+    "tags": []
+   }
+  ],
+  "duration": 18.956
+ },
+ {
+  "id": "s03",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So the council bans music.",
+    "start": 0.3,
+    "end": 2.02,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Completely.",
+    "start": 2.24,
+    "end": 3.064,
+    "tags": []
+   },
+   {
+    "text": "Drummers, cancelled.",
+    "start": 3.284,
+    "end": 4.437,
+    "tags": []
+   },
+   {
+    "text": "What finally stopped it is even stranger.",
+    "start": 4.937,
+    "end": 7.338,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ]
+    ]
+   },
+   {
+    "text": "The full story is on the channel.",
+    "start": 7.558,
+    "end": 9.335,
+    "tags": []
+   },
+   {
+    "text": "Tap the video above.",
+    "start": 9.555,
+    "end": 10.874,
+    "tags": []
+   }
+  ],
+  "duration": 11.974
+ }
+]

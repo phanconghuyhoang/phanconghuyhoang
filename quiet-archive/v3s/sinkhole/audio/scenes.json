@@ -1,0 +1,147 @@
+[
+ {
+  "id": "s01",
+  "bg": "centralia/bg/yard.png",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Nineteen eighty one.",
+    "start": 0.3,
+    "end": 1.585,
+    "tags": [
+     [
+      "a",
+      "lean_in/scared"
+     ],
+     [
+      "t",
+      "THE GROUND OPENED"
+     ]
+    ]
+   },
+   {
+    "text": "A twelve year old boy is playing in his grandmother's backyard in Centralia, Pennsylvania.",
+    "start": 1.805,
+    "end": 7.649,
+    "tags": []
+   },
+   {
+    "text": "And the ground opens under his feet.",
+    "start": 8.149,
+    "end": 10.172,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ],
+     [
+      "s",
+      "sting"
+     ]
+    ]
+   }
+  ],
+  "duration": 11.272
+ },
+ {
+  "id": "s02",
+  "bg": "centralia/bg/mine.png#fit",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "He falls into a hole full of hot steam and grabs onto tree roots.",
+    "start": 0.3,
+    "end": 4.497,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "His cousin pulls him out.",
+    "start": 4.717,
+    "end": 6.086,
+    "tags": []
+   },
+   {
+    "text": "He survives.",
+    "start": 6.306,
+    "end": 7.262,
+    "tags": []
+   },
+   {
+    "text": "Then they test the steam.",
+    "start": 7.762,
+    "end": 9.02,
+    "tags": [
+     [
+      "a",
+      "point_l/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "It's full of deadly carbon monoxide.",
+    "start": 9.24,
+    "end": 11.432,
+    "tags": []
+   },
+   {
+    "text": "Because under that backyard, a coal mine fire had been burning for nearly twenty years.",
+    "start": 11.932,
+    "end": 17.281,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   }
+  ],
+  "duration": 18.381
+ },
+ {
+  "id": "s03",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "And that fire?",
+    "start": 0.3,
+    "end": 1.207,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "It's still burning today.",
+    "start": 1.427,
+    "end": 2.874,
+    "tags": []
+   },
+   {
+    "text": "How it started, and what happened to the town, is in the full story on the channel.",
+    "start": 3.374,
+    "end": 8.06,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ]
+    ]
+   },
+   {
+    "text": "Tap the video above.",
+    "start": 8.28,
+    "end": 9.599,
+    "tags": []
+   }
+  ],
+  "duration": 10.699
+ }
+]
