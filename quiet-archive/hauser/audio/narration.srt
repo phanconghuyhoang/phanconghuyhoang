@@ -1,0 +1,607 @@
+1
+00:00:00,300 --> 00:00:01,655
+Nuremberg, Germany.
+
+2
+00:00:01,875 --> 00:00:04,254
+May twenty sixth, eighteen twenty eight.
+
+3
+00:00:04,474 --> 00:00:10,283
+A teenage boy stumbles into the town square, walking like he's never walked on a street before.
+
+4
+00:00:10,783 --> 00:00:11,960
+He's holding a letter.
+
+5
+00:00:12,180 --> 00:00:13,435
+He can barely speak.
+
+6
+00:00:13,655 --> 00:00:18,001
+When people ask him questions, he repeats one sentence, over and over.
+
+7
+00:00:18,501 --> 00:00:21,522
+I want to be a cavalryman, like my father was.
+
+8
+00:00:22,022 --> 00:00:24,973
+Five years later, he'll be dead from a stab wound.
+
+9
+00:00:25,193 --> 00:00:29,417
+And for almost two hundred years, nobody will agree on who he was.
+
+10
+00:00:29,637 --> 00:00:30,664
+A lost prince.
+
+11
+00:00:30,884 --> 00:00:31,674
+A victim.
+
+12
+00:00:31,893 --> 00:00:34,832
+Or the greatest con artist of the nineteenth century.
+
+13
+00:00:36,232 --> 00:00:41,247
+Hi, I'm Archie, this is The Quiet Archive, and today's file is Kaspar Hauser.
+
+14
+00:00:41,467 --> 00:00:43,440
+Europe's most famous mystery boy.
+
+15
+00:00:43,940 --> 00:00:47,308
+And this one actually has a twist from twenty twenty four.
+
+16
+00:00:47,528 --> 00:00:52,499
+A lab that normally studies DNA from Neanderthals took a crack at his hair.
+
+17
+00:00:52,719 --> 00:00:53,679
+We'll get to that.
+
+18
+00:00:54,179 --> 00:00:58,689
+But first, let's do what everybody in Nuremberg did in eighteen twenty eight.
+
+19
+00:00:58,909 --> 00:01:01,918
+Stare at the strange kid, and try to figure him out.
+
+20
+00:01:03,318 --> 00:01:08,413
+The letter he carried was addressed to the captain of a cavalry squadron in Nuremberg.
+
+21
+00:01:08,913 --> 00:01:16,840
+It claimed to be from a poor laborer who had been given the boy as a baby, raised him in secret, and never let him leave the house.
+
+22
+00:01:17,060 --> 00:01:21,172
+Now, the letter said, the boy wanted to be a soldier like his father.
+
+23
+00:01:21,392 --> 00:01:25,447
+And if the captain didn't want him, he could, quote, keep him or hang him.
+
+24
+00:01:25,947 --> 00:01:30,263
+Which is, let's be honest, a terrible way to write a job reference.
+
+25
+00:01:30,763 --> 00:01:39,213
+There was a second, shorter note, supposedly from his mother, giving his birthday and saying his father had been a cavalryman who was now dead.
+
+26
+00:01:39,433 --> 00:01:42,217
+Investigators later noticed something odd.
+
+27
+00:01:42,437 --> 00:01:45,014
+Both notes seemed to be written by the same hand.
+
+28
+00:01:46,414 --> 00:01:52,525
+The captain, understandably, had no idea what to do with a confused teenager on his doorstep.
+
+29
+00:01:52,745 --> 00:01:54,744
+So the boy ended up with the police.
+
+30
+00:01:55,244 --> 00:01:56,844
+They gave him a pen and paper.
+
+31
+00:01:57,064 --> 00:01:59,558
+And to everyone's surprise, he wrote a name.
+
+32
+00:01:59,778 --> 00:02:00,918
+Kaspar Hauser.
+
+33
+00:02:01,418 --> 00:02:03,175
+He seemed to be about sixteen.
+
+34
+00:02:03,395 --> 00:02:07,698
+He walked unsteadily, and his feet looked like they'd hardly been used.
+
+35
+00:02:07,918 --> 00:02:12,059
+He ate only bread and water at first, and other food made him sick.
+
+36
+00:02:12,559 --> 00:02:14,931
+They put him in a tower jail for vagrants.
+
+37
+00:02:15,151 --> 00:02:18,100
+Which, as welcome parties go, is not great.
+
+38
+00:02:18,320 --> 00:02:20,943
+And yet the whole town started coming to look at him.
+
+39
+00:02:21,163 --> 00:02:24,672
+Kaspar Hauser had become Nuremberg's main character.
+
+40
+00:02:26,072 --> 00:02:29,791
+As he learned more words, Kaspar told an incredible story.
+
+41
+00:02:30,291 --> 00:02:33,601
+He said he had spent his whole life in a tiny dark room.
+
+42
+00:02:33,821 --> 00:02:35,073
+He slept on straw.
+
+43
+00:02:35,293 --> 00:02:38,950
+Every morning he woke up to find bread and water beside him.
+
+44
+00:02:39,170 --> 00:02:41,014
+He never saw the person who brought it.
+
+45
+00:02:41,514 --> 00:02:45,108
+His only toys, he said, were a couple of wooden horses.
+
+46
+00:02:45,607 --> 00:02:48,186
+Shortly before his release, a man appeared.
+
+47
+00:02:48,406 --> 00:02:53,155
+The man taught him to write his name and say that one sentence about the cavalry.
+
+48
+00:02:53,375 --> 00:02:56,905
+Then he walked him out of the dark and left him near Nuremberg.
+
+49
+00:02:57,405 --> 00:02:58,895
+It's a heartbreaking story.
+
+50
+00:02:59,115 --> 00:03:02,886
+It's also, as we'll see, a story that's very hard to check.
+
+51
+00:03:04,286 --> 00:03:12,197
+The city placed Kaspar with a teacher and philosopher named Georg Friedrich Daumer, who taught him to read, write and draw.
+
+52
+00:03:12,697 --> 00:03:14,068
+Kaspar learned fast.
+
+53
+00:03:14,288 --> 00:03:18,633
+Surprisingly fast for someone who supposedly spent years in a box.
+
+54
+00:03:18,853 --> 00:03:20,784
+He became a local celebrity.
+
+55
+00:03:21,004 --> 00:03:24,172
+Visitors, scholars, and the curious came to meet him.
+
+56
+00:03:24,672 --> 00:03:26,123
+Daumer was fascinated.
+
+57
+00:03:26,343 --> 00:03:32,501
+He ran experiments on Kaspar's senses and claimed the boy could see in the dark and feel magnets.
+
+58
+00:03:32,721 --> 00:03:36,342
+Which tells you a little bit about the science standards of the time.
+
+59
+00:03:36,842 --> 00:03:40,917
+This is the eighteen twenties version of a viral influencer.
+
+60
+00:03:41,137 --> 00:03:45,274
+Except the followers came over in person and stared at you while you ate.
+
+61
+00:03:46,674 --> 00:03:53,863
+Then, in October eighteen twenty nine, Kaspar was found in Daumer's cellar, bleeding from a cut on his forehead.
+
+62
+00:03:54,363 --> 00:03:56,377
+He said a man in a hood had attacked him.
+
+63
+00:03:56,597 --> 00:03:59,695
+The same man, he claimed, who had kept him in the dark.
+
+64
+00:04:00,195 --> 00:04:01,364
+The town panicked.
+
+65
+00:04:01,584 --> 00:04:04,070
+Kaspar was moved and placed under guard.
+
+66
+00:04:04,290 --> 00:04:06,092
+But some people started to wonder.
+
+67
+00:04:06,592 --> 00:04:08,202
+The wound was not serious.
+
+68
+00:04:08,422 --> 00:04:10,065
+Nobody else saw the attacker.
+
+69
+00:04:10,285 --> 00:04:15,179
+And a few months earlier, Daumer had been growing tired of some of Kaspar's lies.
+
+70
+00:04:15,399 --> 00:04:20,463
+A lot of observers suspected he had hurt himself, to win back attention and sympathy.
+
+71
+00:04:20,963 --> 00:04:24,732
+A year later, a pistol went off in his room and grazed his head.
+
+72
+00:04:24,952 --> 00:04:26,584
+He said it was an accident.
+
+73
+00:04:26,804 --> 00:04:28,883
+That also didn't help his reputation.
+
+74
+00:04:30,283 --> 00:04:33,584
+Meanwhile, a much bigger rumor was spreading across Europe.
+
+75
+00:04:33,804 --> 00:04:35,789
+That Kaspar was secretly royal.
+
+76
+00:04:36,289 --> 00:04:37,740
+The story went like this.
+
+77
+00:04:37,960 --> 00:04:44,014
+In eighteen twelve, a baby boy was born to the Grand Duke of Baden, the heir to the throne.
+
+78
+00:04:44,234 --> 00:04:45,778
+He died a few weeks later.
+
+79
+00:04:46,278 --> 00:04:47,116
+Or did he?
+
+80
+00:04:47,336 --> 00:04:54,795
+Rumors claimed the healthy prince had been swapped with a dying baby by someone who wanted a different family branch to inherit.
+
+81
+00:04:55,015 --> 00:04:58,531
+And then the real prince was hidden away for sixteen years.
+
+82
+00:04:59,031 --> 00:05:01,572
+It's the plot of about forty soap operas.
+
+83
+00:05:01,792 --> 00:05:02,845
+And people loved it.
+
+84
+00:05:03,065 --> 00:05:05,182
+Hauser's supporters wrote books about it.
+
+85
+00:05:05,402 --> 00:05:13,657
+A famous judge, Anselm von Feuerbach, became convinced Kaspar was the victim of a crime involving powerful people.
+
+86
+00:05:15,057 --> 00:05:20,025
+Then a wealthy English nobleman, Lord Stanhope, took an interest in Kaspar.
+
+87
+00:05:20,245 --> 00:05:23,674
+He paid for his care and moved him to the town of Ansbach.
+
+88
+00:05:24,174 --> 00:05:27,078
+At first Stanhope talked about taking him to England.
+
+89
+00:05:27,298 --> 00:05:31,396
+But the more time he spent with Kaspar, the less he believed his story.
+
+90
+00:05:31,896 --> 00:05:39,298
+He even paid for trips to Hungary, to see if Kaspar would recognize words from a language he claimed to half remember.
+
+91
+00:05:39,518 --> 00:05:40,581
+Nothing came of it.
+
+92
+00:05:41,081 --> 00:05:44,542
+By the end, Stanhope became one of his loudest skeptics.
+
+93
+00:05:44,762 --> 00:05:49,526
+Which is the nineteenth century equivalent of your biggest fan unfollowing you.
+
+94
+00:05:50,926 --> 00:05:57,150
+On December fourteenth, eighteen thirty three, Kaspar came home with a deep stab wound in his chest.
+
+95
+00:05:57,650 --> 00:06:04,860
+He said a stranger had lured him to the Court Garden in Ansbach, promising news about his mother, and then stabbed him.
+
+96
+00:06:05,360 --> 00:06:07,495
+A small purse was found in the garden.
+
+97
+00:06:07,715 --> 00:06:12,383
+Inside it was a note written in mirror writing, so it had to be read backwards.
+
+98
+00:06:12,603 --> 00:06:15,690
+It hinted that the attacker knew where Kaspar came from.
+
+99
+00:06:16,190 --> 00:06:18,049
+Kaspar died three days later.
+
+100
+00:06:18,269 --> 00:06:20,119
+He was around twenty one years old.
+
+101
+00:06:21,519 --> 00:06:23,587
+And even his death became a mystery.
+
+102
+00:06:24,087 --> 00:06:26,734
+Investigators noticed things that didn't fit.
+
+103
+00:06:26,954 --> 00:06:29,146
+Only one set of footprints in the snow.
+
+104
+00:06:29,366 --> 00:06:32,771
+The note had a spelling mistake Kaspar himself often made.
+
+105
+00:06:32,991 --> 00:06:36,617
+And it was folded in a way he usually folded his letters.
+
+106
+00:06:37,117 --> 00:06:44,876
+Many concluded he had stabbed himself, maybe intending only a small wound, to repeat the drama of eighteen twenty nine.
+
+107
+00:06:45,096 --> 00:06:46,981
+Others insisted it was murder.
+
+108
+00:06:47,201 --> 00:06:49,751
+Doctors who examined the wound couldn't agree.
+
+109
+00:06:50,251 --> 00:06:52,581
+Either way, a young man died in the snow.
+
+110
+00:06:52,801 --> 00:06:54,460
+And that part isn't a joke.
+
+111
+00:06:54,680 --> 00:06:57,922
+Whatever he was, his life was strange and lonely.
+
+112
+00:06:59,322 --> 00:07:01,043
+So can modern science solve it?
+
+113
+00:07:01,263 --> 00:07:02,057
+It tried.
+
+114
+00:07:02,277 --> 00:07:03,243
+Three times.
+
+115
+00:07:03,743 --> 00:07:12,324
+In nineteen ninety six, scientists tested blood from Kaspar's underwear, kept in a museum, and compared it with the Baden family.
+
+116
+00:07:12,544 --> 00:07:13,367
+No match.
+
+117
+00:07:13,867 --> 00:07:18,667
+In the early two thousands, a different team tested hair and found a close match.
+
+118
+00:07:18,887 --> 00:07:21,465
+Supporters of the prince theory celebrated.
+
+119
+00:07:21,965 --> 00:07:31,953
+Then in twenty twenty four, a team led by forensic scientist Walther Parson in Innsbruck used methods built for ancient DNA on Kaspar's hair.
+
+120
+00:07:32,173 --> 00:07:33,955
+A second lab checked it blind.
+
+121
+00:07:34,175 --> 00:07:38,811
+The result, Kaspar's maternal DNA does not match the Baden family.
+
+122
+00:07:39,311 --> 00:07:45,240
+So, after almost two hundred years, the prince theory is, scientifically speaking, dethroned.
+
+123
+00:07:46,640 --> 00:07:47,643
+So what's left?
+
+124
+00:07:48,143 --> 00:07:49,024
+Theory one.
+
+125
+00:07:49,244 --> 00:07:53,102
+A real victim of abuse and confinement, just not a prince.
+
+126
+00:07:53,322 --> 00:07:56,598
+Someone who was kept hidden for reasons we'll never know.
+
+127
+00:07:57,098 --> 00:07:58,020
+Theory two.
+
+128
+00:07:58,240 --> 00:08:05,257
+A confused or troubled young man who exaggerated or invented his past, and enjoyed the attention it brought.
+
+129
+00:08:05,477 --> 00:08:16,564
+A twenty twenty three study even found vaccination scars that suggest he was vaccinated against smallpox as a child, which doesn't fit a lifetime alone in the dark.
+
+130
+00:08:17,064 --> 00:08:18,018
+Theory three.
+
+131
+00:08:18,238 --> 00:08:19,598
+Some mixture of both.
+
+132
+00:08:19,818 --> 00:08:25,609
+A neglected kid with a sad past who discovered that a dramatic story made people care.
+
+133
+00:08:26,109 --> 00:08:28,471
+Honestly, theory three is the most human.
+
+134
+00:08:28,691 --> 00:08:30,579
+And the hardest to put on a headline.
+
+135
+00:08:31,979 --> 00:08:33,704
+So here's the honest version.
+
+136
+00:08:34,204 --> 00:08:35,142
+Documented.
+
+137
+00:08:35,362 --> 00:08:41,258
+In May eighteen twenty eight, a teenage boy appeared in Nuremberg with two notes and few words.
+
+138
+00:08:41,478 --> 00:08:52,816
+He became famous, was cared for by Daumer and later Lord Stanhope, was wounded in eighteen twenty nine, and died of a stab wound in Ansbach in December eighteen thirty three.
+
+139
+00:08:53,036 --> 00:08:56,842
+Modern DNA testing rules out the Baden prince theory.
+
+140
+00:08:57,342 --> 00:08:58,200
+Disputed.
+
+141
+00:08:58,420 --> 00:09:00,174
+His childhood in the dark cell.
+
+142
+00:09:00,394 --> 00:09:03,193
+Whether the attacks were real or self inflicted.
+
+143
+00:09:03,413 --> 00:09:06,638
+Whether his death was murder, suicide or an accident.
+
+144
+00:09:07,138 --> 00:09:07,867
+Legend.
+
+145
+00:09:08,087 --> 00:09:11,472
+That he was a stolen prince, and that he could see in the dark.
+
+146
+00:09:12,872 --> 00:09:13,984
+So, your verdict.
+
+147
+00:09:14,204 --> 00:09:16,662
+Victim, con artist, or a bit of both?
+
+148
+00:09:17,162 --> 00:09:18,407
+Tell me in the comments.
+
+149
+00:09:18,627 --> 00:09:21,214
+His gravestone calls him the riddle of his time.
+
+150
+00:09:21,434 --> 00:09:26,394
+Two hundred years later, that's still the most accurate thing anyone has written about him.
+
+151
+00:09:26,894 --> 00:09:30,972
+If you like true stories that history never quite finished, subscribe.
+
+152
+00:09:31,192 --> 00:09:35,574
+I'm Archie, this is The Quiet Archive, and I'll see you in the next file.
