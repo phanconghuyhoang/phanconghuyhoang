@@ -3,7 +3,7 @@
 > **SLOT STATUS (updated 2026-10-31 21:00 VN) — read this before producing anything.**
 > Filled: 10-31 23:00 Franklin · 11-01 03:00 Roanoke, 06:00/09:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
 > 11-03 03:00 Earhart, 06:00/09:00 Shorts · 11-04 03:00 Oak Island, 06:00/09:00 Shorts.
-> In production in session_01WfvVatVLocmdeMKS3xLrbR: Centralia → 11-02 21:00; Shorts v3s/cure + v3s/sinkhole → 11-05 06:00/09:00.
+> Filled 11-02 21:00 Centralia (rHcp9gVC9Hc). In production: Shorts v3s/cure + v3s/sinkhole → 11-05 06:00/09:00.
 > Still empty: 11-03 21:00, 11-04 21:00, 11-05 03:00 and 21:00. Max scheduling horizon = today + 5 days.
 
 | Ep | Publish (Asia/Saigon) | Title | Video id | Topic | 48 h | 7 d |
@@ -56,3 +56,4 @@
 - Verified unchanged: Flight 19 11-02 03:00, Shorts q-EJNmpVuv8 06:00 / ND952hR9iYQ 09:00, fdr Short 11-04 06:00; the rest were scheduled today with confirmed times.
 - Franklin stays 10-31 23:00 (too late to move to 21:00).
 - 2026-10-31 21:15: set paid promotion = "Không" explicitly on all 23 videos (was unset); AI = Có confirmed on all.
+- rHcp9gVC9Hc — "Centralia: The Town That Has Been Burning Since 1962" (Archie, 7:13, Long B) — 2026-11-02 21:00; A/B ce_a reaction / ce_b cinematic / ce_c question; paid promo = Không; captions uploaded
