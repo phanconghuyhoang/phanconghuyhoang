@@ -1,0 +1,1598 @@
+[
+ {
+  "id": "s01",
+  "bg": "earhart/bg/radio.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Somewhere in the waters off Southeast Asia, ships pick up a strange distress call.",
+    "start": 0.3,
+    "end": 5.175,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "op=sailor@0.35,0.86,0.05"
+     ],
+     [
+      "c",
+      "op lean_in/suspicious"
+     ],
+     [
+      "t",
+      "\"ALL OFFICERS... DEAD\""
+     ]
+    ]
+   },
+   {
+    "text": "A radio operator says the captain and all the officers are dead.",
+    "start": 5.675,
+    "end": 9.951,
+    "tags": [
+     [
+      "a",
+      "lean_in/scared"
+     ]
+    ]
+   },
+   {
+    "text": "He says the crew may be dead too.",
+    "start": 10.171,
+    "end": 11.926,
+    "tags": []
+   },
+   {
+    "text": "Then the Morse code breaks off.",
+    "start": 12.146,
+    "end": 13.79,
+    "tags": []
+   },
+   {
+    "text": "And the last two words come through.",
+    "start": 14.01,
+    "end": 15.788,
+    "tags": []
+   },
+   {
+    "text": "I die.",
+    "start": 16.288,
+    "end": 16.971,
+    "tags": [
+     [
+      "s",
+      "sting"
+     ],
+     [
+      "a",
+      "scared/scared"
+     ],
+     [
+      "z",
+      ""
+     ]
+    ]
+   },
+   {
+    "text": "Rescuers find a cargo ship with every man aboard dead, their faces frozen in terror, even the dog.",
+    "start": 17.471,
+    "end": 24.452,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Then the ship catches fire and explodes.",
+    "start": 24.672,
+    "end": 26.918,
+    "tags": []
+   },
+   {
+    "text": "Spooky, right?",
+    "start": 27.138,
+    "end": 28.112,
+    "tags": []
+   },
+   {
+    "text": "Here's the problem.",
+    "start": 28.332,
+    "end": 29.471,
+    "tags": []
+   },
+   {
+    "text": "Nobody can prove the ship ever existed.",
+    "start": 29.691,
+    "end": 32.11,
+    "tags": []
+   }
+  ],
+  "duration": 33.21
+ },
+ {
+  "id": "s02",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Hi, I'm Archie, this is The Quiet Archive, and today's file is the Ourang Medan.",
+    "start": 0.3,
+    "end": 5.588,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ]
+    ]
+   },
+   {
+    "text": "The most famous death ship on the internet.",
+    "start": 5.808,
+    "end": 7.931,
+    "tags": []
+   },
+   {
+    "text": "You've probably seen it in a creepy list video.",
+    "start": 8.431,
+    "end": 11.027,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ],
+     [
+      "z",
+      ""
+     ]
+    ]
+   },
+   {
+    "text": "Ten unexplained ghost ships, number three will shock you.",
+    "start": 11.247,
+    "end": 14.641,
+    "tags": []
+   },
+   {
+    "text": "Well, today we're going to do the thing those lists never do.",
+    "start": 14.861,
+    "end": 18.154,
+    "tags": []
+   },
+   {
+    "text": "Check the paperwork.",
+    "start": 18.374,
+    "end": 19.53,
+    "tags": []
+   },
+   {
+    "text": "We'll tell the legend properly, then trace where it came from, and see whether there's a real ship anywhere underneath it.",
+    "start": 20.03,
+    "end": 26.876,
+    "tags": [
+     [
+      "a",
+      "hands_hips/neutral"
+     ]
+    ]
+   }
+  ],
+  "duration": 27.976
+ },
+ {
+  "id": "s03",
+  "bg": "ourang/bg/ship.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Let's start with the most popular version of the story, the one that's been repeated for decades.",
+    "start": 0.3,
+    "end": 6.007,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "t",
+      "THE LEGEND"
+     ]
+    ]
+   },
+   {
+    "text": "It's the late nineteen forties.",
+    "start": 6.507,
+    "end": 8.31,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A Dutch cargo ship called the Ourang Medan is sailing through the Strait of Malacca, between Malaysia and Sumatra.",
+    "start": 8.53,
+    "end": 15.673,
+    "tags": []
+   },
+   {
+    "text": "One of the busiest shipping lanes in the world.",
+    "start": 15.893,
+    "end": 18.221,
+    "tags": []
+   },
+   {
+    "text": "Ships nearby pick up a desperate distress signal.",
+    "start": 18.721,
+    "end": 21.662,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Morse code.",
+    "start": 21.882,
+    "end": 22.786,
+    "tags": []
+   },
+   {
+    "text": "The message says the captain and all officers are lying dead in the chartroom and on the bridge.",
+    "start": 23.006,
+    "end": 28.936,
+    "tags": []
+   },
+   {
+    "text": "Probably the whole crew dead.",
+    "start": 29.156,
+    "end": 30.73,
+    "tags": []
+   },
+   {
+    "text": "Then some confused, garbled code.",
+    "start": 31.23,
+    "end": 33.474,
+    "tags": [
+     [
+      "a",
+      "lean_in/scared"
+     ]
+    ]
+   },
+   {
+    "text": "And finally, I die.",
+    "start": 33.694,
+    "end": 34.972,
+    "tags": []
+   },
+   {
+    "text": "Then silence.",
+    "start": 35.192,
+    "end": 36.196,
+    "tags": []
+   },
+   {
+    "text": "As far as last words go, that's very efficient.",
+    "start": 36.696,
+    "end": 39.606,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "No wasted characters.",
+    "start": 39.826,
+    "end": 41.363,
+    "tags": []
+   }
+  ],
+  "duration": 42.463
+ },
+ {
+  "id": "s04",
+  "bg": "ourang/bg/bridge.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "In the legend, an American merchant ship called the Silver Star races to the position.",
+    "start": 0.3,
+    "end": 5.325,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "ss=captain@0.65,0.88,0.05"
+     ],
+     [
+      "c",
+      "ss scared/shocked"
+     ],
+     [
+      "t",
+      "THE SILVER STAR"
+     ]
+    ]
+   },
+   {
+    "text": "Her crew board the Ourang Medan.",
+    "start": 5.545,
+    "end": 7.398,
+    "tags": []
+   },
+   {
+    "text": "Every man on board is dead.",
+    "start": 7.898,
+    "end": 9.554,
+    "tags": [
+     [
+      "a",
+      "talk/scared"
+     ]
+    ]
+   },
+   {
+    "text": "Lying on their backs, eyes wide open, arms reaching up, faces twisted in fear.",
+    "start": 9.774,
+    "end": 15.162,
+    "tags": []
+   },
+   {
+    "text": "The radio operator is still at his post, hand on the transmitter.",
+    "start": 15.382,
+    "end": 19.409,
+    "tags": []
+   },
+   {
+    "text": "Even the ship's dog is dead, frozen mid snarl.",
+    "start": 19.909,
+    "end": 23.031,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ]
+    ]
+   },
+   {
+    "text": "And here's the weird part.",
+    "start": 23.531,
+    "end": 24.939,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "No wounds.",
+    "start": 25.159,
+    "end": 26.094,
+    "tags": []
+   },
+   {
+    "text": "No sign of a fight.",
+    "start": 26.314,
+    "end": 27.558,
+    "tags": []
+   },
+   {
+    "text": "No obvious cause of death at all.",
+    "start": 27.778,
+    "end": 29.85,
+    "tags": []
+   },
+   {
+    "text": "It's the most terrifying crime scene in maritime history.",
+    "start": 30.35,
+    "end": 33.585,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Which, as we'll see, is suspicious all by itself.",
+    "start": 33.805,
+    "end": 37.015,
+    "tags": []
+   }
+  ],
+  "duration": 38.115
+ },
+ {
+  "id": "s05",
+  "bg": "ourang/bg/ship_fire.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "The rescuers decide to tow the ship to port.",
+    "start": 0.3,
+    "end": 2.876,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "t",
+      "FIRE IN HOLD 4"
+     ]
+    ]
+   },
+   {
+    "text": "They attach a line.",
+    "start": 3.096,
+    "end": 4.295,
+    "tags": []
+   },
+   {
+    "text": "And then they notice smoke coming from cargo hold number four.",
+    "start": 4.515,
+    "end": 7.881,
+    "tags": []
+   },
+   {
+    "text": "The fire spreads fast.",
+    "start": 8.381,
+    "end": 9.797,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ],
+     [
+      "s",
+      "whoosh"
+     ]
+    ]
+   },
+   {
+    "text": "The boarding party scrambles back to their own ship and cuts the tow line.",
+    "start": 10.017,
+    "end": 14.12,
+    "tags": []
+   },
+   {
+    "text": "Moments later, the Ourang Medan explodes and sinks.",
+    "start": 14.62,
+    "end": 17.914,
+    "tags": [
+     [
+      "a",
+      "scared/scared"
+     ],
+     [
+      "s",
+      "thud"
+     ]
+    ]
+   },
+   {
+    "text": "Taking every body, every clue, and every piece of evidence with it.",
+    "start": 18.134,
+    "end": 22.247,
+    "tags": []
+   },
+   {
+    "text": "Convenient.",
+    "start": 22.747,
+    "end": 23.609,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ],
+     [
+      "s",
+      "boing"
+     ]
+    ]
+   },
+   {
+    "text": "Really convenient.",
+    "start": 23.829,
+    "end": 25.064,
+    "tags": []
+   },
+   {
+    "text": "If you were writing a mystery that nobody could ever check, this is exactly how you'd end it.",
+    "start": 25.284,
+    "end": 30.628,
+    "tags": []
+   }
+  ],
+  "duration": 31.728
+ },
+ {
+  "id": "s06",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Okay.",
+    "start": 0.3,
+    "end": 0.973,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ],
+     [
+      "t",
+      "HOLD ON"
+     ]
+    ]
+   },
+   {
+    "text": "That's the legend.",
+    "start": 1.193,
+    "end": 2.223,
+    "tags": []
+   },
+   {
+    "text": "Now let's put on our boring investigator glasses.",
+    "start": 2.443,
+    "end": 5.526,
+    "tags": []
+   },
+   {
+    "text": "Mine are permanent.",
+    "start": 5.746,
+    "end": 7.007,
+    "tags": []
+   },
+   {
+    "text": "A real shipwreck leaves a paper trail.",
+    "start": 7.507,
+    "end": 9.751,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Insurance claims.",
+    "start": 9.971,
+    "end": 11.143,
+    "tags": []
+   },
+   {
+    "text": "Company records.",
+    "start": 11.363,
+    "end": 12.458,
+    "tags": []
+   },
+   {
+    "text": "Crew lists.",
+    "start": 12.678,
+    "end": 13.498,
+    "tags": []
+   },
+   {
+    "text": "Official registers.",
+    "start": 13.718,
+    "end": 15.034,
+    "tags": []
+   },
+   {
+    "text": "Navy and coast guard reports.",
+    "start": 15.254,
+    "end": 17.239,
+    "tags": []
+   },
+   {
+    "text": "Grieving families.",
+    "start": 17.459,
+    "end": 18.613,
+    "tags": []
+   },
+   {
+    "text": "So let's go looking for that paper trail.",
+    "start": 19.113,
+    "end": 21.378,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "And spoiler.",
+    "start": 21.598,
+    "end": 22.429,
+    "tags": []
+   },
+   {
+    "text": "It's the paper trail that's the real mystery here.",
+    "start": 22.649,
+    "end": 25.373,
+    "tags": []
+   }
+  ],
+  "duration": 26.473
+ },
+ {
+  "id": "s07",
+  "bg": "ourang/bg/register.png#fit",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Big merchant ships were listed in registers like Lloyd's Register, and in national ship records.",
+    "start": 0.3,
+    "end": 6.376,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ],
+     [
+      "t",
+      "NO SHIP, NO RECORD"
+     ]
+    ]
+   },
+   {
+    "text": "Researchers have searched those records for an Ourang Medan.",
+    "start": 6.876,
+    "end": 10.072,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "They haven't found one.",
+    "start": 10.292,
+    "end": 11.539,
+    "tags": []
+   },
+   {
+    "text": "No construction record.",
+    "start": 11.759,
+    "end": 13.222,
+    "tags": []
+   },
+   {
+    "text": "No registration.",
+    "start": 13.442,
+    "end": 14.705,
+    "tags": []
+   },
+   {
+    "text": "No owner.",
+    "start": 14.925,
+    "end": 15.767,
+    "tags": []
+   },
+   {
+    "text": "And the Silver Star, the American ship that supposedly found her?",
+    "start": 16.267,
+    "end": 20.23,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Researchers haven't found any record of a rescue like this in her logs either.",
+    "start": 20.45,
+    "end": 25.04,
+    "tags": []
+   },
+   {
+    "text": "So we have a famous rescue that the rescue ship didn't write down, of a ship that no register knows about, which then conveniently blew up.",
+    "start": 25.54,
+    "end": 34.548,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "That's not a ghost ship.",
+    "start": 34.768,
+    "end": 36.008,
+    "tags": []
+   },
+   {
+    "text": "That's a ghost story.",
+    "start": 36.228,
+    "end": 37.396,
+    "tags": []
+   }
+  ],
+  "duration": 38.496
+ },
+ {
+  "id": "s08",
+  "bg": "ourang/bg/news.png#fit",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "So where did the story come from?",
+    "start": 0.3,
+    "end": 2.036,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ],
+     [
+      "t",
+      "WHERE DID IT COME FROM?"
+     ]
+    ]
+   },
+   {
+    "text": "This is where it gets genuinely interesting.",
+    "start": 2.256,
+    "end": 4.545,
+    "tags": []
+   },
+   {
+    "text": "Versions of it appear in newspapers in nineteen forty.",
+    "start": 5.045,
+    "end": 8.238,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "One appears in an Italian newspaper in Trieste.",
+    "start": 8.458,
+    "end": 11.31,
+    "tags": []
+   },
+   {
+    "text": "British papers, including the Daily Mirror, printed it, attributed to the Associated Press.",
+    "start": 11.53,
+    "end": 17.282,
+    "tags": []
+   },
+   {
+    "text": "In those early versions, the details are different.",
+    "start": 17.782,
+    "end": 20.717,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "The location changes.",
+    "start": 20.937,
+    "end": 22.435,
+    "tags": []
+   },
+   {
+    "text": "Some put it near the Marshall Islands or the Solomon Islands, not Malacca.",
+    "start": 22.655,
+    "end": 27.42,
+    "tags": []
+   },
+   {
+    "text": "Then, in nineteen forty eight, the story pops up again in a Dutch language newspaper in the Dutch East Indies, and in an American paper.",
+    "start": 27.92,
+    "end": 36.624,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Now with more details.",
+    "start": 36.844,
+    "end": 38.256,
+    "tags": []
+   },
+   {
+    "text": "More drama.",
+    "start": 38.476,
+    "end": 39.352,
+    "tags": []
+   },
+   {
+    "text": "Notice the pattern.",
+    "start": 39.852,
+    "end": 40.982,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Every time the story is retold, it gets scarier and more detailed.",
+    "start": 41.202,
+    "end": 45.637,
+    "tags": []
+   },
+   {
+    "text": "That's the opposite of how real events usually work.",
+    "start": 45.857,
+    "end": 48.948,
+    "tags": []
+   },
+   {
+    "text": "Real events get fuzzier with time.",
+    "start": 49.168,
+    "end": 51.199,
+    "tags": []
+   },
+   {
+    "text": "Legends get sharper.",
+    "start": 51.419,
+    "end": 52.787,
+    "tags": []
+   }
+  ],
+  "duration": 53.887
+ },
+ {
+  "id": "s09",
+  "bg": "mc/bg/study.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "And then, the moment that made the legend official sounding.",
+    "start": 0.3,
+    "end": 3.724,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.04,0,0"
+     ],
+     [
+      "t",
+      "THE COAST GUARD"
+     ]
+    ]
+   },
+   {
+    "text": "In nineteen fifty two, a United States Coast Guard publication, the Proceedings of the Merchant Marine Council, included the story.",
+    "start": 3.944,
+    "end": 12.656,
+    "tags": []
+   },
+   {
+    "text": "For a lot of later writers, that was proof.",
+    "start": 13.156,
+    "end": 15.64,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The Coast Guard printed it, so it must be true.",
+    "start": 15.86,
+    "end": 18.519,
+    "tags": []
+   },
+   {
+    "text": "But a publication repeating a story is not the same as an investigation confirming it.",
+    "start": 19.019,
+    "end": 24.463,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "There's no sign the Coast Guard investigated anything.",
+    "start": 24.683,
+    "end": 28.182,
+    "tags": []
+   },
+   {
+    "text": "It looks like they retold a tale that was already going around.",
+    "start": 28.402,
+    "end": 32.243,
+    "tags": []
+   },
+   {
+    "text": "It's the nineteen fifties version of, I saw it on a pretty official looking website.",
+    "start": 32.743,
+    "end": 37.728,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   }
+  ],
+  "duration": 38.828
+ },
+ {
+  "id": "s10",
+  "bg": "ourang/bg/board.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Now, people who believe the ship was real have proposed explanations.",
+    "start": 0.3,
+    "end": 4.728,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.45,1.0,1.04,0,0"
+     ],
+     [
+      "t",
+      "THEORY 1: DEADLY CARGO"
+     ]
+    ]
+   },
+   {
+    "text": "Let's be fair and look at them.",
+    "start": 4.948,
+    "end": 6.591,
+    "tags": []
+   },
+   {
+    "text": "Theory one, the most popular.",
+    "start": 7.091,
+    "end": 8.92,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Smuggled chemicals.",
+    "start": 9.14,
+    "end": 10.376,
+    "tags": []
+   },
+   {
+    "text": "The idea is that the Ourang Medan was secretly carrying something dangerous, like potassium cyanide and nitroglycerin, perhaps for a black market.",
+    "start": 10.596,
+    "end": 20.533,
+    "tags": []
+   },
+   {
+    "text": "Seawater leaking into the hold reacts with the chemicals, releasing toxic gas that kills the crew.",
+    "start": 21.033,
+    "end": 27.13,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Then the chemicals catch fire and explode.",
+    "start": 27.35,
+    "end": 29.617,
+    "tags": []
+   },
+   {
+    "text": "Writer Roy Bainton is among those who explored this idea.",
+    "start": 29.837,
+    "end": 33.613,
+    "tags": []
+   },
+   {
+    "text": "Theory two.",
+    "start": 34.113,
+    "end": 35.035,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ],
+     [
+      "t",
+      "THEORY 2: NERVE AGENT"
+     ]
+    ]
+   },
+   {
+    "text": "Leftover wartime nerve agents, being smuggled after World War Two.",
+    "start": 35.255,
+    "end": 39.706,
+    "tags": []
+   },
+   {
+    "text": "There's no real evidence for this one, but it shows up a lot online.",
+    "start": 39.926,
+    "end": 44.217,
+    "tags": []
+   },
+   {
+    "text": "Theory three.",
+    "start": 44.717,
+    "end": 45.67,
+    "tags": [
+     [
+      "a",
+      "think/neutral"
+     ],
+     [
+      "t",
+      "THEORY 3: CARBON MONOXIDE"
+     ]
+    ]
+   },
+   {
+    "text": "Carbon monoxide from a faulty boiler or a slow, hidden fire.",
+    "start": 45.89,
+    "end": 49.952,
+    "tags": []
+   },
+   {
+    "text": "It's invisible, it kills quietly, and it could explain a crew dying without wounds.",
+    "start": 50.172,
+    "end": 55.665,
+    "tags": []
+   },
+   {
+    "text": "Author Vincent Gaddis suggested this.",
+    "start": 55.885,
+    "end": 58.172,
+    "tags": []
+   }
+  ],
+  "duration": 59.272
+ },
+ {
+  "id": "s11",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "And theory four.",
+    "start": 0.3,
+    "end": 1.376,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ],
+     [
+      "t",
+      "THEORY 4: IT NEVER HAPPENED"
+     ]
+    ]
+   },
+   {
+    "text": "The one most researchers now land on.",
+    "start": 1.596,
+    "end": 3.909,
+    "tags": []
+   },
+   {
+    "text": "The Ourang Medan never existed.",
+    "start": 4.129,
+    "end": 6.347,
+    "tags": []
+   },
+   {
+    "text": "It's a piece of fiction or a hoax that grew in the retelling.",
+    "start": 6.567,
+    "end": 10.054,
+    "tags": []
+   },
+   {
+    "text": "Here's the thing about the other theories.",
+    "start": 10.554,
+    "end": 12.612,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "They're all trying to explain the details of the story.",
+    "start": 12.832,
+    "end": 15.727,
+    "tags": []
+   },
+   {
+    "text": "The faces.",
+    "start": 15.947,
+    "end": 16.827,
+    "tags": []
+   },
+   {
+    "text": "The dog.",
+    "start": 17.047,
+    "end": 17.798,
+    "tags": []
+   },
+   {
+    "text": "The fire.",
+    "start": 18.018,
+    "end": 18.794,
+    "tags": []
+   },
+   {
+    "text": "But if the story itself isn't reliable, then explaining its details is like explaining how the Big Bad Wolf managed to blow down a brick house.",
+    "start": 19.014,
+    "end": 28.161,
+    "tags": []
+   },
+   {
+    "text": "You can come up with a really clever answer.",
+    "start": 28.661,
+    "end": 31.034,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "It's still a story about a wolf.",
+    "start": 31.254,
+    "end": 33.068,
+    "tags": []
+   }
+  ],
+  "duration": 34.168
+ },
+ {
+  "id": "s12",
+  "bg": "ourang/bg/ship.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "So why has this story survived for more than eighty years?",
+    "start": 0.3,
+    "end": 3.644,
+    "tags": [
+     [
+      "cam",
+      "0.55,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "t",
+      "WHY IT SURVIVES"
+     ]
+    ]
+   },
+   {
+    "text": "Because it has everything.",
+    "start": 4.144,
+    "end": 5.55,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A last message.",
+    "start": 5.77,
+    "end": 6.891,
+    "tags": []
+   },
+   {
+    "text": "A terrifying image.",
+    "start": 7.111,
+    "end": 8.461,
+    "tags": []
+   },
+   {
+    "text": "A secret cargo.",
+    "start": 8.681,
+    "end": 9.887,
+    "tags": []
+   },
+   {
+    "text": "A cover up ending where the evidence sinks.",
+    "start": 10.107,
+    "end": 12.377,
+    "tags": []
+   },
+   {
+    "text": "And because the sea is genuinely mysterious.",
+    "start": 12.877,
+    "end": 15.356,
+    "tags": [
+     [
+      "a",
+      "point_l/smug"
+     ]
+    ]
+   },
+   {
+    "text": "Real ships really have been found abandoned.",
+    "start": 15.576,
+    "end": 18.179,
+    "tags": []
+   },
+   {
+    "text": "Real crews really have died from gas leaks and fires.",
+    "start": 18.399,
+    "end": 21.923,
+    "tags": []
+   },
+   {
+    "text": "So the Ourang Medan feels possible, even if this particular ship isn't real.",
+    "start": 22.143,
+    "end": 27.193,
+    "tags": []
+   },
+   {
+    "text": "It's basically creepypasta.",
+    "start": 27.693,
+    "end": 29.433,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "The original version, before the internet.",
+    "start": 29.653,
+    "end": 32.039,
+    "tags": []
+   },
+   {
+    "text": "Passed from newspaper to magazine to book to list video.",
+    "start": 32.259,
+    "end": 35.896,
+    "tags": []
+   },
+   {
+    "text": "Each one adding a little more fear and a little less evidence.",
+    "start": 36.116,
+    "end": 39.81,
+    "tags": []
+   }
+  ],
+  "duration": 40.91
+ },
+ {
+  "id": "s12b",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So here's a little toolkit, so you can check the next ghost ship story yourself.",
+    "start": 0.3,
+    "end": 4.716,
+    "tags": [
+     [
+      "a",
+      "point_up/smug"
+     ],
+     [
+      "t",
+      "HOW TO CHECK A GHOST SHIP"
+     ]
+    ]
+   },
+   {
+    "text": "Step one.",
+    "start": 5.216,
+    "end": 6.005,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Does the ship have a registry entry, a builder, or an owner?",
+    "start": 6.225,
+    "end": 9.759,
+    "tags": []
+   },
+   {
+    "text": "Real ships leave paperwork from the day they're built.",
+    "start": 9.979,
+    "end": 13.165,
+    "tags": []
+   },
+   {
+    "text": "Step two.",
+    "start": 13.665,
+    "end": 14.49,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Is there a first source, written at the time, by someone who was there?",
+    "start": 14.71,
+    "end": 18.455,
+    "tags": []
+   },
+   {
+    "text": "Or does every version say, according to reports?",
+    "start": 18.675,
+    "end": 21.671,
+    "tags": []
+   },
+   {
+    "text": "Step three.",
+    "start": 22.171,
+    "end": 23.066,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Do the details stay the same between versions?",
+    "start": 23.286,
+    "end": 25.815,
+    "tags": []
+   },
+   {
+    "text": "Real events get blurrier over time.",
+    "start": 26.035,
+    "end": 28.303,
+    "tags": []
+   },
+   {
+    "text": "Legends get more specific.",
+    "start": 28.523,
+    "end": 30.137,
+    "tags": []
+   },
+   {
+    "text": "Step four.",
+    "start": 30.637,
+    "end": 31.51,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Does the ending destroy all the evidence?",
+    "start": 31.73,
+    "end": 34.005,
+    "tags": []
+   },
+   {
+    "text": "Sinking, burning, vanishing.",
+    "start": 34.225,
+    "end": 35.766,
+    "tags": []
+   },
+   {
+    "text": "If the story conveniently can't be checked, that's not proof it's false.",
+    "start": 35.986,
+    "end": 40.256,
+    "tags": []
+   },
+   {
+    "text": "But it is a reason to be careful.",
+    "start": 40.476,
+    "end": 42.274,
+    "tags": []
+   },
+   {
+    "text": "Run the Ourang Medan through that list, and it fails almost every step.",
+    "start": 42.774,
+    "end": 47.37,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Which, honestly, is impressive.",
+    "start": 47.59,
+    "end": 49.327,
+    "tags": []
+   },
+   {
+    "text": "It takes real effort to be that mysterious.",
+    "start": 49.547,
+    "end": 51.937,
+    "tags": []
+   }
+  ],
+  "duration": 53.037
+ },
+ {
+  "id": "s13",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So here's the honest version.",
+    "start": 0.3,
+    "end": 2.025,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ],
+     [
+      "t",
+      "DOCUMENTED vs LEGEND"
+     ]
+    ]
+   },
+   {
+    "text": "Documented.",
+    "start": 2.525,
+    "end": 3.463,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A story about a death ship appeared in newspapers in nineteen forty and again in nineteen forty eight, and was retold in a US Coast Guard publication in nineteen fifty two.",
+    "start": 3.683,
+    "end": 15.25,
+    "tags": []
+   },
+   {
+    "text": "The details change between versions.",
+    "start": 15.47,
+    "end": 17.57,
+    "tags": []
+   },
+   {
+    "text": "Not found.",
+    "start": 18.07,
+    "end": 19.002,
+    "tags": [
+     [
+      "a",
+      "think/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Any record of a ship called the Ourang Medan, any registration, any owner, or any rescue in the Silver Star's records.",
+    "start": 19.222,
+    "end": 27.467,
+    "tags": []
+   },
+   {
+    "text": "Legend.",
+    "start": 27.967,
+    "end": 28.696,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "The terrified faces, the snarling dog, the secret cargo, the final words I die, and the explosion that erased the evidence.",
+    "start": 28.916,
+    "end": 37.456,
+    "tags": []
+   }
+  ],
+  "duration": 38.556
+ },
+ {
+  "id": "s14",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So, your verdict.",
+    "start": 0.3,
+    "end": 1.412,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Real death ship covered up by smugglers, or the best ghost story the twentieth century ever told?",
+    "start": 1.632,
+    "end": 7.953,
+    "tags": []
+   },
+   {
+    "text": "Tell me in the comments.",
+    "start": 8.453,
+    "end": 9.697,
+    "tags": [
+     [
+      "a",
+      "point_r/smug"
+     ]
+    ]
+   },
+   {
+    "text": "And if you see this ship in your next creepy list video, you'll know the one question they never ask.",
+    "start": 9.917,
+    "end": 15.551,
+    "tags": []
+   },
+   {
+    "text": "Where's the paperwork?",
+    "start": 15.771,
+    "end": 17.001,
+    "tags": []
+   },
+   {
+    "text": "If you like true stories that history never quite finished, subscribe.",
+    "start": 17.501,
+    "end": 21.579,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ],
+     [
+      "s",
+      "ding"
+     ]
+    ]
+   },
+   {
+    "text": "I'm Archie, this is The Quiet Archive, and I'll see you in the next file.",
+    "start": 21.799,
+    "end": 26.181,
+    "tags": []
+   }
+  ],
+  "duration": 27.281
+ }
+]
