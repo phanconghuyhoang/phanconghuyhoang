@@ -1,5 +1,11 @@
 # Published episodes
 
+> **SLOT STATUS (updated 2026-10-31 21:00 VN) — read this before producing anything.**
+> Filled: 10-31 23:00 Franklin · 11-01 03:00 Roanoke, 05:00/08:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
+> 11-03 03:00 Earhart, 06:00/09:00 Shorts · 11-04 03:00 Oak Island, 06:00/09:00 Shorts.
+> In production in session_01WfvVatVLocmdeMKS3xLrbR: Centralia → 11-02 21:00; Shorts v3s/cure + v3s/sinkhole → 11-05 06:00/09:00.
+> Still empty: 11-03 21:00, 11-04 21:00, 11-05 03:00 and 21:00. Max scheduling horizon = today + 5 days.
+
 | Ep | Publish (Asia/Saigon) | Title | Video id | Topic | 48 h | 7 d |
 |---|---|---|---|---|---|---|
 | 01 | 2026-10-29 01:00 (Wed 2 PM ET) | Three Lighthouse Keepers Vanished in 1900. Here's What the Records Actually Say | aXVngB5a2AA | Flannan Isles | | |
@@ -33,9 +39,9 @@
 - q-EJNmpVuv8 — Short "He Thought He Was Over the Florida Keys" — 2026-11-02 06:00
 - ND952hR9iYQ — Short "The Rescue Plane That Vanished Too" — 2026-11-02 09:00
 - Next: Saturday deep-dive (Franklin expedition, 18–25 min) → Sat 31 Oct 12:00 EDT = 2026-10-31 23:00 VN; daily set for 11-03 (03:00/06:00/09:00)
-- WAITING FOR UPLOAD (computer offline): franklin/ deep-dive (15:35) → Sat 31 Oct 12:00 EDT = 2026-10-31 23:00 VN; A/B: fr_a reaction / fr_b cinematic / fr_c evidence with titles in franklin/titles_ab.txt
-- WAITING FOR UPLOAD: earhart/ → 11-03 03:00 (A/B ea_a/ea_b/ea_c + titles_ab.txt); v3s/smoke → 11-03 06:00; v3s/photo → 11-03 09:00
-- WAITING FOR UPLOAD: oak/ → 11-04 03:00 (A/B oak_a/oak_b/oak_c + titles_ab.txt); v3s/fdr → 11-04 06:00; v3s/stone → 11-04 09:00
+- DONE 31/10 (zzNc14XiLuI) — was waiting: franklin/ deep-dive (15:35) → Sat 31 Oct 12:00 EDT = 2026-10-31 23:00 VN; A/B: fr_a reaction / fr_b cinematic / fr_c evidence with titles in franklin/titles_ab.txt
+- DONE 31/10 (z0vo0EDeJaQ, v6k7tVI7jK0, VRCxsDMjzwU) — was waiting: earhart/ → 11-03 03:00 (A/B ea_a/ea_b/ea_c + titles_ab.txt); v3s/smoke → 11-03 06:00; v3s/photo → 11-03 09:00
+- DONE 31/10 (QshpO_-bUFc, 6JND509uEiU, IMr7_hNshms) — was waiting: oak/ → 11-04 03:00 (A/B oak_a/oak_b/oak_c + titles_ab.txt); v3s/fdr → 11-04 06:00; v3s/stone → 11-04 09:00
 
 ## 2026-10-31
 - zzNc14XiLuI — "The Franklin Expedition: 129 Men Vanished in the Arctic Ice" (Archie deep-dive, 15:35) — 2026-10-31 23:00 (Sat 12:00 EDT); A/B title+thumb: fr_a reaction / fr_b cinematic (graves) / fr_c evidence; AI=Có; captions uploaded in dialog
