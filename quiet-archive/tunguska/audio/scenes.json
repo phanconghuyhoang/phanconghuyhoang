@@ -1,0 +1,1526 @@
+[
+ {
+  "id": "s01",
+  "bg": "tunguska/bg/fireball.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "June thirtieth, nineteen oh eight.",
+    "start": 0.3,
+    "end": 2.389,
+    "tags": [
+     [
+      "cam",
+      "0.4,0.45,1.0,1.1,0,0"
+     ],
+     [
+      "a",
+      "lean_in/shocked"
+     ],
+     [
+      "t",
+      "JUNE 30, 1908"
+     ]
+    ]
+   },
+   {
+    "text": "Just after seven in the morning.",
+    "start": 2.609,
+    "end": 4.464,
+    "tags": []
+   },
+   {
+    "text": "Over a remote forest in Siberia, something brighter than the sun streaks across the sky.",
+    "start": 4.684,
+    "end": 10.36,
+    "tags": []
+   },
+   {
+    "text": "Then it explodes.",
+    "start": 10.86,
+    "end": 12.094,
+    "tags": [
+     [
+      "s",
+      "sting"
+     ],
+     [
+      "a",
+      "scared/scared"
+     ],
+     [
+      "z",
+      ""
+     ]
+    ]
+   },
+   {
+    "text": "In the air.",
+    "start": 12.314,
+    "end": 13.114,
+    "tags": []
+   },
+   {
+    "text": "The blast flattens an area of forest bigger than New York City.",
+    "start": 13.614,
+    "end": 17.369,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ]
+    ]
+   },
+   {
+    "text": "Windows break more than sixty kilometers away.",
+    "start": 17.589,
+    "end": 20.36,
+    "tags": []
+   },
+   {
+    "text": "Instruments in Britain feel the shock wave.",
+    "start": 20.58,
+    "end": 23.005,
+    "tags": []
+   },
+   {
+    "text": "And when scientists finally get there, almost twenty years later, there is no crater.",
+    "start": 23.505,
+    "end": 28.638,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "No giant rock.",
+    "start": 28.858,
+    "end": 30.015,
+    "tags": []
+   },
+   {
+    "text": "Nothing.",
+    "start": 30.235,
+    "end": 30.914,
+    "tags": []
+   },
+   {
+    "text": "Just millions of trees lying down like someone pressed a giant snooze button on the entire forest.",
+    "start": 31.134,
+    "end": 37.514,
+    "tags": []
+   }
+  ],
+  "duration": 38.614
+ },
+ {
+  "id": "s02",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Hi, I'm Archie, this is The Quiet Archive, and today's file is the Tunguska event.",
+    "start": 0.3,
+    "end": 5.702,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ]
+    ]
+   },
+   {
+    "text": "The biggest impact in recorded history.",
+    "start": 5.922,
+    "end": 8.309,
+    "tags": []
+   },
+   {
+    "text": "That never actually hit the ground.",
+    "start": 8.529,
+    "end": 10.429,
+    "tags": []
+   },
+   {
+    "text": "Fun timing, too.",
+    "start": 10.929,
+    "end": 12.075,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "This month, two of the biggest asteroids in the solar system, Vesta and Pallas, are bright enough to spot with binoculars.",
+    "start": 12.295,
+    "end": 20.192,
+    "tags": []
+   },
+   {
+    "text": "So if you're looking up anyway, this is a good day to learn what happens when one of their smaller cousins drops by.",
+    "start": 20.412,
+    "end": 27.162,
+    "tags": []
+   },
+   {
+    "text": "We'll follow the eyewitnesses, the scientists, and the theories.",
+    "start": 27.662,
+    "end": 31.184,
+    "tags": [
+     [
+      "a",
+      "hands_hips/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Including a few that are completely bonkers.",
+    "start": 31.404,
+    "end": 34.003,
+    "tags": []
+   },
+   {
+    "text": "And I'll tell you which ones the evidence actually supports.",
+    "start": 34.223,
+    "end": 37.555,
+    "tags": []
+   }
+  ],
+  "duration": 38.655
+ },
+ {
+  "id": "s03",
+  "bg": "tunguska/bg/map.png#fit",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "First, where this happened.",
+    "start": 0.3,
+    "end": 1.646,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ],
+     [
+      "t",
+      "THE MIDDLE OF NOWHERE"
+     ]
+    ]
+   },
+   {
+    "text": "The Podkamennaya Tunguska River, in central Siberia, in what was then the Russian Empire.",
+    "start": 1.866,
+    "end": 8.04,
+    "tags": []
+   },
+   {
+    "text": "This is deep taiga.",
+    "start": 8.54,
+    "end": 9.809,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Endless pine and larch forest, swamps, rivers, and almost no people.",
+    "start": 10.029,
+    "end": 14.812,
+    "tags": []
+   },
+   {
+    "text": "The nearest settlement worth a dot on the map was a small trading post called Vanavara, about sixty five kilometers away.",
+    "start": 15.032,
+    "end": 23.039,
+    "tags": []
+   },
+   {
+    "text": "If you were picking a spot on Earth to drop a giant explosion, this is honestly the most polite choice.",
+    "start": 23.539,
+    "end": 29.933,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Imagine the same thing over Paris.",
+    "start": 30.153,
+    "end": 32.154,
+    "tags": []
+   },
+   {
+    "text": "Or over your house.",
+    "start": 32.374,
+    "end": 33.555,
+    "tags": []
+   },
+   {
+    "text": "Remember that.",
+    "start": 34.055,
+    "end": 34.966,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Because it's the reason this story is a mystery instead of a catastrophe.",
+    "start": 35.186,
+    "end": 39.733,
+    "tags": []
+   }
+  ],
+  "duration": 40.833
+ },
+ {
+  "id": "s04",
+  "bg": "tunguska/bg/camp.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "The people closest to the blast were the Evenki, reindeer herders who lived and traveled across this forest.",
+    "start": 0.3,
+    "end": 7.06,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "ev=keeper@0.4,0.88,0.05"
+     ],
+     [
+      "c",
+      "ev idle/neutral"
+     ],
+     [
+      "c",
+      "ev2=woman@0.6,0.88,0.05"
+     ],
+     [
+      "c",
+      "ev2 talk/neutral"
+     ],
+     [
+      "t",
+      "THE EVENKI"
+     ]
+    ]
+   },
+   {
+    "text": "Some of their camps were much closer than Vanavara.",
+    "start": 7.56,
+    "end": 10.576,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Their accounts, collected years later, describe tents blown over, reindeer killed, and people thrown through the air.",
+    "start": 10.796,
+    "end": 17.519,
+    "tags": []
+   },
+   {
+    "text": "At least three people are reported to have died.",
+    "start": 18.019,
+    "end": 20.623,
+    "tags": [
+     [
+      "c",
+      "ev scared/scared"
+     ],
+     [
+      "c",
+      "ev2 scared/shocked"
+     ],
+     [
+      "a",
+      "lean_in/sad"
+     ]
+    ]
+   },
+   {
+    "text": "In such an empty place, it's possible that's close to the real number.",
+    "start": 20.843,
+    "end": 25.02,
+    "tags": []
+   },
+   {
+    "text": "It's also possible we'll never know.",
+    "start": 25.24,
+    "end": 27.541,
+    "tags": []
+   }
+  ],
+  "duration": 28.641
+ },
+ {
+  "id": "s05",
+  "bg": "tunguska/bg/post.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Now, the most famous eyewitness.",
+    "start": 0.3,
+    "end": 2.13,
+    "tags": [
+     [
+      "cam",
+      "0.6,0.6,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "se=beard@0.62,0.88,0.05"
+     ],
+     [
+      "c",
+      "se idle/neutral"
+     ],
+     [
+      "t",
+      "VANAVARA, 65 KM AWAY"
+     ]
+    ]
+   },
+   {
+    "text": "A man named Semenov, sitting on the porch of the trading post at Vanavara.",
+    "start": 2.35,
+    "end": 7.132,
+    "tags": []
+   },
+   {
+    "text": "He described the sky splitting in two, and fire appearing high above the forest.",
+    "start": 7.632,
+    "end": 12.613,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Then a wave of heat so strong he felt his shirt was about to burn.",
+    "start": 12.833,
+    "end": 16.845,
+    "tags": []
+   },
+   {
+    "text": "Then the shock wave hit.",
+    "start": 17.345,
+    "end": 18.575,
+    "tags": [
+     [
+      "c",
+      "se lie/shocked"
+     ],
+     [
+      "s",
+      "thud"
+     ],
+     [
+      "a",
+      "scared/shocked"
+     ]
+    ]
+   },
+   {
+    "text": "It threw him to the ground, several meters from the porch, and he briefly lost consciousness.",
+    "start": 18.795,
+    "end": 24.454,
+    "tags": []
+   },
+   {
+    "text": "Sixty five kilometers away.",
+    "start": 24.954,
+    "end": 26.824,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "That's roughly the distance from Manhattan to Princeton.",
+    "start": 27.044,
+    "end": 29.94,
+    "tags": []
+   },
+   {
+    "text": "Imagine getting knocked off your porch by something happening in New Jersey.",
+    "start": 30.16,
+    "end": 34.428,
+    "tags": []
+   }
+  ],
+  "duration": 35.528
+ },
+ {
+  "id": "s06",
+  "bg": "tunguska/bg/blast.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "So how big was it?",
+    "start": 0.3,
+    "end": 1.45,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.08,0,0"
+     ],
+     [
+      "a",
+      "point_up/shocked"
+     ],
+     [
+      "t",
+      "10 TO 15 MEGATONS"
+     ]
+    ]
+   },
+   {
+    "text": "Estimates have bounced around a lot over the years, from about three to thirty megatons.",
+    "start": 1.67,
+    "end": 6.835,
+    "tags": []
+   },
+   {
+    "text": "Ten to fifteen is a common figure.",
+    "start": 7.055,
+    "end": 9.289,
+    "tags": []
+   },
+   {
+    "text": "For scale, the atomic bomb dropped on Hiroshima was about fifteen kilotons.",
+    "start": 9.789,
+    "end": 14.922,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "So Tunguska was somewhere around a thousand times more powerful.",
+    "start": 15.142,
+    "end": 19.186,
+    "tags": []
+   },
+   {
+    "text": "And here's the part that makes scientists' eyes light up.",
+    "start": 19.686,
+    "end": 22.638,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "All of that energy was released in the air, several kilometers above the ground.",
+    "start": 22.858,
+    "end": 27.814,
+    "tags": []
+   },
+   {
+    "text": "Not on impact.",
+    "start": 28.034,
+    "end": 29.153,
+    "tags": []
+   },
+   {
+    "text": "It's the universe's version of a really dramatic entrance where the guest explodes before reaching the door.",
+    "start": 29.653,
+    "end": 36.168,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   }
+  ],
+  "duration": 37.268
+ },
+ {
+  "id": "s07",
+  "bg": "tunguska/bg/seismo.png#fit",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "The explosion didn't just shake Siberia.",
+    "start": 0.3,
+    "end": 2.577,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ],
+     [
+      "t",
+      "FELT AROUND THE WORLD"
+     ]
+    ]
+   },
+   {
+    "text": "Seismic stations recorded it.",
+    "start": 2.797,
+    "end": 4.558,
+    "tags": []
+   },
+   {
+    "text": "And the pressure wave in the air was picked up by instruments as far away as Britain.",
+    "start": 4.778,
+    "end": 9.652,
+    "tags": []
+   },
+   {
+    "text": "Nobody knew what they were looking at, of course.",
+    "start": 10.152,
+    "end": 12.59,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "In nineteen oh eight there were no satellites, no internet, and Siberia was very far from everyone with a newspaper.",
+    "start": 12.81,
+    "end": 20.156,
+    "tags": []
+   },
+   {
+    "text": "The scientists in Europe saw a strange wiggle on their charts, shrugged, and went back to their tea.",
+    "start": 20.656,
+    "end": 26.57,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ]
+    ]
+   }
+  ],
+  "duration": 27.67
+ },
+ {
+  "id": "s08",
+  "bg": "tunguska/bg/night_city.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "But people did notice something.",
+    "start": 0.3,
+    "end": 2.005,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.4,1.0,1.06,0,0"
+     ],
+     [
+      "a",
+      "point_up/shocked"
+     ],
+     [
+      "t",
+      "NIGHTS THAT WOULDN'T GET DARK"
+     ]
+    ]
+   },
+   {
+    "text": "For several nights after the explosion, the skies over Europe and western Russia glowed.",
+    "start": 2.225,
+    "end": 7.66,
+    "tags": []
+   },
+   {
+    "text": "People reported nights so bright you could read outside.",
+    "start": 8.16,
+    "end": 11.646,
+    "tags": [
+     [
+      "a",
+      "talk/smug"
+     ]
+    ]
+   },
+   {
+    "text": "Some photographed the sky.",
+    "start": 11.866,
+    "end": 13.473,
+    "tags": []
+   },
+   {
+    "text": "Some thought it was the end of the world.",
+    "start": 13.693,
+    "end": 15.819,
+    "tags": []
+   },
+   {
+    "text": "Some just stayed out late.",
+    "start": 16.039,
+    "end": 17.474,
+    "tags": []
+   },
+   {
+    "text": "Most likely, dust and ice thrown high into the atmosphere were catching sunlight from below the horizon.",
+    "start": 17.974,
+    "end": 24.382,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Basically, Earth got a cosmic night light, and nobody had any idea where it came from.",
+    "start": 24.602,
+    "end": 30.012,
+    "tags": []
+   }
+  ],
+  "duration": 31.112
+ },
+ {
+  "id": "s09",
+  "bg": "tunguska/bg/swamp.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "And then, for years, nothing.",
+    "start": 0.3,
+    "end": 1.816,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "ku=writer@0.42,0.88,0.05"
+     ],
+     [
+      "c",
+      "ku point_r/smug"
+     ],
+     [
+      "t",
+      "LEONID KULIK"
+     ]
+    ]
+   },
+   {
+    "text": "World War One.",
+    "start": 2.036,
+    "end": 3.092,
+    "tags": []
+   },
+   {
+    "text": "The Russian Revolution.",
+    "start": 3.312,
+    "end": 4.675,
+    "tags": []
+   },
+   {
+    "text": "A civil war.",
+    "start": 4.895,
+    "end": 5.844,
+    "tags": []
+   },
+   {
+    "text": "Nobody had time to go look for a mysterious explosion in a swamp.",
+    "start": 6.064,
+    "end": 10.088,
+    "tags": []
+   },
+   {
+    "text": "Finally, in the nineteen twenties, a mineralogist named Leonid Kulik became obsessed with it.",
+    "start": 10.588,
+    "end": 16.561,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "He was convinced a giant meteorite had hit Siberia, and that it might be full of valuable iron.",
+    "start": 16.781,
+    "end": 23.071,
+    "tags": []
+   },
+   {
+    "text": "His first expedition, in nineteen twenty one, didn't even reach the site.",
+    "start": 23.571,
+    "end": 27.791,
+    "tags": [
+     [
+      "c",
+      "ku walk_a/neutral"
+     ],
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "In nineteen twenty seven he finally made it, hiking through bogs, mosquitoes and fallen forest.",
+    "start": 28.011,
+    "end": 34.111,
+    "tags": []
+   },
+   {
+    "text": "Picture spending years planning a treasure hunt, crossing half of Siberia, getting eaten alive by mosquitoes, and finding out the treasure might not exist.",
+    "start": 34.611,
+    "end": 44.68,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "That's not an expedition.",
+    "start": 44.9,
+    "end": 46.418,
+    "tags": []
+   },
+   {
+    "text": "That's a group project.",
+    "start": 46.638,
+    "end": 47.988,
+    "tags": []
+   }
+  ],
+  "duration": 49.088
+ },
+ {
+  "id": "s10",
+  "bg": "tunguska/bg/flattened.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "What Kulik found was staggering.",
+    "start": 0.3,
+    "end": 1.991,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.6,1.0,1.06,0,0"
+     ],
+     [
+      "a",
+      "point_l/shocked"
+     ],
+     [
+      "t",
+      "2,150 KM\u00b2 FLATTENED"
+     ]
+    ]
+   },
+   {
+    "text": "Trees knocked flat across an area of about two thousand one hundred and fifty square kilometers.",
+    "start": 2.211,
+    "end": 8.235,
+    "tags": []
+   },
+   {
+    "text": "You'll often hear the number eighty million trees.",
+    "start": 8.735,
+    "end": 11.448,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "That's a popular estimate, not a careful count.",
+    "start": 11.668,
+    "end": 14.478,
+    "tags": []
+   },
+   {
+    "text": "But it gives you the idea.",
+    "start": 14.698,
+    "end": 16.092,
+    "tags": []
+   },
+   {
+    "text": "A whole forest, lying down.",
+    "start": 16.312,
+    "end": 18.175,
+    "tags": []
+   },
+   {
+    "text": "And they weren't lying randomly.",
+    "start": 18.675,
+    "end": 20.243,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "They pointed outward, away from one central area, like a giant had pushed them over from the middle.",
+    "start": 20.463,
+    "end": 26.713,
+    "tags": []
+   }
+  ],
+  "duration": 27.813
+ },
+ {
+  "id": "s11",
+  "bg": "tunguska/bg/epicentre.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "So Kulik went to the center, expecting a crater.",
+    "start": 0.3,
+    "end": 3.298,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.08,0,0"
+     ],
+     [
+      "c",
+      "ku=writer@0.3,0.88,0.05"
+     ],
+     [
+      "c",
+      "ku think/suspicious"
+     ],
+     [
+      "t",
+      "NO CRATER"
+     ]
+    ]
+   },
+   {
+    "text": "And instead found this.",
+    "start": 3.518,
+    "end": 4.809,
+    "tags": []
+   },
+   {
+    "text": "Trees still standing.",
+    "start": 5.309,
+    "end": 6.598,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ],
+     [
+      "s",
+      "sting"
+     ]
+    ]
+   },
+   {
+    "text": "Stripped of their branches and bark, but upright.",
+    "start": 6.818,
+    "end": 9.43,
+    "tags": []
+   },
+   {
+    "text": "That's actually a huge clue.",
+    "start": 9.93,
+    "end": 11.655,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Directly under an explosion in the air, the blast comes straight down, so the trees get stripped but not knocked over.",
+    "start": 11.875,
+    "end": 19.094,
+    "tags": []
+   },
+   {
+    "text": "Further out, the blast comes in at an angle and flattens them.",
+    "start": 19.314,
+    "end": 22.637,
+    "tags": []
+   },
+   {
+    "text": "Kulik kept searching for his giant meteorite for years.",
+    "start": 23.137,
+    "end": 26.52,
+    "tags": [
+     [
+      "c",
+      "ku facepalm/sad"
+     ],
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "He drained swamps.",
+    "start": 26.74,
+    "end": 27.874,
+    "tags": []
+   },
+   {
+    "text": "He dug holes.",
+    "start": 28.094,
+    "end": 29.134,
+    "tags": []
+   },
+   {
+    "text": "He never found it.",
+    "start": 29.354,
+    "end": 30.434,
+    "tags": []
+   },
+   {
+    "text": "And that's not even the strangest part.",
+    "start": 30.654,
+    "end": 32.539,
+    "tags": []
+   },
+   {
+    "text": "The strangest part is how many people later decided they knew exactly what it was.",
+    "start": 32.759,
+    "end": 38.08,
+    "tags": []
+   }
+  ],
+  "duration": 39.18
+ },
+ {
+  "id": "s12",
+  "bg": "tunguska/bg/board.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Let's go through the theories.",
+    "start": 0.3,
+    "end": 1.83,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.45,1.0,1.04,0,0"
+     ],
+     [
+      "t",
+      "THEORY 1: A SPACE ROCK"
+     ]
+    ]
+   },
+   {
+    "text": "Theory one, the one most scientists accept.",
+    "start": 2.05,
+    "end": 4.8,
+    "tags": []
+   },
+   {
+    "text": "A stony asteroid, maybe fifty to sixty meters across, hit the atmosphere at tremendous speed.",
+    "start": 5.02,
+    "end": 11.632,
+    "tags": []
+   },
+   {
+    "text": "The air in front of it compressed and heated so much that the rock broke apart and essentially exploded a few kilometers up.",
+    "start": 12.132,
+    "end": 20.08,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "An airburst.",
+    "start": 20.3,
+    "end": 21.178,
+    "tags": []
+   },
+   {
+    "text": "No crater, because nothing big enough reached the ground.",
+    "start": 21.398,
+    "end": 24.688,
+    "tags": []
+   },
+   {
+    "text": "Theory two.",
+    "start": 25.188,
+    "end": 26.109,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ],
+     [
+      "t",
+      "THEORY 2: A COMET"
+     ]
+    ]
+   },
+   {
+    "text": "A comet.",
+    "start": 26.329,
+    "end": 27.062,
+    "tags": []
+   },
+   {
+    "text": "Comets are mostly ice and dust, so they could explode completely and leave almost nothing behind.",
+    "start": 27.282,
+    "end": 33.486,
+    "tags": []
+   },
+   {
+    "text": "That would also help explain the glowing nights.",
+    "start": 33.706,
+    "end": 36.243,
+    "tags": []
+   },
+   {
+    "text": "Theory three.",
+    "start": 36.743,
+    "end": 37.697,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ],
+     [
+      "t",
+      "THEORY 3: LAKE CHEKO"
+     ]
+    ]
+   },
+   {
+    "text": "A small lake about eight kilometers away, called Lake Cheko.",
+    "start": 37.917,
+    "end": 41.668,
+    "tags": []
+   },
+   {
+    "text": "Some Italian researchers proposed it might be a crater made by a surviving fragment.",
+    "start": 41.888,
+    "end": 47.215,
+    "tags": []
+   },
+   {
+    "text": "Others think the lake is older than nineteen oh eight.",
+    "start": 47.435,
+    "end": 50.545,
+    "tags": []
+   },
+   {
+    "text": "That debate is still going.",
+    "start": 50.765,
+    "end": 52.309,
+    "tags": []
+   }
+  ],
+  "duration": 53.409
+ },
+ {
+  "id": "s13",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "And now, the fun section.",
+    "start": 0.3,
+    "end": 1.742,
+    "tags": [
+     [
+      "a",
+      "lean_in/smug"
+     ],
+     [
+      "t",
+      "THE WILD ONES"
+     ]
+    ]
+   },
+   {
+    "text": "The theories that are, let's say, enthusiastic.",
+    "start": 1.962,
+    "end": 4.641,
+    "tags": []
+   },
+   {
+    "text": "Some people claimed it was a test of a secret death ray by the inventor Nikola Tesla.",
+    "start": 5.141,
+    "end": 10.795,
+    "tags": [
+     [
+      "a",
+      "point_up/smug"
+     ]
+    ]
+   },
+   {
+    "text": "There is no evidence for this.",
+    "start": 11.015,
+    "end": 12.706,
+    "tags": []
+   },
+   {
+    "text": "It's a story that sounds cool on the internet, which is not the same thing as being true.",
+    "start": 12.926,
+    "end": 18.285,
+    "tags": []
+   },
+   {
+    "text": "Others suggested a tiny black hole passing through the Earth, or a crashed alien spaceship.",
+    "start": 18.785,
+    "end": 24.396,
+    "tags": [
+     [
+      "a",
+      "talk/smug"
+     ]
+    ]
+   },
+   {
+    "text": "These ideas have appeared mostly in fiction and speculation, not in evidence.",
+    "start": 24.616,
+    "end": 29.666,
+    "tags": []
+   },
+   {
+    "text": "Look, I love a good alien.",
+    "start": 30.166,
+    "end": 31.725,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ],
+     [
+      "s",
+      "boing"
+     ]
+    ]
+   },
+   {
+    "text": "But when you have a giant explosion in the sky, a flattened forest pointing away from one spot, and a planet that gets hit by space rocks all the time, the boring answer is probably right.",
+    "start": 31.945,
+    "end": 44.048,
+    "tags": []
+   },
+   {
+    "text": "Sorry, aliens.",
+    "start": 44.268,
+    "end": 45.392,
+    "tags": []
+   }
+  ],
+  "duration": 46.492
+ },
+ {
+  "id": "s14",
+  "bg": "tunguska/bg/taiga.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "And here's why Tunguska still matters.",
+    "start": 0.3,
+    "end": 2.465,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "t",
+      "CHELYABINSK, 2013"
+     ]
+    ]
+   },
+   {
+    "text": "In twenty thirteen, a much smaller asteroid exploded over the Russian city of Chelyabinsk.",
+    "start": 2.685,
+    "end": 8.587,
+    "tags": []
+   },
+   {
+    "text": "It was caught on dashcams everywhere.",
+    "start": 9.087,
+    "end": 11.014,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The shock wave blew out windows and injured more than a thousand people, mostly from flying glass.",
+    "start": 11.234,
+    "end": 17.508,
+    "tags": []
+   },
+   {
+    "text": "That was a rock around twenty meters wide.",
+    "start": 18.008,
+    "end": 20.426,
+    "tags": [
+     [
+      "a",
+      "lean_in/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Tunguska was probably two or three times wider, which means far more energy.",
+    "start": 20.646,
+    "end": 25.555,
+    "tags": []
+   },
+   {
+    "text": "Tunguska is the reason the United Nations now marks June thirtieth as International Asteroid Day.",
+    "start": 26.055,
+    "end": 33.233,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "It's a reminder to keep watching the sky.",
+    "start": 33.453,
+    "end": 35.732,
+    "tags": []
+   },
+   {
+    "text": "And to fund the people doing the watching.",
+    "start": 35.952,
+    "end": 37.982,
+    "tags": []
+   }
+  ],
+  "duration": 39.082
+ },
+ {
+  "id": "s15",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So here's the honest version.",
+    "start": 0.3,
+    "end": 2.025,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ],
+     [
+      "t",
+      "DOCUMENTED vs LEGEND"
+     ]
+    ]
+   },
+   {
+    "text": "Documented.",
+    "start": 2.525,
+    "end": 3.463,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "On June thirtieth, nineteen oh eight, a huge explosion over central Siberia flattened about two thousand one hundred and fifty square kilometers of forest.",
+    "start": 3.683,
+    "end": 14.163,
+    "tags": []
+   },
+   {
+    "text": "It was recorded by instruments far away.",
+    "start": 14.383,
+    "end": 16.667,
+    "tags": []
+   },
+   {
+    "text": "Skies over Europe glowed for nights afterward.",
+    "start": 16.887,
+    "end": 19.563,
+    "tags": []
+   },
+   {
+    "text": "Eyewitnesses were knocked down sixty five kilometers away.",
+    "start": 19.783,
+    "end": 23.261,
+    "tags": []
+   },
+   {
+    "text": "At least three people are reported to have died.",
+    "start": 23.481,
+    "end": 26.085,
+    "tags": []
+   },
+   {
+    "text": "No crater has been confirmed.",
+    "start": 26.305,
+    "end": 28.146,
+    "tags": []
+   },
+   {
+    "text": "Disputed.",
+    "start": 28.646,
+    "end": 29.504,
+    "tags": [
+     [
+      "a",
+      "think/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The exact energy, the size of the object, whether it was rocky or icy, and whether Lake Cheko is part of the story.",
+    "start": 29.724,
+    "end": 37.451,
+    "tags": []
+   },
+   {
+    "text": "Legend.",
+    "start": 37.951,
+    "end": 38.681,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "The Tesla death ray, the alien ship, the black hole, and the exact figure of eighty million trees.",
+    "start": 38.901,
+    "end": 45.091,
+    "tags": []
+   }
+  ],
+  "duration": 46.191
+ },
+ {
+  "id": "s16",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So, your verdict.",
+    "start": 0.3,
+    "end": 1.412,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Asteroid, comet, or are you still team aliens?",
+    "start": 1.632,
+    "end": 4.681,
+    "tags": []
+   },
+   {
+    "text": "I won't judge.",
+    "start": 4.901,
+    "end": 5.906,
+    "tags": []
+   },
+   {
+    "text": "Much.",
+    "start": 6.126,
+    "end": 6.721,
+    "tags": []
+   },
+   {
+    "text": "Tell me in the comments.",
+    "start": 7.221,
+    "end": 8.466,
+    "tags": [
+     [
+      "a",
+      "point_r/smug"
+     ]
+    ]
+   },
+   {
+    "text": "And if a giant fireball ever appears in the sky, please don't stand by the window.",
+    "start": 8.686,
+    "end": 13.658,
+    "tags": []
+   },
+   {
+    "text": "That's the one lesson Chelyabinsk taught everyone.",
+    "start": 13.878,
+    "end": 16.694,
+    "tags": []
+   },
+   {
+    "text": "If you like true stories that history never quite finished, subscribe.",
+    "start": 17.194,
+    "end": 21.273,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ],
+     [
+      "s",
+      "ding"
+     ]
+    ]
+   },
+   {
+    "text": "I'm Archie, this is The Quiet Archive, and I'll see you in the next file.",
+    "start": 21.492,
+    "end": 25.875,
+    "tags": []
+   }
+  ],
+  "duration": 26.975
+ }
+]
