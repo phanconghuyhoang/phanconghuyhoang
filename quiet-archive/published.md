@@ -1,7 +1,7 @@
 # Published episodes
 
 > **SLOT STATUS (updated 2026-10-31 21:00 VN) — read this before producing anything.**
-> Filled: 10-31 23:00 Franklin · 11-01 03:00 Roanoke, 05:00/08:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
+> Filled: 10-31 23:00 Franklin · 11-01 03:00 Roanoke, 06:00/09:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
 > 11-03 03:00 Earhart, 06:00/09:00 Shorts · 11-04 03:00 Oak Island, 06:00/09:00 Shorts.
 > In production in session_01WfvVatVLocmdeMKS3xLrbR: Centralia → 11-02 21:00; Shorts v3s/cure + v3s/sinkhole → 11-05 06:00/09:00.
 > Still empty: 11-03 21:00, 11-04 21:00, 11-05 03:00 and 21:00. Max scheduling horizon = today + 5 days.
@@ -50,3 +50,8 @@
 - VRCxsDMjzwU — Short "The Earhart Photo Taken 2 Years Too Early" — 2026-11-03 09:00
 - QshpO_-bUFc — "Oak Island: 200 Years of Digging and Still No Treasure" (Archie, 7:10) — 2026-11-04 03:00; A/B oak_a reaction / oak_b cinematic / oak_c evidence
 - wGIVJYrnUPY — "The Dancing Plague of 1518: The Town That Couldn't Stop Dancing" (Archie, 8:33, Long B) — 2026-11-01 21:00; A/B pl_a reaction / pl_b cinematic / pl_c question
+
+## 2026-10-31 21:00 schedule audit (owner asked to check every scheduled time)
+- Roanoke mfd4aevUc7w 11-01 02:00 → 03:00; Short cIiFLJ7o-1Y 05:00 → 06:00; Short iG6SHaSWeic 08:00 → 09:00.
+- Verified unchanged: Flight 19 11-02 03:00, Shorts q-EJNmpVuv8 06:00 / ND952hR9iYQ 09:00, fdr Short 11-04 06:00; the rest were scheduled today with confirmed times.
+- Franklin stays 10-31 23:00 (too late to move to 21:00).
