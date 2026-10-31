@@ -15,7 +15,8 @@ Commit as `Claude <noreply@anthropic.com>`; end messages with the attribution li
 ## 1. FIRST: check what is already scheduled (owner rule 2026-10-31 — never produce for slots that are full)
 Open Studio > Nội dung (Video tab AND Shorts tab), read every "Đã lên lịch" row (date + time on the row's hover/edit),
 and reconcile with `published.md`. Build the slot table below for the next 4 days and produce ONLY for the first
-empty slots. If everything is filled ≥2 days ahead, do analytics + improvements instead of new videos.
+empty slots. **Never schedule more than 5 days after today's date (owner rule 2026-10-31)** — e.g. on 31 Oct
+the last allowed date is 5 Nov. If everything is filled ≥2 days ahead, do analytics + improvements instead of new videos.
 
 Daily slots (owner rule 2026-10-31: **2 long-form + 2 Shorts per day, fixed times**). Studio is GMT+7:
 | Slot | ET | VN (EST, 2 Nov 2026 – 8 Mar 2027) | VN (EDT, from 8 Mar 2027) |
