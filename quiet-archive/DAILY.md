@@ -38,6 +38,21 @@ AVD, retention drop, traffic source, subs; Shorts: viewed vs swiped). Add a chan
 - First-30 s retention < 65% → stronger cold open next time.
 - Double down on topics/formats that beat the channel average. Note the decision in the Action column.
 
+### 2b. Every-5-days deep review (owner rule 2026-10-31): 5 Nov, 10 Nov, 15 Nov, 20 Nov … (first run of that day)
+Daily runs only RECORD numbers; direction changes happen in this review. Write a section "Review DD/MM" in analytics.md
+and send the owner a short Vietnamese summary.
+1. Own channel, last 5 days vs previous 5: views, watch hours, subs, CTR, AVD, retention, traffic sources; rank every
+   long-form and Short; A/B results; Short → long-form click-through; progress to monetization (1K subs + 4K h, or 10M
+   Shorts views/90 d).
+2. Competitors (5–8 channels on the same niche, big + small fast-growing; keep the list in analytics.md): their uploads
+   in the last 5 days, which beat their own average, topic, length, title/thumbnail style, posting time, cold open,
+   how their Shorts push to long-forms.
+3. Trends: searches/news/films/games/memes that can hook into a history story.
+4. Compare + conclude: where we are weaker, which topics/formats win, gaps nobody covers.
+5. Adjust for the next 5 days — at most 3 changes so their effect is measurable (topic list, default thumbnail/title
+   style, cold open + joke rhythm, length, slots). Log: change, metric, check next review.
+Big changes (niche, mascot, daily volume) = proposals only; the owner decides.
+
 ## 3. Pick topics
 `topics.md` = backlog. Prefer US-searchable cases (Roanoke, Amelia Earhart, USS Cyclops, Dyatlov Pass, Bermuda
 Triangle cases, Lost Colony, Flight 19, Oak Island, Franklin expedition, Dancing Plague, Tunguska, etc.). Each video is
