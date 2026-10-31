@@ -71,10 +71,29 @@ class Look:
         self.kind, self.body, self.accent, self.seed = kind, body, accent, seed
 
 
+class _SafeDraw:
+    """Wraps ImageDraw so box shapes accept corners in any order (rotated poses such as 'lie' flip them)."""
+    def __init__(self, d):
+        self._d = d
+    def _box(self, xy):
+        x0, y0, x1, y1 = xy
+        return [min(x0, x1), min(y0, y1), max(x0, x1), max(y0, y1)]
+    def ellipse(self, xy, *a, **k):
+        return self._d.ellipse(self._box(xy), *a, **k)
+    def chord(self, xy, *a, **k):
+        return self._d.chord(self._box(xy), *a, **k)
+    def pieslice(self, xy, *a, **k):
+        return self._d.pieslice(self._box(xy), *a, **k)
+    def arc(self, xy, *a, **k):
+        return self._d.arc(self._box(xy), *a, **k)
+    def __getattr__(self, n):
+        return getattr(self._d, n)
+
+
 def draw_figure(layer, x, y, s, p, expr="neutral", mouth=0.0, blink=0.0, look=None, facing=1, alpha=255):
     """Draw onto RGBA `layer` (already supersampled). (x, y) = hip position in px, s = head radius in px."""
     look = look or Look()
-    d = ImageDraw.Draw(layer)
+    d = _SafeDraw(ImageDraw.Draw(layer))
     lw = max(2, int(s * 0.30))
     col = look.body + (alpha,)
     ink = INK + (alpha,)
