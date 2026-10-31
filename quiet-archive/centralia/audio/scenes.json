@@ -1,0 +1,1245 @@
+[
+ {
+  "id": "s01",
+  "bg": "centralia/bg/road.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "There is a town in Pennsylvania where the ground is hot.",
+    "start": 0.3,
+    "end": 3.691,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.08,0,0"
+     ],
+     [
+      "a",
+      "lean_in/suspicious"
+     ],
+     [
+      "t",
+      "STILL BURNING"
+     ]
+    ]
+   },
+   {
+    "text": "Where smoke comes out of cracks in the road.",
+    "start": 3.911,
+    "end": 6.062,
+    "tags": []
+   },
+   {
+    "text": "Where the streets are still there, but almost all the houses are gone.",
+    "start": 6.282,
+    "end": 10.023,
+    "tags": []
+   },
+   {
+    "text": "Underneath it, a fire has been burning since nineteen sixty two.",
+    "start": 10.523,
+    "end": 14.45,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ],
+     [
+      "s",
+      "sting"
+     ]
+    ]
+   },
+   {
+    "text": "It's still burning right now.",
+    "start": 14.95,
+    "end": 16.586,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "While you watch this.",
+    "start": 16.806,
+    "end": 17.915,
+    "tags": []
+   },
+   {
+    "text": "It might still be burning when your grandkids watch this.",
+    "start": 18.135,
+    "end": 21.074,
+    "tags": []
+   }
+  ],
+  "duration": 22.174
+ },
+ {
+  "id": "s02",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Hi, I'm Archie, this is The Quiet Archive, and today's file is Centralia.",
+    "start": 0.3,
+    "end": 5.047,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ]
+    ]
+   },
+   {
+    "text": "The real town that helped inspire the Silent Hill movie.",
+    "start": 5.267,
+    "end": 8.49,
+    "tags": []
+   },
+   {
+    "text": "A town that lost its people, its houses, and eventually even its ZIP code.",
+    "start": 8.99,
+    "end": 14.334,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ],
+     [
+      "z",
+      ""
+     ]
+    ]
+   },
+   {
+    "text": "Because of one fire that nobody could put out.",
+    "start": 14.554,
+    "end": 17.128,
+    "tags": []
+   },
+   {
+    "text": "Let's find out how it started, why it never stopped, and what's left there today.",
+    "start": 17.628,
+    "end": 22.271,
+    "tags": [
+     [
+      "a",
+      "hands_hips/neutral"
+     ]
+    ]
+   }
+  ],
+  "duration": 23.371
+ },
+ {
+  "id": "s03",
+  "bg": "centralia/bg/town.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "First, Centralia before the fire.",
+    "start": 0.3,
+    "end": 2.434,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "m1=sailor@0.35,0.88,0.05"
+     ],
+     [
+      "c",
+      "m1 wave/smug"
+     ],
+     [
+      "c",
+      "m2=woman@0.6,0.88,0.05"
+     ],
+     [
+      "c",
+      "m2 talk/neutral"
+     ],
+     [
+      "t",
+      "COAL TOWN"
+     ]
+    ]
+   },
+   {
+    "text": "It was a small coal mining town in eastern Pennsylvania, with churches, shops, bars, and around a thousand people by the late nineteen seventies.",
+    "start": 2.654,
+    "end": 12.747,
+    "tags": []
+   },
+   {
+    "text": "And under the town was coal.",
+    "start": 13.247,
+    "end": 14.779,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Lots of it.",
+    "start": 14.999,
+    "end": 15.777,
+    "tags": []
+   },
+   {
+    "text": "Miners had dug tunnels through it for about a hundred years.",
+    "start": 15.997,
+    "end": 19.258,
+    "tags": []
+   },
+   {
+    "text": "By the nineteen sixties, many of those mines were abandoned.",
+    "start": 19.759,
+    "end": 23.507,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Which left a giant network of empty tunnels, full of coal, running right under people's homes.",
+    "start": 23.727,
+    "end": 29.831,
+    "tags": []
+   },
+   {
+    "text": "You can probably see where this is going.",
+    "start": 30.331,
+    "end": 32.524,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "The town couldn't.",
+    "start": 32.744,
+    "end": 33.821,
+    "tags": []
+   }
+  ],
+  "duration": 34.921
+ },
+ {
+  "id": "s04",
+  "bg": "centralia/bg/pit.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "In May nineteen sixty two, the town needed to clean up its landfill before Memorial Day.",
+    "start": 0.3,
+    "end": 5.907,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "ff=official@0.4,0.86,0.05"
+     ],
+     [
+      "c",
+      "ff point_r/smug"
+     ],
+     [
+      "t",
+      "MAY 1962"
+     ]
+    ]
+   },
+   {
+    "text": "The landfill was an old strip mining pit at the edge of town.",
+    "start": 6.127,
+    "end": 9.811,
+    "tags": []
+   },
+   {
+    "text": "The most common account says volunteer firefighters set the trash on fire to burn it down, then put it out.",
+    "start": 10.311,
+    "end": 17.201,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Or thought they did.",
+    "start": 17.701,
+    "end": 18.875,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "The fire found a hole in the pit wall, and crept into the old coal mine tunnels underneath.",
+    "start": 19.375,
+    "end": 25.037,
+    "tags": [
+     [
+      "c",
+      "ff shrug/shocked"
+     ],
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Spring cleaning.",
+    "start": 25.537,
+    "end": 26.603,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ],
+     [
+      "s",
+      "boing"
+     ]
+    ]
+   },
+   {
+    "text": "Highly not recommended with a coal mine in the basement.",
+    "start": 26.823,
+    "end": 30.308,
+    "tags": []
+   }
+  ],
+  "duration": 31.408
+ },
+ {
+  "id": "s05",
+  "bg": "centralia/bg/mine.png#fit",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Now, here's why a coal mine fire is a nightmare.",
+    "start": 0.3,
+    "end": 3.056,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ],
+     [
+      "t",
+      "A FIRE UNDERGROUND"
+     ]
+    ]
+   },
+   {
+    "text": "It is not like a house fire.",
+    "start": 3.276,
+    "end": 4.97,
+    "tags": []
+   },
+   {
+    "text": "Underground, the fire can creep slowly along the coal seams for miles.",
+    "start": 5.47,
+    "end": 9.856,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "It doesn't need much air.",
+    "start": 10.076,
+    "end": 11.426,
+    "tags": []
+   },
+   {
+    "text": "It finds it through cracks, old shafts and holes.",
+    "start": 11.646,
+    "end": 14.577,
+    "tags": []
+   },
+   {
+    "text": "Officials tried to dig it out.",
+    "start": 15.077,
+    "end": 16.755,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "They tried to flood it.",
+    "start": 16.975,
+    "end": 18.118,
+    "tags": []
+   },
+   {
+    "text": "They tried to fill the tunnels.",
+    "start": 18.338,
+    "end": 19.891,
+    "tags": []
+   },
+   {
+    "text": "Every attempt was too small, too slow, or ran out of money.",
+    "start": 20.111,
+    "end": 23.86,
+    "tags": []
+   },
+   {
+    "text": "Fighting an underground coal fire with a few trucks of dirt is like trying to stop a forest fire by politely asking it to leave.",
+    "start": 24.36,
+    "end": 32.921,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   }
+  ],
+  "duration": 34.021
+ },
+ {
+  "id": "s06",
+  "bg": "centralia/bg/gas.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "For years, life mostly went on.",
+    "start": 0.3,
+    "end": 2.321,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "my=beard@0.4,0.88,0.05"
+     ],
+     [
+      "c",
+      "my scared/shocked"
+     ],
+     [
+      "t",
+      "172\u00b0F"
+     ]
+    ]
+   },
+   {
+    "text": "Then, in nineteen seventy nine, the mayor, who owned a gas station, checked the fuel in his underground tank.",
+    "start": 2.541,
+    "end": 9.407,
+    "tags": []
+   },
+   {
+    "text": "It was a hundred and seventy two degrees Fahrenheit.",
+    "start": 9.907,
+    "end": 12.865,
+    "tags": [
+     [
+      "a",
+      "lean_in/shocked"
+     ]
+    ]
+   },
+   {
+    "text": "That's about seventy eight Celsius.",
+    "start": 13.085,
+    "end": 14.958,
+    "tags": []
+   },
+   {
+    "text": "Gasoline.",
+    "start": 15.178,
+    "end": 16.006,
+    "tags": []
+   },
+   {
+    "text": "Underground.",
+    "start": 16.226,
+    "end": 17.125,
+    "tags": []
+   },
+   {
+    "text": "Nearly cooking.",
+    "start": 17.345,
+    "end": 18.336,
+    "tags": []
+   },
+   {
+    "text": "That's not a gas station anymore.",
+    "start": 18.836,
+    "end": 20.734,
+    "tags": [
+     [
+      "a",
+      "facepalm/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "That's a very expensive slow cooker.",
+    "start": 20.954,
+    "end": 23.022,
+    "tags": []
+   }
+  ],
+  "duration": 24.122
+ },
+ {
+  "id": "s07",
+  "bg": "centralia/bg/yard.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Then came the moment that made the whole country pay attention.",
+    "start": 0.3,
+    "end": 3.706,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "kid=sailor@0.45,0.88,0.04"
+     ],
+     [
+      "c",
+      "kid scared/scared"
+     ],
+     [
+      "t",
+      "1981"
+     ]
+    ]
+   },
+   {
+    "text": "In nineteen eighty one, a twelve year old boy named Todd Domboski was in his grandmother's backyard when the ground opened under his feet.",
+    "start": 4.206,
+    "end": 13.235,
+    "tags": [
+     [
+      "a",
+      "talk/sad"
+     ]
+    ]
+   },
+   {
+    "text": "He fell into a hole about a hundred and fifty feet deep, full of hot, poisonous steam, and managed to grab onto tree roots.",
+    "start": 13.735,
+    "end": 21.919,
+    "tags": [
+     [
+      "a",
+      "lean_in/scared"
+     ]
+    ]
+   },
+   {
+    "text": "His cousin pulled him out.",
+    "start": 22.419,
+    "end": 23.812,
+    "tags": [
+     [
+      "c",
+      "c2=keeper@0.6,0.88,0.05"
+     ],
+     [
+      "c",
+      "c2 point_l/shocked"
+     ],
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "He survived.",
+    "start": 24.032,
+    "end": 24.978,
+    "tags": []
+   },
+   {
+    "text": "When they tested the steam coming out of that hole, it had a deadly level of carbon monoxide.",
+    "start": 25.478,
+    "end": 31.113,
+    "tags": [
+     [
+      "a",
+      "talk/sad"
+     ]
+    ]
+   },
+   {
+    "text": "And that's not even the scariest part.",
+    "start": 31.333,
+    "end": 33.129,
+    "tags": []
+   },
+   {
+    "text": "It was a normal backyard, in a normal neighbourhood, on a normal day.",
+    "start": 33.349,
+    "end": 37.394,
+    "tags": []
+   }
+  ],
+  "duration": 38.494
+ },
+ {
+  "id": "s08",
+  "bg": "centralia/bg/news.png#fit",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "After that, the government finally acted.",
+    "start": 0.3,
+    "end": 2.634,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ],
+     [
+      "t",
+      "$42 MILLION"
+     ]
+    ]
+   },
+   {
+    "text": "Not to put out the fire.",
+    "start": 2.854,
+    "end": 4.31,
+    "tags": []
+   },
+   {
+    "text": "To move the people.",
+    "start": 4.53,
+    "end": 5.629,
+    "tags": []
+   },
+   {
+    "text": "In nineteen eighty three, Congress set aside more than forty two million dollars to buy the homes in Centralia and relocate the residents.",
+    "start": 6.129,
+    "end": 15.355,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Most people took the deal.",
+    "start": 15.855,
+    "end": 17.386,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "More than a thousand people left.",
+    "start": 17.606,
+    "end": 19.535,
+    "tags": []
+   },
+   {
+    "text": "Around five hundred buildings were torn down.",
+    "start": 19.755,
+    "end": 22.313,
+    "tags": []
+   },
+   {
+    "text": "Imagine your entire hometown being sold, house by house, until there's nothing left but sidewalks.",
+    "start": 22.813,
+    "end": 29.492,
+    "tags": [
+     [
+      "a",
+      "shrug/sad"
+     ]
+    ]
+   }
+  ],
+  "duration": 30.593
+ },
+ {
+  "id": "s09",
+  "bg": "centralia/bg/field.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "But some people refused to leave.",
+    "start": 0.3,
+    "end": 2.234,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "hold=woman@0.55,0.88,0.05"
+     ],
+     [
+      "c",
+      "hold hands_hips/angry"
+     ],
+     [
+      "t",
+      "SOME STAYED"
+     ]
+    ]
+   },
+   {
+    "text": "In nineteen ninety two, the state used eminent domain to claim every property in the town.",
+    "start": 2.734,
+    "end": 8.285,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The holdouts fought it in court, and lost.",
+    "start": 8.505,
+    "end": 10.83,
+    "tags": []
+   },
+   {
+    "text": "Then, in two thousand two, the Postal Service took away Centralia's ZIP code.",
+    "start": 11.33,
+    "end": 16.914,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "One seven nine two seven.",
+    "start": 17.134,
+    "end": 18.767,
+    "tags": []
+   },
+   {
+    "text": "Gone.",
+    "start": 18.987,
+    "end": 19.56,
+    "tags": []
+   },
+   {
+    "text": "You know a town is in trouble when even the mail stops believing in it.",
+    "start": 20.06,
+    "end": 24.157,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ],
+     [
+      "s",
+      "crickets"
+     ]
+    ]
+   },
+   {
+    "text": "In two thousand thirteen, the last residents reached a settlement.",
+    "start": 24.657,
+    "end": 28.52,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "They could stay in their homes for the rest of their lives.",
+    "start": 28.74,
+    "end": 31.538,
+    "tags": []
+   },
+   {
+    "text": "After that, the state takes the land.",
+    "start": 31.758,
+    "end": 33.748,
+    "tags": []
+   },
+   {
+    "text": "By the twenty twenty census, five people lived there.",
+    "start": 33.968,
+    "end": 37.096,
+    "tags": []
+   }
+  ],
+  "duration": 38.196
+ },
+ {
+  "id": "s10",
+  "bg": "centralia/bg/road.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "And then there's the road.",
+    "start": 0.3,
+    "end": 1.574,
+    "tags": [
+     [
+      "cam",
+      "0.45,0.55,1.0,1.08,0,0"
+     ],
+     [
+      "a",
+      "point_l/smug"
+     ],
+     [
+      "t",
+      "GRAFFITI HIGHWAY"
+     ]
+    ]
+   },
+   {
+    "text": "A stretch of Route sixty one cracked and buckled from the heat underneath, so the state rerouted traffic around it.",
+    "start": 1.794,
+    "end": 8.654,
+    "tags": []
+   },
+   {
+    "text": "Visitors started covering the abandoned road in spray paint.",
+    "start": 9.154,
+    "end": 12.798,
+    "tags": [
+     [
+      "a",
+      "talk/smug"
+     ]
+    ]
+   },
+   {
+    "text": "Years of it.",
+    "start": 13.018,
+    "end": 13.796,
+    "tags": []
+   },
+   {
+    "text": "It became an internet famous spot called the Graffiti Highway.",
+    "start": 14.016,
+    "end": 17.831,
+    "tags": []
+   },
+   {
+    "text": "Until twenty twenty, when the owners buried the whole thing under piles of dirt.",
+    "start": 18.331,
+    "end": 23.229,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Possibly the only time in history that art was cancelled with a bulldozer.",
+    "start": 23.449,
+    "end": 28.13,
+    "tags": []
+   }
+  ],
+  "duration": 29.23
+ },
+ {
+  "id": "s11",
+  "bg": "centralia/bg/smoke.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "So is the fire still burning?",
+    "start": 0.3,
+    "end": 1.914,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "a",
+      "idle/neutral"
+     ],
+     [
+      "t",
+      "250 MORE YEARS?"
+     ]
+    ]
+   },
+   {
+    "text": "Yes.",
+    "start": 2.134,
+    "end": 2.719,
+    "tags": []
+   },
+   {
+    "text": "It has spread under hundreds of acres.",
+    "start": 3.219,
+    "end": 5.283,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A two thousand six report estimated it could keep burning for another two hundred and fifty years.",
+    "start": 5.503,
+    "end": 11.385,
+    "tags": []
+   },
+   {
+    "text": "Today, Centralia mostly looks like a quiet field with streets running through it.",
+    "start": 11.885,
+    "end": 16.52,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A few houses.",
+    "start": 16.74,
+    "end": 17.744,
+    "tags": []
+   },
+   {
+    "text": "A church on the hill.",
+    "start": 17.964,
+    "end": 19.191,
+    "tags": []
+   },
+   {
+    "text": "Warning signs about unstable ground and dangerous gases.",
+    "start": 19.411,
+    "end": 23.549,
+    "tags": []
+   },
+   {
+    "text": "In some places, especially in cold weather, you can still see steam coming out of the ground.",
+    "start": 24.049,
+    "end": 29.795,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   }
+  ],
+  "duration": 30.895
+ },
+ {
+  "id": "s12",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Now, the Silent Hill connection.",
+    "start": 0.3,
+    "end": 2.017,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ],
+     [
+      "t",
+      "SILENT HILL?"
+     ]
+    ]
+   },
+   {
+    "text": "Is the game set in Centralia?",
+    "start": 2.237,
+    "end": 4.04,
+    "tags": []
+   },
+   {
+    "text": "No.",
+    "start": 4.54,
+    "end": 5.049,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The original games were not based on any real town.",
+    "start": 5.269,
+    "end": 8.614,
+    "tags": []
+   },
+   {
+    "text": "But the screenwriter of the two thousand six Silent Hill movie researched Centralia while writing it.",
+    "start": 8.834,
+    "end": 14.967,
+    "tags": []
+   },
+   {
+    "text": "A town with fog, ash, and fire under the streets.",
+    "start": 15.187,
+    "end": 18.297,
+    "tags": []
+   },
+   {
+    "text": "It fit perfectly.",
+    "start": 18.517,
+    "end": 19.68,
+    "tags": []
+   },
+   {
+    "text": "So the real place is not cursed.",
+    "start": 20.18,
+    "end": 22.106,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "It's just on fire.",
+    "start": 22.326,
+    "end": 23.631,
+    "tags": []
+   },
+   {
+    "text": "Which, honestly, is worse for property values.",
+    "start": 23.851,
+    "end": 26.821,
+    "tags": []
+   }
+  ],
+  "duration": 27.921
+ },
+ {
+  "id": "s13",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So here's the honest version.",
+    "start": 0.3,
+    "end": 2.025,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ],
+     [
+      "t",
+      "DOCUMENTED vs LEGEND"
+     ]
+    ]
+   },
+   {
+    "text": "Documented.",
+    "start": 2.525,
+    "end": 3.463,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A fire started in the town's coal mines around nineteen sixty two.",
+    "start": 3.683,
+    "end": 7.973,
+    "tags": []
+   },
+   {
+    "text": "Efforts to stop it failed.",
+    "start": 8.193,
+    "end": 9.696,
+    "tags": []
+   },
+   {
+    "text": "After a boy nearly died in a sinkhole in nineteen eighty one, the government paid to relocate the town.",
+    "start": 9.916,
+    "end": 16.581,
+    "tags": []
+   },
+   {
+    "text": "Its ZIP code was revoked in two thousand two.",
+    "start": 16.801,
+    "end": 20.026,
+    "tags": []
+   },
+   {
+    "text": "The fire still burns.",
+    "start": 20.246,
+    "end": 21.631,
+    "tags": []
+   },
+   {
+    "text": "Disputed.",
+    "start": 22.131,
+    "end": 22.989,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Exactly how it started.",
+    "start": 23.209,
+    "end": 24.698,
+    "tags": []
+   },
+   {
+    "text": "The landfill burn is the most common account, but there are other theories, including hot ash dumped in the pit, or an older mine fire.",
+    "start": 24.918,
+    "end": 33.757,
+    "tags": []
+   },
+   {
+    "text": "Legend.",
+    "start": 34.257,
+    "end": 34.987,
+    "tags": [
+     [
+      "a",
+      "lean_in/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "That Centralia is a cursed ghost town, or that the Silent Hill games were based on it.",
+    "start": 35.207,
+    "end": 40.52,
+    "tags": []
+   }
+  ],
+  "duration": 41.62
+ },
+ {
+  "id": "s14",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So, your turn.",
+    "start": 0.3,
+    "end": 1.286,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "If the government offered to buy your house because of a fire under your street, would you leave?",
+    "start": 1.506,
+    "end": 7.049,
+    "tags": []
+   },
+   {
+    "text": "Or would you be one of the people who stayed?",
+    "start": 7.269,
+    "end": 9.5,
+    "tags": []
+   },
+   {
+    "text": "Tell me in the comments.",
+    "start": 10.0,
+    "end": 11.244,
+    "tags": [
+     [
+      "a",
+      "point_r/smug"
+     ]
+    ]
+   },
+   {
+    "text": "I'd leave.",
+    "start": 11.464,
+    "end": 12.253,
+    "tags": []
+   },
+   {
+    "text": "I'm made of paper.",
+    "start": 12.473,
+    "end": 13.608,
+    "tags": []
+   },
+   {
+    "text": "This is not my kind of town.",
+    "start": 13.828,
+    "end": 15.644,
+    "tags": []
+   },
+   {
+    "text": "If you like true stories that history never quite finished, subscribe.",
+    "start": 16.143,
+    "end": 20.222,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ],
+     [
+      "s",
+      "ding"
+     ]
+    ]
+   },
+   {
+    "text": "I'm Archie, this is The Quiet Archive, and I'll see you in the next file.",
+    "start": 20.442,
+    "end": 24.824,
+    "tags": []
+   }
+  ],
+  "duration": 25.924
+ }
+]
