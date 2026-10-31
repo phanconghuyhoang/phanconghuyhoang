@@ -39,3 +39,7 @@
 
 ## 2026-10-31
 - zzNc14XiLuI — "The Franklin Expedition: 129 Men Vanished in the Arctic Ice" (Archie deep-dive, 15:35) — 2026-10-31 23:00 (Sat 12:00 EDT); A/B title+thumb: fr_a reaction / fr_b cinematic (graves) / fr_c evidence; AI=Có; captions uploaded in dialog
+- z0vo0EDeJaQ — "Amelia Earhart: What Her Last Radio Calls Really Tell Us" (Archie, 8:19) — 2026-11-03 03:00; A/B ea_a reaction / ea_b cinematic / ea_c question; captions in dialog
+- v6k7tVI7jK0 — Short "She Was Right Next to the Island and Never Saw It" — 2026-11-03 06:00 (desc links Earhart long)
+- VRCxsDMjzwU — Short "The Earhart Photo Taken 2 Years Too Early" — 2026-11-03 09:00
+- QshpO_-bUFc — "Oak Island: 200 Years of Digging and Still No Treasure" (Archie, 7:10) — 2026-11-04 03:00; A/B oak_a reaction / oak_b cinematic / oak_c evidence

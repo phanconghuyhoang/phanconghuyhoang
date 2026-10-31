@@ -1,6 +1,6 @@
 # Daily production run — The Quiet Archive
 
-Goal of each run: keep the schedule filled at least 2 days ahead with **1 long-form + 2 Shorts per day**, all in the
+Goal of each run: keep the schedule filled at least 2 days ahead with **2 long-form + 2 Shorts per day**, all in the
 Archie (v3) style, and review analytics. Owner gave full authority (2026-10-29) except: never handle passwords/OTP/ID
 verification, never publish immediately (schedule only), never delete videos (owner deletes), never change residence
 country without asking.
@@ -12,14 +12,23 @@ cd /home/claude/phanconghuyhoang/quiet-archive && ./setup.sh
 ```
 Commit as `Claude <noreply@anthropic.com>`; end messages with the attribution lines the session gives.
 
-## 1. What is already scheduled
-Read `published.md` (log of every upload and slot). Fixed slots (YouTube Studio is GMT+7):
-- Long-form 15:00 ET → **03:00 VN** (EST, from 2 Nov 2026; until 8 Mar 2027). Shorts 18:00/21:00 ET → **06:00 / 09:00 VN**.
-- Saturdays (owner-approved 2026-10-29): one EXTRA long-form deep-dive, 18–25 min, a NEW standalone story (never a
-  compilation), at 12:00 ET Saturday = 00:00 VN Sunday (EST; 23:00 VN Saturday during EDT). First one: Sat 31 Oct 12:00 EDT = Sun 1 Nov 00:00? No — 31 Oct is EDT → 23:00 VN Sat 31 Oct; from 7 Nov use 00:00 VN Sunday.
-- Review ~15 Nov 2026: if CTR and retention are stable, add a second daily long-form at 09:00 ET (21:00 VN), on winning topics.
-- From 8 Mar 2027 (EDT) shift all to 02:00 / 05:00 / 08:00 VN.
-Find the first VN date whose 3 slots are not all filled; produce for that date (and the next if time allows).
+## 1. FIRST: check what is already scheduled (owner rule 2026-10-31 — never produce for slots that are full)
+Open Studio > Nội dung (Video tab AND Shorts tab), read every "Đã lên lịch" row (date + time on the row's hover/edit),
+and reconcile with `published.md`. Build the slot table below for the next 4 days and produce ONLY for the first
+empty slots. If everything is filled ≥2 days ahead, do analytics + improvements instead of new videos.
+
+Daily slots (owner rule 2026-10-31: **2 long-form + 2 Shorts per day, fixed times**). Studio is GMT+7:
+| Slot | ET | VN (EST, 2 Nov 2026 – 8 Mar 2027) | VN (EDT, from 8 Mar 2027) |
+|---|---|---|---|
+| Long A | 15:00 | 03:00 | 02:00 |
+| Long B | 09:00 | 21:00 (same date) | 20:00 |
+| Short 1 | 18:00 | 06:00 | 05:00 |
+| Short 2 | 21:00 | 09:00 | 08:00 |
+Why these (research 2026-10-31, SocialPilot 301K videos + OpusClip Shorts data): US long-form performs best
+weekday 2–4 PM and weekend 8–10 AM local → Long A 3 PM ET, Long B 9 AM ET. Shorts peak in the evening (6–9 PM ET)
+→ 18:00 / 21:00 ET. Small channels (<1K subs) gain most from consistency, so the times stay fixed. After ~28 days,
+re-check Studio > Đối tượng > "Khi người xem của bạn có mặt trên YouTube" and shift if the heatmap disagrees.
+Saturday extra deep-dive is replaced by Long B (each day has 2 long-forms now).
 
 ## 2. Analytics (every run, before producing)
 Studio > Analytics (built-in browser). For each public video ≥24 h old fill `analytics.md` (views, impressions, CTR,
@@ -47,7 +56,13 @@ for current trends (anniversaries, news like wreck discoveries).
 - SFX: whoosh pop boing thud ding sting tick scratch crickets.
 - Backdrops: reuse `mc/bg/*.png`, `ep01/frames`, `ep02/frames`, or add new ones to `pipeline/backdrops.py` (flat cartoon,
   2560x1440, clear floor line). New topic → usually 4–8 new backdrops.
-- Shorts 35–55 s, vertical, standalone mini-story, hook text in first second, end with "Follow for…".
+- Shorts 35–55 s, vertical, standalone mini-story, hook text in first second. END with a bridge to the long-form
+  ("The full story is on the channel — link above"), not just "Follow". Description first line:
+  "Watch the full story: <long title> <youtu.be link>". When the long-form is public, set "Video có liên quan"
+  (edit page, `#linked-video-editor-link`, pick the card, Save). Check this every run for Shorts whose long went public.
+- Trends (owner 2026-10-31): every script gets 1–2 hooks to what is trending now (news, a game/film/meme, an
+  anniversary) — search before writing; put one in the cold open. Comedy: punchline every 2–3 lines in the first
+  60 s, an open loop ("…and that's not even the weird part") every 1–2 minutes to hold retention.
 
 ## 5. Produce
 ```
