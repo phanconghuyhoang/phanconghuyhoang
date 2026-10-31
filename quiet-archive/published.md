@@ -36,3 +36,6 @@
 - WAITING FOR UPLOAD (computer offline): franklin/ deep-dive (15:35) → Sat 31 Oct 12:00 EDT = 2026-10-31 23:00 VN; A/B: fr_a reaction / fr_b cinematic / fr_c evidence with titles in franklin/titles_ab.txt
 - WAITING FOR UPLOAD: earhart/ → 11-03 03:00 (A/B ea_a/ea_b/ea_c + titles_ab.txt); v3s/smoke → 11-03 06:00; v3s/photo → 11-03 09:00
 - WAITING FOR UPLOAD: oak/ → 11-04 03:00 (A/B oak_a/oak_b/oak_c + titles_ab.txt); v3s/fdr → 11-04 06:00; v3s/stone → 11-04 09:00
+
+## 2026-10-31
+- zzNc14XiLuI — "The Franklin Expedition: 129 Men Vanished in the Arctic Ice" (Archie deep-dive, 15:35) — 2026-10-31 23:00 (Sat 12:00 EDT); A/B title+thumb: fr_a reaction / fr_b cinematic (graves) / fr_c evidence; AI=Có; captions uploaded in dialog
