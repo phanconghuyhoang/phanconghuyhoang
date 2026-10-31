@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+**/v3_part*.mp4
+**/v3_nosound.mp4
+**/v3_parts.txt
+**/audio/*.wav
+**/ambient.wav
+**/sfx.wav

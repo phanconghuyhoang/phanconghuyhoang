@@ -1,0 +1,1694 @@
+[
+ {
+  "id": "s01",
+  "bg": "plague/bg/street.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "July fourteenth, fifteen eighteen.",
+    "start": 0.3,
+    "end": 2.56,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.08,0,0"
+     ],
+     [
+      "c",
+      "ft=woman@0.45,0.88,0.05"
+     ],
+     [
+      "c",
+      "ft jump/laugh"
+     ],
+     [
+      "t",
+      "JULY 14, 1518"
+     ]
+    ]
+   },
+   {
+    "text": "Strasbourg.",
+    "start": 2.78,
+    "end": 3.674,
+    "tags": []
+   },
+   {
+    "text": "A woman steps into a narrow street, and starts to dance.",
+    "start": 3.894,
+    "end": 7.116,
+    "tags": []
+   },
+   {
+    "text": "There is no music.",
+    "start": 7.616,
+    "end": 8.855,
+    "tags": [
+     [
+      "a",
+      "point_l/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "There is no party.",
+    "start": 9.075,
+    "end": 10.267,
+    "tags": []
+   },
+   {
+    "text": "There is no reason.",
+    "start": 10.487,
+    "end": 11.679,
+    "tags": []
+   },
+   {
+    "text": "She does not stop for days.",
+    "start": 12.179,
+    "end": 13.898,
+    "tags": [
+     [
+      "c",
+      "ft arms_wide/laugh"
+     ],
+     [
+      "a",
+      "lean_in/shocked"
+     ],
+     [
+      "s",
+      "sting"
+     ]
+    ]
+   },
+   {
+    "text": "And then her neighbours start dancing too.",
+    "start": 14.118,
+    "end": 16.116,
+    "tags": []
+   },
+   {
+    "text": "If you are still recovering from a Halloween party last night, relax.",
+    "start": 16.616,
+    "end": 20.896,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Whatever you did, it was not this.",
+    "start": 21.116,
+    "end": 23.103,
+    "tags": []
+   }
+  ],
+  "duration": 24.203
+ },
+ {
+  "id": "s02",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Hi, I'm Archie, this is The Quiet Archive, and today's file is the strangest dance floor in history.",
+    "start": 0.3,
+    "end": 7.017,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ]
+    ]
+   },
+   {
+    "text": "The Dancing Plague of fifteen eighteen.",
+    "start": 7.237,
+    "end": 9.393,
+    "tags": []
+   },
+   {
+    "text": "Hundreds of people.",
+    "start": 9.893,
+    "end": 11.082,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ],
+     [
+      "z",
+      ""
+     ]
+    ]
+   },
+   {
+    "text": "A whole city council trying to fix it.",
+    "start": 11.302,
+    "end": 13.434,
+    "tags": []
+   },
+   {
+    "text": "And a cure so bad it might have made everything worse.",
+    "start": 13.654,
+    "end": 16.653,
+    "tags": []
+   },
+   {
+    "text": "So let's read the chronicles, see what actually happened, and find out why a city full of people could not stop moving.",
+    "start": 17.153,
+    "end": 24.234,
+    "tags": [
+     [
+      "a",
+      "hands_hips/neutral"
+     ]
+    ]
+   }
+  ],
+  "duration": 25.334
+ },
+ {
+  "id": "s03",
+  "bg": "plague/bg/famine.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "First, you need to know what life in Strasbourg felt like right before this.",
+    "start": 0.3,
+    "end": 4.73,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "fa=beard@0.35,0.88,0.05"
+     ],
+     [
+      "c",
+      "fa think/sad"
+     ],
+     [
+      "t",
+      "A VERY BAD DECADE"
+     ]
+    ]
+   },
+   {
+    "text": "The harvests had failed.",
+    "start": 5.23,
+    "end": 6.654,
+    "tags": [
+     [
+      "a",
+      "talk/sad"
+     ]
+    ]
+   },
+   {
+    "text": "Bread prices shot up.",
+    "start": 6.874,
+    "end": 8.263,
+    "tags": []
+   },
+   {
+    "text": "Hail storms wrecked the crops.",
+    "start": 8.483,
+    "end": 10.201,
+    "tags": []
+   },
+   {
+    "text": "People were genuinely starving.",
+    "start": 10.421,
+    "end": 12.109,
+    "tags": []
+   },
+   {
+    "text": "On top of that came disease.",
+    "start": 12.609,
+    "end": 14.412,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Smallpox, leprosy, and a terrifying new illness called syphilis.",
+    "start": 14.632,
+    "end": 18.999,
+    "tags": []
+   },
+   {
+    "text": "If the early fifteen hundreds had a group chat, every message would just be the skull emoji.",
+    "start": 19.499,
+    "end": 25.126,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Keep that in mind.",
+    "start": 25.626,
+    "end": 26.783,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Because it is going to matter a lot later.",
+    "start": 27.003,
+    "end": 29.242,
+    "tags": []
+   }
+  ],
+  "duration": 30.343
+ },
+ {
+  "id": "s04",
+  "bg": "plague/bg/street.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Most chronicles give our first dancer a name.",
+    "start": 0.3,
+    "end": 2.807,
+    "tags": [
+     [
+      "cam",
+      "0.4,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "ft=woman@0.4,0.88,0.05"
+     ],
+     [
+      "c",
+      "ft jump/laugh"
+     ],
+     [
+      "c",
+      "hb=beard@0.65,0.88,0.05"
+     ],
+     [
+      "c",
+      "hb facepalm/sad"
+     ],
+     [
+      "t",
+      "PATIENT ZERO"
+     ]
+    ]
+   },
+   {
+    "text": "Frau Troffea.",
+    "start": 3.027,
+    "end": 4.071,
+    "tags": []
+   },
+   {
+    "text": "Mrs Troffea.",
+    "start": 4.291,
+    "end": 5.408,
+    "tags": []
+   },
+   {
+    "text": "She danced in the street outside her home, alone, while her husband begged her to stop.",
+    "start": 5.908,
+    "end": 10.673,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "She kept going for days.",
+    "start": 11.173,
+    "end": 12.738,
+    "tags": [
+     [
+      "c",
+      "hb shrug/shocked"
+     ],
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Four to six, according to one account.",
+    "start": 12.958,
+    "end": 15.277,
+    "tags": []
+   },
+   {
+    "text": "Some say a full week, only stopping to collapse and sleep.",
+    "start": 15.497,
+    "end": 19.248,
+    "tags": []
+   },
+   {
+    "text": "Eventually the authorities put her on a wagon and sent her about thirty miles away, to a shrine of Saint Vitus in a town called Saverne.",
+    "start": 19.748,
+    "end": 28.664,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The original patient zero.",
+    "start": 29.164,
+    "end": 30.825,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ],
+     [
+      "s",
+      "boing"
+     ]
+    ]
+   },
+   {
+    "text": "And no, not the Taylor Swift song.",
+    "start": 31.045,
+    "end": 32.962,
+    "tags": []
+   }
+  ],
+  "duration": 34.062
+ },
+ {
+  "id": "s05",
+  "bg": "plague/bg/square_crowd.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "But Frau Troffea leaving did not end it.",
+    "start": 0.3,
+    "end": 2.712,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.6,1.0,1.08,0,0"
+     ],
+     [
+      "c",
+      "d1=woman@0.3,0.88,0.05"
+     ],
+     [
+      "c",
+      "d1 jump/laugh"
+     ],
+     [
+      "c",
+      "d2=sailor@0.55,0.88,0.05"
+     ],
+     [
+      "c",
+      "d2 arms_wide/shocked"
+     ],
+     [
+      "c",
+      "d3=beard@0.75,0.88,0.05"
+     ],
+     [
+      "c",
+      "d3 jump/scared"
+     ],
+     [
+      "t",
+      "30 DANCERS"
+     ]
+    ]
+   },
+   {
+    "text": "Within days, more than thirty people were dancing in the streets.",
+    "start": 2.932,
+    "end": 6.568,
+    "tags": []
+   },
+   {
+    "text": "By August, one family chronicle says around four hundred.",
+    "start": 7.068,
+    "end": 10.704,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ]
+    ]
+   },
+   {
+    "text": "Historians argue about the numbers.",
+    "start": 11.204,
+    "end": 13.381,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Estimates run from about fifty to four hundred.",
+    "start": 13.601,
+    "end": 16.282,
+    "tags": []
+   },
+   {
+    "text": "But everyone agrees on the basic picture.",
+    "start": 16.502,
+    "end": 18.955,
+    "tags": []
+   },
+   {
+    "text": "These people did not look like they were having fun.",
+    "start": 19.455,
+    "end": 22.262,
+    "tags": [
+     [
+      "a",
+      "lean_in/sad"
+     ]
+    ]
+   },
+   {
+    "text": "Witnesses described blank faces, thrashing arms, swollen and bleeding feet.",
+    "start": 22.482,
+    "end": 27.515,
+    "tags": []
+   },
+   {
+    "text": "They danced until they dropped, and then got up and danced again.",
+    "start": 27.735,
+    "end": 31.309,
+    "tags": []
+   },
+   {
+    "text": "This was not a party.",
+    "start": 31.809,
+    "end": 33.23,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "And the people of Strasbourg knew it.",
+    "start": 33.45,
+    "end": 35.121,
+    "tags": []
+   },
+   {
+    "text": "Which brings us to the city council.",
+    "start": 35.341,
+    "end": 37.251,
+    "tags": []
+   }
+  ],
+  "duration": 38.351
+ },
+ {
+  "id": "s06",
+  "bg": "plague/bg/guildhall.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "The council asked the doctors.",
+    "start": 0.3,
+    "end": 2.03,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.05,0,0"
+     ],
+     [
+      "c",
+      "co=official@0.35,0.86,0.05"
+     ],
+     [
+      "c",
+      "co point_r/smug"
+     ],
+     [
+      "c",
+      "dr=writer@0.6,0.86,0.05"
+     ],
+     [
+      "c",
+      "dr talk/neutral"
+     ],
+     [
+      "t",
+      "THE EXPERTS"
+     ]
+    ]
+   },
+   {
+    "text": "And the doctors had a diagnosis.",
+    "start": 2.25,
+    "end": 4.278,
+    "tags": []
+   },
+   {
+    "text": "Hot blood.",
+    "start": 4.498,
+    "end": 5.339,
+    "tags": []
+   },
+   {
+    "text": "Medical theory at the time said overheated blood could cause madness.",
+    "start": 5.839,
+    "end": 10.553,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The cure was not bleeding the patient.",
+    "start": 10.773,
+    "end": 12.752,
+    "tags": []
+   },
+   {
+    "text": "The cure was letting them sweat it out.",
+    "start": 12.972,
+    "end": 14.831,
+    "tags": []
+   },
+   {
+    "text": "In other words, the medical advice for people who could not stop dancing was.",
+    "start": 15.331,
+    "end": 20.088,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ],
+     [
+      "z",
+      ""
+     ]
+    ]
+   },
+   {
+    "text": "More dancing.",
+    "start": 20.308,
+    "end": 21.255,
+    "tags": []
+   },
+   {
+    "text": "I want you to sit with that for a second.",
+    "start": 22.055,
+    "end": 24.068,
+    "tags": [
+     [
+      "p",
+      "0.3"
+     ],
+     [
+      "a",
+      "facepalm/deadpan"
+     ],
+     [
+      "s",
+      "crickets"
+     ]
+    ]
+   }
+  ],
+  "duration": 25.168
+ },
+ {
+  "id": "s07",
+  "bg": "plague/bg/stage.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "And the council went all in.",
+    "start": 0.3,
+    "end": 1.813,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.55,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "mu=keeper@0.62,0.86,0.05"
+     ],
+     [
+      "c",
+      "mu arms_wide/laugh"
+     ],
+     [
+      "c",
+      "d1=woman@0.4,0.88,0.05"
+     ],
+     [
+      "c",
+      "d1 jump/scared"
+     ],
+     [
+      "t",
+      "THE WORST CURE"
+     ]
+    ]
+   },
+   {
+    "text": "The carpenters' and tanners' guild halls were turned into dance halls.",
+    "start": 2.313,
+    "end": 6.486,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A wooden stage went up in the horse market, and another in the grain market.",
+    "start": 6.706,
+    "end": 11.027,
+    "tags": []
+   },
+   {
+    "text": "They hired musicians.",
+    "start": 11.527,
+    "end": 12.861,
+    "tags": [
+     [
+      "a",
+      "talk/smug"
+     ]
+    ]
+   },
+   {
+    "text": "Pipes and drums.",
+    "start": 13.081,
+    "end": 14.147,
+    "tags": []
+   },
+   {
+    "text": "They even paid strong, healthy people to dance alongside the sick and hold them up when they got tired.",
+    "start": 14.367,
+    "end": 20.48,
+    "tags": []
+   },
+   {
+    "text": "The city basically invented the world's first viral dance challenge.",
+    "start": 20.98,
+    "end": 25.235,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "With government funding.",
+    "start": 25.455,
+    "end": 26.713,
+    "tags": []
+   },
+   {
+    "text": "It did not work.",
+    "start": 27.213,
+    "end": 28.314,
+    "tags": [
+     [
+      "a",
+      "lean_in/sad"
+     ],
+     [
+      "s",
+      "sting"
+     ]
+    ]
+   },
+   {
+    "text": "The music drew crowds.",
+    "start": 28.534,
+    "end": 29.936,
+    "tags": []
+   },
+   {
+    "text": "The crowds drew more dancers.",
+    "start": 30.156,
+    "end": 31.892,
+    "tags": []
+   },
+   {
+    "text": "And the dancing spread faster than ever.",
+    "start": 32.112,
+    "end": 34.184,
+    "tags": []
+   }
+  ],
+  "duration": 35.284
+ },
+ {
+  "id": "s08",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "Now here's a question you should be asking.",
+    "start": 0.3,
+    "end": 2.644,
+    "tags": [
+     [
+      "a",
+      "think/suspicious"
+     ],
+     [
+      "t",
+      "WHY DID IT SPREAD?"
+     ]
+    ]
+   },
+   {
+    "text": "Why would watching people dance make you start dancing?",
+    "start": 2.864,
+    "end": 5.875,
+    "tags": []
+   },
+   {
+    "text": "The answer has a name.",
+    "start": 6.375,
+    "end": 7.722,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Saint Vitus.",
+    "start": 7.942,
+    "end": 8.809,
+    "tags": []
+   },
+   {
+    "text": "People in this region believed that Saint Vitus could punish sinners by forcing them to dance.",
+    "start": 9.309,
+    "end": 14.801,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "A curse, basically.",
+    "start": 15.021,
+    "end": 16.277,
+    "tags": []
+   },
+   {
+    "text": "And there had already been more than ten dancing outbreaks along the Rhine and Moselle rivers since thirteen seventy four.",
+    "start": 16.497,
+    "end": 23.662,
+    "tags": []
+   },
+   {
+    "text": "So if you are starving, terrified, and you believe a saint might curse you into dancing.",
+    "start": 24.162,
+    "end": 29.511,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "And then you see your neighbour dancing.",
+    "start": 29.731,
+    "end": 31.512,
+    "tags": []
+   },
+   {
+    "text": "Uncontrollably.",
+    "start": 31.732,
+    "end": 32.82,
+    "tags": []
+   },
+   {
+    "text": "In public.",
+    "start": 33.04,
+    "end": 33.872,
+    "tags": []
+   },
+   {
+    "text": "Your brain does not think, interesting.",
+    "start": 34.372,
+    "end": 36.479,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "Your brain thinks, oh no, it's my turn.",
+    "start": 36.699,
+    "end": 38.902,
+    "tags": []
+   },
+   {
+    "text": "And that is not even the strangest part of this story.",
+    "start": 39.402,
+    "end": 42.182,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   }
+  ],
+  "duration": 43.282
+ },
+ {
+  "id": "s09",
+  "bg": "plague/bg/square.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "When the stages backfired, the council did a complete U turn.",
+    "start": 0.3,
+    "end": 4.191,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.6,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "co=official@0.45,0.88,0.05"
+     ],
+     [
+      "c",
+      "co hands_hips/angry"
+     ],
+     [
+      "t",
+      "MUSIC: BANNED"
+     ]
+    ]
+   },
+   {
+    "text": "They tore the stages down.",
+    "start": 4.691,
+    "end": 6.243,
+    "tags": [
+     [
+      "a",
+      "point_l/shocked"
+     ]
+    ]
+   },
+   {
+    "text": "They banned public dancing.",
+    "start": 6.463,
+    "end": 8.005,
+    "tags": []
+   },
+   {
+    "text": "They banned almost all music until the end of September.",
+    "start": 8.225,
+    "end": 11.511,
+    "tags": []
+   },
+   {
+    "text": "There was one exception.",
+    "start": 12.011,
+    "end": 13.267,
+    "tags": [
+     [
+      "a",
+      "talk/smug"
+     ]
+    ]
+   },
+   {
+    "text": "Weddings and religious celebrations could still have music.",
+    "start": 13.487,
+    "end": 17.19,
+    "tags": []
+   },
+   {
+    "text": "But only quietly, at home, with stringed instruments.",
+    "start": 17.41,
+    "end": 20.592,
+    "tags": []
+   },
+   {
+    "text": "No drums.",
+    "start": 20.812,
+    "end": 21.703,
+    "tags": []
+   },
+   {
+    "text": "No tambourines.",
+    "start": 21.923,
+    "end": 23.103,
+    "tags": []
+   },
+   {
+    "text": "Fifteen eighteen.",
+    "start": 23.603,
+    "end": 24.77,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ],
+     [
+      "s",
+      "boing"
+     ]
+    ]
+   },
+   {
+    "text": "The only year in history where the drummer got cancelled by the city.",
+    "start": 24.99,
+    "end": 29.158,
+    "tags": []
+   }
+  ],
+  "duration": 30.258
+ },
+ {
+  "id": "s10",
+  "bg": "plague/bg/shrine.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "So they tried the other approach.",
+    "start": 0.3,
+    "end": 2.1,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "c",
+      "pr=judge@0.7,0.86,0.05"
+     ],
+     [
+      "c",
+      "pr talk/neutral"
+     ],
+     [
+      "c",
+      "d1=woman@0.35,0.86,0.05"
+     ],
+     [
+      "c",
+      "d1 idle/sad"
+     ],
+     [
+      "t",
+      "THE RED SHOES"
+     ]
+    ]
+   },
+   {
+    "text": "Religion.",
+    "start": 2.32,
+    "end": 3.041,
+    "tags": []
+   },
+   {
+    "text": "The worst cases were loaded onto wagons and taken to the shrine of Saint Vitus at Saverne, a trip of about three days.",
+    "start": 3.541,
+    "end": 11.164,
+    "tags": [
+     [
+      "a",
+      "point_l/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "There, priests placed them under a wooden statue of the saint, gave them small crosses, and put red shoes on their feet.",
+    "start": 11.664,
+    "end": 18.951,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Shoes sprinkled with holy water and marked with crosses of oil.",
+    "start": 19.171,
+    "end": 23.171,
+    "tags": []
+   },
+   {
+    "text": "And here's the thing.",
+    "start": 23.671,
+    "end": 24.752,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "It seems to have worked.",
+    "start": 24.972,
+    "end": 26.295,
+    "tags": []
+   },
+   {
+    "text": "Within a few weeks, the dancing faded.",
+    "start": 26.515,
+    "end": 28.727,
+    "tags": []
+   },
+   {
+    "text": "By early September, it was over.",
+    "start": 28.947,
+    "end": 30.862,
+    "tags": []
+   },
+   {
+    "text": "Which, if it really was about fear of Saint Vitus, makes a lot of sense.",
+    "start": 31.362,
+    "end": 35.858,
+    "tags": [
+     [
+      "a",
+      "think/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "The fear started it.",
+    "start": 36.078,
+    "end": 37.226,
+    "tags": []
+   },
+   {
+    "text": "The forgiveness ended it.",
+    "start": 37.446,
+    "end": 38.759,
+    "tags": []
+   }
+  ],
+  "duration": 39.859
+ },
+ {
+  "id": "s11",
+  "bg": "plague/bg/street_night.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "Now.",
+    "start": 0.3,
+    "end": 0.829,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.06,0,0"
+     ],
+     [
+      "a",
+      "idle/sad"
+     ],
+     [
+      "t",
+      "HOW MANY DIED?"
+     ]
+    ]
+   },
+   {
+    "text": "The darkest claim in this story.",
+    "start": 1.049,
+    "end": 2.666,
+    "tags": []
+   },
+   {
+    "text": "That people danced themselves to death.",
+    "start": 2.886,
+    "end": 4.913,
+    "tags": []
+   },
+   {
+    "text": "Some later accounts say that at the peak, up to fifteen people died every day.",
+    "start": 5.413,
+    "end": 10.289,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "That number gets repeated everywhere online.",
+    "start": 10.509,
+    "end": 13.127,
+    "tags": []
+   },
+   {
+    "text": "But the city's own records from the time do not mention any deaths at all.",
+    "start": 13.627,
+    "end": 18.148,
+    "tags": [
+     [
+      "a",
+      "point_up/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "The big numbers come from chronicles written later.",
+    "start": 18.368,
+    "end": 21.004,
+    "tags": []
+   },
+   {
+    "text": "So it's possible some people died of exhaustion or heart failure.",
+    "start": 21.504,
+    "end": 25.568,
+    "tags": [
+     [
+      "a",
+      "talk/sad"
+     ]
+    ]
+   },
+   {
+    "text": "But nobody knows how many.",
+    "start": 25.788,
+    "end": 27.422,
+    "tags": []
+   },
+   {
+    "text": "And the famous figure may be exaggerated.",
+    "start": 27.642,
+    "end": 30.143,
+    "tags": []
+   }
+  ],
+  "duration": 31.243
+ },
+ {
+  "id": "s12",
+  "bg": "mc/bg/study.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "About eight years later, a famous and famously arrogant doctor named Paracelsus visited Strasbourg and wrote about it.",
+    "start": 0.3,
+    "end": 7.816,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.5,1.0,1.04,0,0"
+     ],
+     [
+      "c",
+      "pa=writer@0.4,0.86,0.05"
+     ],
+     [
+      "c",
+      "pa point_r/smug"
+     ],
+     [
+      "t",
+      "PARACELSUS"
+     ]
+    ]
+   },
+   {
+    "text": "His diagnosis of Frau Troffea?",
+    "start": 8.316,
+    "end": 10.467,
+    "tags": [
+     [
+      "a",
+      "point_l/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "She was not sick.",
+    "start": 10.687,
+    "end": 11.764,
+    "tags": []
+   },
+   {
+    "text": "She was doing it on purpose.",
+    "start": 11.984,
+    "end": 13.7,
+    "tags": []
+   },
+   {
+    "text": "To annoy her husband.",
+    "start": 13.92,
+    "end": 15.222,
+    "tags": []
+   },
+   {
+    "text": "And the other women, he said, copied her.",
+    "start": 15.722,
+    "end": 17.986,
+    "tags": [
+     [
+      "c",
+      "pa arms_wide/laugh"
+     ],
+     [
+      "a",
+      "lean_in/shocked"
+     ]
+    ]
+   },
+   {
+    "text": "Also to annoy their husbands.",
+    "start": 18.206,
+    "end": 20.046,
+    "tags": []
+   },
+   {
+    "text": "Paracelsus, ladies and gentlemen.",
+    "start": 20.846,
+    "end": 23.1,
+    "tags": [
+     [
+      "p",
+      "0.3"
+     ],
+     [
+      "a",
+      "facepalm/deadpan"
+     ],
+     [
+      "s",
+      "crickets"
+     ]
+    ]
+   },
+   {
+    "text": "Brilliant chemist.",
+    "start": 23.32,
+    "end": 24.37,
+    "tags": []
+   },
+   {
+    "text": "Terrible marriage counsellor.",
+    "start": 24.59,
+    "end": 26.121,
+    "tags": []
+   }
+  ],
+  "duration": 27.221
+ },
+ {
+  "id": "s13",
+  "bg": "plague/bg/board.png",
+  "layout": "story",
+  "sentences": [
+   {
+    "text": "So what really happened?",
+    "start": 0.3,
+    "end": 1.659,
+    "tags": [
+     [
+      "cam",
+      "0.5,0.45,1.0,1.04,0,0"
+     ],
+     [
+      "t",
+      "THEORY 1: POISON"
+     ]
+    ]
+   },
+   {
+    "text": "Modern theories.",
+    "start": 1.879,
+    "end": 2.94,
+    "tags": []
+   },
+   {
+    "text": "Theory one.",
+    "start": 3.16,
+    "end": 4.042,
+    "tags": []
+   },
+   {
+    "text": "Ergot poisoning.",
+    "start": 4.262,
+    "end": 5.318,
+    "tags": []
+   },
+   {
+    "text": "Ergot is a fungus that grows on damp rye.",
+    "start": 5.818,
+    "end": 8.486,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "It contains chemicals related to LSD, and it can cause hallucinations and convulsions.",
+    "start": 8.707,
+    "end": 14.71,
+    "tags": []
+   },
+   {
+    "text": "Sounds perfect.",
+    "start": 15.21,
+    "end": 16.257,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "One problem.",
+    "start": 16.477,
+    "end": 17.431,
+    "tags": []
+   },
+   {
+    "text": "Ergot also cuts off blood flow to your arms and legs.",
+    "start": 17.651,
+    "end": 20.969,
+    "tags": []
+   },
+   {
+    "text": "People poisoned with it could barely walk, never mind dance for days.",
+    "start": 21.189,
+    "end": 25.594,
+    "tags": []
+   },
+   {
+    "text": "Theory two.",
+    "start": 26.094,
+    "end": 27.016,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ],
+     [
+      "t",
+      "THEORY 2: MASS PANIC"
+     ]
+    ]
+   },
+   {
+    "text": "The one most historians favour today, argued by historian John Waller.",
+    "start": 27.236,
+    "end": 31.988,
+    "tags": []
+   },
+   {
+    "text": "Mass psychogenic illness.",
+    "start": 32.488,
+    "end": 34.13,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Extreme stress, hunger and fear, plus a shared belief in a dancing curse, pushed people into a kind of trance.",
+    "start": 34.35,
+    "end": 41.492,
+    "tags": []
+   },
+   {
+    "text": "And trances spread.",
+    "start": 41.712,
+    "end": 42.903,
+    "tags": []
+   },
+   {
+    "text": "It sounds strange, but it has happened in modern times too.",
+    "start": 43.403,
+    "end": 47.047,
+    "tags": [
+     [
+      "a",
+      "point_l/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "In nineteen sixty two, a laughing epidemic in Tanganyika, now Tanzania, spread through schools and villages for months.",
+    "start": 47.267,
+    "end": 55.746,
+    "tags": []
+   }
+  ],
+  "duration": 56.846
+ },
+ {
+  "id": "s14",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So here's the honest version.",
+    "start": 0.3,
+    "end": 2.025,
+    "tags": [
+     [
+      "a",
+      "talk/neutral"
+     ],
+     [
+      "t",
+      "DOCUMENTED vs LEGEND"
+     ]
+    ]
+   },
+   {
+    "text": "Documented.",
+    "start": 2.525,
+    "end": 3.463,
+    "tags": [
+     [
+      "a",
+      "point_up/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "In the summer of fifteen eighteen, a large number of people in Strasbourg danced uncontrollably for weeks.",
+    "start": 3.683,
+    "end": 10.211,
+    "tags": []
+   },
+   {
+    "text": "The council built stages and hired musicians, then banned music.",
+    "start": 10.431,
+    "end": 14.733,
+    "tags": []
+   },
+   {
+    "text": "Dancers were sent to the shrine of Saint Vitus.",
+    "start": 14.953,
+    "end": 17.569,
+    "tags": []
+   },
+   {
+    "text": "By September, it ended.",
+    "start": 17.789,
+    "end": 19.22,
+    "tags": []
+   },
+   {
+    "text": "Legend.",
+    "start": 19.72,
+    "end": 20.45,
+    "tags": [
+     [
+      "a",
+      "shrug/deadpan"
+     ]
+    ]
+   },
+   {
+    "text": "That it was definitely ergot.",
+    "start": 20.67,
+    "end": 22.196,
+    "tags": []
+   },
+   {
+    "text": "That exactly fifteen people a day died.",
+    "start": 22.416,
+    "end": 24.772,
+    "tags": []
+   },
+   {
+    "text": "And that Frau Troffea was just trying to win an argument with her husband.",
+    "start": 24.992,
+    "end": 29.177,
+    "tags": []
+   },
+   {
+    "text": "What it really shows is how fear can move a whole crowd.",
+    "start": 29.677,
+    "end": 32.772,
+    "tags": [
+     [
+      "a",
+      "lean_in/neutral"
+     ]
+    ]
+   },
+   {
+    "text": "Literally.",
+    "start": 32.992,
+    "end": 33.716,
+    "tags": []
+   },
+   {
+    "text": "And honestly?",
+    "start": 34.216,
+    "end": 35.158,
+    "tags": [
+     [
+      "a",
+      "think/smug"
+     ]
+    ]
+   },
+   {
+    "text": "A town that's starving, sick and scared, dancing because the world feels completely out of control.",
+    "start": 35.378,
+    "end": 41.839,
+    "tags": []
+   },
+   {
+    "text": "Scroll your feed today.",
+    "start": 42.059,
+    "end": 43.494,
+    "tags": []
+   },
+   {
+    "text": "That trend never really went away.",
+    "start": 43.714,
+    "end": 45.741,
+    "tags": []
+   }
+  ],
+  "duration": 46.841
+ },
+ {
+  "id": "s15",
+  "bg": "room",
+  "layout": "host",
+  "sentences": [
+   {
+    "text": "So, your verdict.",
+    "start": 0.3,
+    "end": 1.412,
+    "tags": [
+     [
+      "a",
+      "lean_in/suspicious"
+     ]
+    ]
+   },
+   {
+    "text": "Poison, panic, or Paracelsus was right and it was all a marriage argument?",
+    "start": 1.632,
+    "end": 6.808,
+    "tags": []
+   },
+   {
+    "text": "Tell me in the comments.",
+    "start": 7.308,
+    "end": 8.552,
+    "tags": [
+     [
+      "a",
+      "point_r/smug"
+     ]
+    ]
+   },
+   {
+    "text": "I'm going with panic.",
+    "start": 8.772,
+    "end": 10.008,
+    "tags": []
+   },
+   {
+    "text": "Mostly because I'd never survive a three day dance off.",
+    "start": 10.228,
+    "end": 13.856,
+    "tags": []
+   },
+   {
+    "text": "If you like true stories that history never quite finished, subscribe.",
+    "start": 14.356,
+    "end": 18.435,
+    "tags": [
+     [
+      "a",
+      "wave/smug"
+     ],
+     [
+      "s",
+      "ding"
+     ]
+    ]
+   },
+   {
+    "text": "I'm Archie, this is The Quiet Archive, and I'll see you in the next file.",
+    "start": 18.655,
+    "end": 23.037,
+    "tags": []
+   }
+  ],
+  "duration": 24.137
+ }
+]

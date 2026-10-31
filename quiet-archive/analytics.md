@@ -17,6 +17,13 @@ Benchmarks: CTR new channel 2–5% (goal ≥5%), long-form AVD ≥40%, first-30 
 | Date | Subs | Views (28d) | Watch hours (365d, public long-form) | Shorts views (90d) |
 |---|---|---|---|---|
 | 2026-10-29 02:30 | 2 | ~0 (nothing public yet) | 0 | 0 |
+| 2026-10-31 20:30 | 3 | 727 (28 d; 688 in last 48 h) — Shorts 651 (89.5%), long 76 | 2.3 h | +3 |
+
+### 2026-10-31 review
+- Long-form packaging: 1.5K impressions, **CTR 1.6%** (target ≥4%), 57% of impressions from suggested. Main problem = CTR.
+- Long-form retention: Ghost Ship (v2 doc style) AVD 1:13 = 9.9%; Flannan (v2) 2:55 = 18%; Mary Celeste (Archie v3) 3:54 = **40.2%** (1 view only). → Archie format holds viewers ~3x better; keep v3 only.
+- Shorts: Tea Story 200 views (36% viewed), Red-Haired 160 (71%!), Bottle 148 (54%), Sailed 91→159 (42–46%), Keepers 43 (30%), Logbook 9 (51%). Traffic 85.7% Shorts feed, search 3.3%.
+- Decisions: (1) every Short links to its long-form (description first line + "Video có liên quan"); 7 linked today. (2) A/B title+thumb on every long; read winners after ≥1K impressions. (3) Trend hooks + denser jokes in cold opens. (4) Red-Haired-style Shorts (a strange character + a reveal) beat myth-busting ones on retention — make more "mystery person" Shorts.
 
 ## Competitor reference
 - Thoughty2, "Why Was this Huge Ship Found With Nobody On-Board?" (Mary Celeste): 4.2M views, 21:05, question title without the ship's name.
