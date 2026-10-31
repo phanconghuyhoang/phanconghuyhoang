@@ -1,10 +1,10 @@
 # Published episodes
 
 > **SLOT STATUS (updated 2026-10-31 21:00 VN) — read this before producing anything.**
-> Filled: 10-31 23:00 Franklin · 11-01 03:00 Roanoke, 06:00/09:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
+> Filled: 11-01 03:00 Roanoke, 06:00/09:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
 > 11-03 03:00 Earhart, 06:00/09:00 Shorts · 11-04 03:00 Oak Island, 06:00/09:00 Shorts.
-> Filled 11-02 21:00 Centralia (rHcp9gVC9Hc); 11-05 06:00 RXnyyYUdRMY, 09:00 ooSf5VlZZXw.
-> Still empty: 11-03 21:00, 11-04 21:00, 11-05 03:00 and 21:00 (long-forms). TODO when public: link Shorts RXnyyYUdRMY→wGIVJYrnUPY, ooSf5VlZZXw→rHcp9gVC9Hc, Flight19/Earhart/Oak Shorts → their longs. Max scheduling horizon = today + 5 days.
+> Filled 11-02 21:00 Centralia (rHcp9gVC9Hc); 11-05 03:00 Franklin zzNc14XiLuI (moved from 10-31 23:00 on 31/10 21:35), 06:00 RXnyyYUdRMY, 09:00 ooSf5VlZZXw.
+> Still empty: 11-03 21:00, 11-04 21:00, 11-05 21:00 (long-forms, each ≥ 8:30). TODO when public: link Shorts RXnyyYUdRMY→wGIVJYrnUPY, ooSf5VlZZXw→rHcp9gVC9Hc, Flight19/Earhart/Oak Shorts → their longs. Max scheduling horizon = today + 5 days.
 
 | Ep | Publish (Asia/Saigon) | Title | Video id | Topic | 48 h | 7 d |
 |---|---|---|---|---|---|---|
