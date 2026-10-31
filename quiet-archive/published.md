@@ -4,7 +4,7 @@
 > Filled: 11-01 03:00 Roanoke, 06:00/09:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
 > 11-03 03:00 Earhart, 06:00/09:00 Shorts · 11-04 03:00 Oak Island, 06:00/09:00 Shorts.
 > Filled 11-02 21:00 Centralia (rHcp9gVC9Hc); 11-05 03:00 Franklin zzNc14XiLuI (moved from 10-31 23:00 on 31/10 21:35), 06:00 RXnyyYUdRMY, 09:00 ooSf5VlZZXw.
-> Still empty: 11-03 21:00, 11-04 21:00, 11-05 21:00 (long-forms, each ≥ 8:30). TODO when public: link Shorts RXnyyYUdRMY→wGIVJYrnUPY, ooSf5VlZZXw→rHcp9gVC9Hc, Flight19/Earhart/Oak Shorts → their longs. Max scheduling horizon = today + 5 days.
+> Filled 11-03 21:00 Tunguska fG_wVbk8duE. Still empty: 11-04 21:00 (Kaspar Hauser rendering), 11-05 21:00 (Ourang Medan queued) (long-forms, each ≥ 8:30). TODO when public: link Shorts RXnyyYUdRMY→wGIVJYrnUPY, ooSf5VlZZXw→rHcp9gVC9Hc, Flight19/Earhart/Oak Shorts → their longs. Max scheduling horizon = today + 5 days.
 
 | Ep | Publish (Asia/Saigon) | Title | Video id | Topic | 48 h | 7 d |
 |---|---|---|---|---|---|---|
@@ -59,3 +59,4 @@
 - rHcp9gVC9Hc — "Centralia: The Town That Has Been Burning Since 1962" (Archie, 7:13, Long B) — 2026-11-02 21:00; A/B ce_a reaction / ce_b cinematic / ce_c question; paid promo = Không; captions uploaded
 - RXnyyYUdRMY — Short "The City That Cured Dancing With More Dancing" — 2026-11-05 06:00 (desc links Dancing Plague; link related video once public 11-01 21:00)
 - ooSf5VlZZXw — Short "The Backyard That Opened Into a Fire" — 2026-11-05 09:00 (desc links Centralia; link related video once public 11-02 21:00)
+- fG_wVbk8duE — "Tunguska 1908: The Explosion That Flattened a Forest and Left No Crater" (Archie, 10:07, Long B) — 2026-11-03 21:00; A/B tu_a/tu_b/tu_c; captions; paid promo Không; AI Có
