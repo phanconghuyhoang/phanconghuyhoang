@@ -36,4 +36,5 @@ Each long-form runs YouTube "Tiêu đề và hình thu nhỏ" A/B with 3 differe
 |---|---|---|---|---|---|
 | zCguWAnmsbw Mary Celeste | reaction + "Mary Celeste: Why Did 10 People Abandon a Perfectly Good Ship?" | cinematic + "A Ship Was Found Sailing Itself. All 10 People Were Gone." | evidence + "The Ghost Ship Story Everyone Gets Wrong" | | |
 | mfd4aevUc7w Roanoke | reaction + "Roanoke: 115 People Vanished and Left a One-Word Clue" | cinematic + "115 Colonists Vanished. All They Left Was One Word." | evidence + "The Clue Everyone Ignores About the Lost Colony" | | |
+| wGIVJYrnUPY Dancing Plague | reaction "DANCED FOR WEEKS" + "The Dancing Plague of 1518: The Town That Couldn't Stop Dancing" | cinematic "RED SHOES" + "400 People Danced for Weeks. The Cure Was More Dancing." | question "WHY?" + "Was the Dancing Plague Real? What the Records Say" | | |
 | E4QHr2gohVw Flight 19 | reaction + "Flight 19: The Disappearance That Created the Bermuda Triangle" | cinematic + "5 Navy Planes Vanished in 1945. Here's What the Radio Heard" | question + "The Pilot Who Was Sure He Knew Where He Was" | | |

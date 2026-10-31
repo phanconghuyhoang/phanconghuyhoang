@@ -43,3 +43,4 @@
 - v6k7tVI7jK0 — Short "She Was Right Next to the Island and Never Saw It" — 2026-11-03 06:00 (desc links Earhart long)
 - VRCxsDMjzwU — Short "The Earhart Photo Taken 2 Years Too Early" — 2026-11-03 09:00
 - QshpO_-bUFc — "Oak Island: 200 Years of Digging and Still No Treasure" (Archie, 7:10) — 2026-11-04 03:00; A/B oak_a reaction / oak_b cinematic / oak_c evidence
+- wGIVJYrnUPY — "The Dancing Plague of 1518: The Town That Couldn't Stop Dancing" (Archie, 8:33, Long B) — 2026-11-01 21:00; A/B pl_a reaction / pl_b cinematic / pl_c question
