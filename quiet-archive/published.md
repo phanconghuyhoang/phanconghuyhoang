@@ -1,10 +1,15 @@
 # Published episodes
 
-> **SLOT STATUS (updated 2026-10-31 21:00 VN) — read this before producing anything.**
-> Filled: 11-01 03:00 Roanoke, 06:00/09:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
-> 11-03 03:00 Earhart, 06:00/09:00 Shorts · 11-04 03:00 Oak Island, 06:00/09:00 Shorts.
-> Filled 11-02 21:00 Centralia (rHcp9gVC9Hc); 11-05 03:00 Franklin zzNc14XiLuI (moved from 10-31 23:00 on 31/10 21:35), 06:00 RXnyyYUdRMY, 09:00 ooSf5VlZZXw.
-> Filled 11-03 21:00 Tunguska fG_wVbk8duE. Still empty: 11-04 21:00 (Kaspar Hauser rendering), 11-05 21:00 (Ourang Medan queued) (long-forms, each ≥ 8:30). TODO when public: link Shorts RXnyyYUdRMY→wGIVJYrnUPY, ooSf5VlZZXw→rHcp9gVC9Hc, Flight19/Earhart/Oak Shorts → their longs. Max scheduling horizon = today + 5 days.
+> **SLOT STATUS (updated 2026-11-01 00:40 VN) — read this before producing anything. ALL slots filled through 2026-11-05.**
+> | Date | 03:00 long | 06:00 Short | 09:00 Short | 21:00 long |
+> |---|---|---|---|---|
+> | 11-01 | Roanoke mfd4aevUc7w | cIiFLJ7o-1Y | iG6SHaSWeic | Dancing Plague wGIVJYrnUPY |
+> | 11-02 | Flight 19 E4QHr2gohVw | q-EJNmpVuv8 | ND952hR9iYQ | Centralia rHcp9gVC9Hc |
+> | 11-03 | Earhart z0vo0EDeJaQ | v6k7tVI7jK0 | VRCxsDMjzwU | Tunguska fG_wVbk8duE |
+> | 11-04 | Oak Island QshpO_-bUFc | 6JND509uEiU | IMr7_hNshms | Kaspar Hauser 3lfotMbTjM8 |
+> | 11-05 | Franklin zzNc14XiLuI | RXnyyYUdRMY | ooSf5VlZZXw | Ourang Medan HMcEITmG6U8 |
+> Next to produce: 11-06 (4 slots) — allowed from 11-01 (5-day horizon). First 5-day review: 11-05.
+> TODO when longs go public: link Shorts → longs (cure→Dancing Plague, sinkhole→Centralia, Flight19/Earhart/Oak Shorts → their longs).
 
 | Ep | Publish (Asia/Saigon) | Title | Video id | Topic | 48 h | 7 d |
 |---|---|---|---|---|---|---|
@@ -60,3 +65,5 @@
 - RXnyyYUdRMY — Short "The City That Cured Dancing With More Dancing" — 2026-11-05 06:00 (desc links Dancing Plague; link related video once public 11-01 21:00)
 - ooSf5VlZZXw — Short "The Backyard That Opened Into a Fire" — 2026-11-05 09:00 (desc links Centralia; link related video once public 11-02 21:00)
 - fG_wVbk8duE — "Tunguska 1908: The Explosion That Flattened a Forest and Left No Crater" (Archie, 10:07, Long B) — 2026-11-03 21:00; A/B tu_a/tu_b/tu_c; captions; paid promo Không; AI Có
+- 3lfotMbTjM8 — "Kaspar Hauser: The Boy Who Came Out of Nowhere" (Archie, 9:37, Long B) — 2026-11-04 21:00; A/B ha_a/ha_b/ha_c
+- HMcEITmG6U8 — "Ourang Medan: The Death Ship That May Never Have Existed" (Archie, 9:45, Long B) — 2026-11-05 21:00; A/B ou_a/ou_b/ou_c
