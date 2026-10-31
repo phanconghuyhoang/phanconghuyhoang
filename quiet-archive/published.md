@@ -3,8 +3,8 @@
 > **SLOT STATUS (updated 2026-10-31 21:00 VN) — read this before producing anything.**
 > Filled: 10-31 23:00 Franklin · 11-01 03:00 Roanoke, 06:00/09:00 Shorts, 21:00 Dancing Plague · 11-02 03:00 Flight 19, 06:00/09:00 Shorts ·
 > 11-03 03:00 Earhart, 06:00/09:00 Shorts · 11-04 03:00 Oak Island, 06:00/09:00 Shorts.
-> Filled 11-02 21:00 Centralia (rHcp9gVC9Hc). In production: Shorts v3s/cure + v3s/sinkhole → 11-05 06:00/09:00.
-> Still empty: 11-03 21:00, 11-04 21:00, 11-05 03:00 and 21:00. Max scheduling horizon = today + 5 days.
+> Filled 11-02 21:00 Centralia (rHcp9gVC9Hc); 11-05 06:00 RXnyyYUdRMY, 09:00 ooSf5VlZZXw.
+> Still empty: 11-03 21:00, 11-04 21:00, 11-05 03:00 and 21:00 (long-forms). TODO when public: link Shorts RXnyyYUdRMY→wGIVJYrnUPY, ooSf5VlZZXw→rHcp9gVC9Hc, Flight19/Earhart/Oak Shorts → their longs. Max scheduling horizon = today + 5 days.
 
 | Ep | Publish (Asia/Saigon) | Title | Video id | Topic | 48 h | 7 d |
 |---|---|---|---|---|---|---|
@@ -57,3 +57,5 @@
 - Franklin stays 10-31 23:00 (too late to move to 21:00).
 - 2026-10-31 21:15: set paid promotion = "Không" explicitly on all 23 videos (was unset); AI = Có confirmed on all.
 - rHcp9gVC9Hc — "Centralia: The Town That Has Been Burning Since 1962" (Archie, 7:13, Long B) — 2026-11-02 21:00; A/B ce_a reaction / ce_b cinematic / ce_c question; paid promo = Không; captions uploaded
+- RXnyyYUdRMY — Short "The City That Cured Dancing With More Dancing" — 2026-11-05 06:00 (desc links Dancing Plague; link related video once public 11-01 21:00)
+- ooSf5VlZZXw — Short "The Backyard That Opened Into a Fire" — 2026-11-05 09:00 (desc links Centralia; link related video once public 11-02 21:00)
