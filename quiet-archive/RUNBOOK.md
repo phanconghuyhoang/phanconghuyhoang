@@ -61,7 +61,7 @@ or an irreversible decision such as deleting a video or renaming the channel).
 ## Account status (check every run)
 - Phone verification (youtube.com/verify) is required for: custom thumbnails and A/B tests, videos longer than 15 min,
   clickable links in descriptions, and linking a Short to a related video. Only the owner can do it (phone + SMS code).
-- Until it is done: keep long-form at 14:30 max, pick the best of the 3 auto frames as thumbnail, and re-apply the custom
+- 2026-10-31: owner confirmed the channel IS verified → long-forms ≥ 8:30, no upper limit (see DAILY.md). Old note: until it is done: keep long-form at 14:30 max, pick the best of the 3 auto frames as thumbnail, and re-apply the custom
   thumbnails (`epNN/thumbnail*.jpg`) and related-video links as soon as verification is detected.
 - Test for verification: on a video's edit page, set the custom thumbnail file input; if "Save" stays disabled the
   channel is not verified yet.
